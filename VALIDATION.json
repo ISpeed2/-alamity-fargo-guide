@@ -1,0 +1,14 @@
+{
+  "rows": 340,
+  "classes": 5,
+  "unique_items": 261,
+  "bosses_and_events": 66,
+  "all_rows_before_target": true,
+  "no_self_drop_dependencies": true,
+  "no_later_boss_dependencies": true,
+  "wall_uses_statigel_for_all_classes": true,
+  "russian_item_names_and_descriptions": true,
+  "accessory_slot_counts_checked": true,
+  "expert_slot_uses_expert_items_only": true,
+  "game_runtime_tested": false
+}

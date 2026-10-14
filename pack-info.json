@@ -1,0 +1,270 @@
+{
+  "tmodloader": "2026.8.3.0",
+  "mods": [
+    {
+      "id": "AlchemistNPCLite",
+      "version": "1.9.9",
+      "enabled": true
+    },
+    {
+      "id": "AltLibrary",
+      "version": "2.2.0.8",
+      "enabled": true
+    },
+    {
+      "id": "BetterRain",
+      "version": "1.2.0.0",
+      "enabled": true
+    },
+    {
+      "id": "BossChecklist",
+      "version": "2.2.4",
+      "enabled": true
+    },
+    {
+      "id": "BTitles",
+      "version": "2.8.6.1",
+      "enabled": true
+    },
+    {
+      "id": "CalamityMod",
+      "version": "2.2.4",
+      "enabled": true
+    },
+    {
+      "id": "CalamityModMusic",
+      "version": "2.1",
+      "enabled": true
+    },
+    {
+      "id": "CalamityRuTranslate",
+      "version": "3.2.1.151",
+      "enabled": true
+    },
+    {
+      "id": "Census",
+      "version": "0.5.2.8",
+      "enabled": true
+    },
+    {
+      "id": "ChatSource",
+      "version": "1.1.1.5",
+      "enabled": true
+    },
+    {
+      "id": "CraftableCalamityItems",
+      "version": "4.7.12",
+      "enabled": true
+    },
+    {
+      "id": "Daybreak",
+      "version": "2.4.0",
+      "enabled": true
+    },
+    {
+      "id": "EvilPylon",
+      "version": "2.2",
+      "enabled": true
+    },
+    {
+      "id": "expertaccessoryslot",
+      "version": "1.4",
+      "enabled": true
+    },
+    {
+      "id": "Fargowiltas",
+      "version": "3.3.6.7",
+      "enabled": true
+    },
+    {
+      "id": "FargowiltasCrossmod",
+      "version": "1.2.0.28",
+      "enabled": true
+    },
+    {
+      "id": "FargowiltasMusic",
+      "version": "0.1.7.3",
+      "enabled": true
+    },
+    {
+      "id": "FargowiltasSouls",
+      "version": "1.7.3.9",
+      "enabled": true
+    },
+    {
+      "id": "FasterUI",
+      "version": "1.0.1",
+      "enabled": true
+    },
+    {
+      "id": "HighFPSSupport",
+      "version": "0.6.6.5",
+      "enabled": true
+    },
+    {
+      "id": "HPAware",
+      "version": "1.0.6.1",
+      "enabled": true
+    },
+    {
+      "id": "ImprovedTorches",
+      "version": "1.4.7",
+      "enabled": true
+    },
+    {
+      "id": "ImproveGame",
+      "version": "1.8.2",
+      "enabled": true
+    },
+    {
+      "id": "InnoVault",
+      "version": "1.9.101",
+      "enabled": true
+    },
+    {
+      "id": "InventoryDrag",
+      "version": "1.1.1",
+      "enabled": true
+    },
+    {
+      "id": "KZ_VisualMod",
+      "version": "0.0.0.2",
+      "enabled": true
+    },
+    {
+      "id": "Lights",
+      "version": "1.4.2",
+      "enabled": true
+    },
+    {
+      "id": "LookMod",
+      "version": "1.3.4.1",
+      "enabled": true
+    },
+    {
+      "id": "LootBeams",
+      "version": "1.9.4.5",
+      "enabled": true
+    },
+    {
+      "id": "Luminance",
+      "version": "1.0.14",
+      "enabled": true
+    },
+    {
+      "id": "MagicStorage",
+      "version": "0.7.0.11",
+      "enabled": true
+    },
+    {
+      "id": "miningcracks_take_on_luiafk",
+      "version": "1.2.5",
+      "enabled": true
+    },
+    {
+      "id": "ModLiquidLib",
+      "version": "2026.10.0.0",
+      "enabled": true
+    },
+    {
+      "id": "OreExcavator",
+      "version": "0.8.9",
+      "enabled": true
+    },
+    {
+      "id": "ParticleLibrary",
+      "version": "3.2.1.0",
+      "enabled": true
+    },
+    {
+      "id": "PegasusLib",
+      "version": "1.1.4.3",
+      "enabled": true
+    },
+    {
+      "id": "PetsOverhaul",
+      "version": "3.9.4.3",
+      "enabled": true
+    },
+    {
+      "id": "RareDropNotification",
+      "version": "1.9.1",
+      "enabled": true
+    },
+    {
+      "id": "RealisticSky",
+      "version": "1.0.24",
+      "enabled": true
+    },
+    {
+      "id": "RecipeBrowser",
+      "version": "0.12.0.1",
+      "enabled": true
+    },
+    {
+      "id": "RecipeBrowserToMagicStorage",
+      "version": "1.0.0.15",
+      "enabled": true
+    },
+    {
+      "id": "Remnants",
+      "version": "2.1.0.4",
+      "enabled": true
+    },
+    {
+      "id": "SerousCommonLib",
+      "version": "1.0.6.2",
+      "enabled": true
+    },
+    {
+      "id": "ShorterRespawn",
+      "version": "1.2.1.1",
+      "enabled": true
+    },
+    {
+      "id": "SilkyUIFramework",
+      "version": "0.3.0",
+      "enabled": true
+    },
+    {
+      "id": "SubworldLibrary",
+      "version": "2.3.0.1",
+      "enabled": true
+    },
+    {
+      "id": "TerrariaAmbience",
+      "version": "0.3.7.1",
+      "enabled": true
+    },
+    {
+      "id": "TerrariaAmbienceAPI",
+      "version": "1.3.6.8",
+      "enabled": true
+    },
+    {
+      "id": "UnCalamityModMusic",
+      "version": "2.1.3",
+      "enabled": true
+    },
+    {
+      "id": "WeaponDisplay",
+      "version": "1.20.1",
+      "enabled": true
+    },
+    {
+      "id": "WingSlotExtra",
+      "version": "1.4.5",
+      "enabled": true
+    },
+    {
+      "id": "WombatQOL",
+      "version": "1.3.15.1",
+      "enabled": true
+    }
+  ],
+  "configNotes": [
+    "CalamityConfig: пустой объект — настройки по умолчанию; сложность мира не указана.",
+    "Fargo SoulConfig: MultiplayerRespawnPrevention = 2.",
+    "Файлов миров и персонажей в архиве нет; Eternity/Revengeance и прогресс не определены."
+  ]
+}
