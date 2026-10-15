@@ -68,9 +68,14 @@
       content.append(element('p','Состав: '+recipe.text+'.','recipe-content'));
       content.append(element('p','Станция: '+recipe.station+'.','recipe-content'));
     });
+    for(const method of item.otherWays || []) {
+      content.append(element('strong',method.label+' — отдельный способ','recipe-part'));
+      content.append(element('p',method.text,'recipe-content'));
+      if(method.requires.length) content.append(element('p','Для этого способа: '+method.requires.map(id=>bosses.find(b=>b.id===id)?.name || id).join(', ')+'.','item-prerequisites'));
+    }
     if(item.requires.length) {
       const names=item.requires.map(id=>bosses.find(b=>b.id===id)?.name || id);
-      content.append(element('p','Сначала: '+names.join(', ')+'.','item-prerequisites'));
+      content.append(element('p',(item.otherWays?.length ? 'Для основного способа: ' : 'Сначала: ')+names.join(', ')+'.','item-prerequisites'));
     }
     content.append(link('Страница предмета ↗',item.url));
     detail.append(content);return detail;

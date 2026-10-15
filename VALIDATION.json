@@ -1,7 +1,7 @@
 {
   "rows": 340,
   "classes": 5,
-  "unique_items": 299,
+  "unique_items": 301,
   "bosses_and_events": 66,
   "all_rows_before_target": true,
   "no_self_drop_dependencies": true,
@@ -16,5 +16,11 @@
   "video_transcripts_reviewed": 10,
   "game_runtime_tested": false,
   "ranged_accessory_alternatives_checked": true,
-  "summon_slot_caveats_checked": true
+  "summon_slot_caveats_checked": true,
+  "mod_non_recipe_items_with_source_evidence": 47,
+  "boss_bag_items_checked": 29,
+  "additional_methods": 36,
+  "murasama_use_gate_checked": true,
+  "cryophobia_shop_gate_checked": true,
+  "abyss_chest_unlock_checked": true
 }

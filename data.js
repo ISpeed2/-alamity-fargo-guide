@@ -5707,8 +5707,9 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
-        "Cryophobia",
-        "MeteorStaff"
+        "SnowstormStaff",
+        "MeteorStaff",
+        "CrystalSerpent"
       ],
       "armor": [
         "daedalus-magic"
@@ -5758,7 +5759,7 @@ window.GUIDE = {
         "cryogen"
       ],
       "cells": [
-        "Криофобия; Метеоритный посох",
+        "Посох снежной бури; Метеоритный посох; Кристальный змей",
         "Доспех Дедала — Капюшон Дедала",
         "Молниеносные ботинки; Украшенный щит; Амулет мифов; Звёздная завеса; Эмблема мага; Цветок маны; Усиление Дедала",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -6049,8 +6050,9 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
-        "Cryophobia",
-        "MeteorStaff"
+        "SnowstormStaff",
+        "MeteorStaff",
+        "CrystalSerpent"
       ],
       "armor": [
         "daedalus-magic"
@@ -6101,7 +6103,7 @@ window.GUIDE = {
         "baron"
       ],
       "cells": [
-        "Криофобия; Метеоритный посох",
+        "Посох снежной бури; Метеоритный посох; Кристальный змей",
         "Доспех Дедала — Капюшон Дедала",
         "Молниеносные ботинки; Украшенный щит; Амулет мифов; Звёздная завеса; Эмблема мага; Цветок маны; Усиление Дедала",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -6396,8 +6398,9 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
-        "Cryophobia",
-        "MeteorStaff"
+        "SnowstormStaff",
+        "MeteorStaff",
+        "CrystalSerpent"
       ],
       "armor": [
         "daedalus-magic"
@@ -6449,7 +6452,7 @@ window.GUIDE = {
         "aquatic"
       ],
       "cells": [
-        "Криофобия; Метеоритный посох",
+        "Посох снежной бури; Метеоритный посох; Кристальный змей",
         "Доспех Дедала — Капюшон Дедала",
         "Молниеносные ботинки; Украшенный щит; Амулет мифов; Звёздная завеса; Эмблема мага; Цветок маны; Усиление Дедала",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -6748,8 +6751,9 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
-        "Cryophobia",
-        "MeteorStaff"
+        "SnowstormStaff",
+        "MeteorStaff",
+        "CrystalSerpent"
       ],
       "armor": [
         "daedalus-magic"
@@ -6802,7 +6806,7 @@ window.GUIDE = {
         "brimstone"
       ],
       "cells": [
-        "Криофобия; Метеоритный посох",
+        "Посох снежной бури; Метеоритный посох; Кристальный змей",
         "Доспех Дедала — Капюшон Дедала",
         "Молниеносные ботинки; Украшенный щит; Амулет мифов; Звёздная завеса; Эмблема мага; Цветок маны; Усиление Дедала",
         "Прайм — третий мех; вещи, которым нужны эссенции всех трёх мехов, ещё исключены. Здесь уже доступны крафты Дедала после Криогена и двух предыдущих мехов. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -21062,6 +21066,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "MawOfInfinity",
+        "Murasama",
         "GreatswordofJudgement"
       ],
       "armor": [
@@ -21158,7 +21163,7 @@ window.GUIDE = {
         "dog"
       ],
       "cells": [
-        "Пасть бесконечности; Двуручный меч правосудия",
+        "Пасть бесконечности; Мурасама; Двуручный меч правосудия",
         "Доспех убийцы богов — Тяжёлый рогатый шлем богоубийцы",
         "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Элементальная рукавица; Эмблема воина; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Держи дистанцию оружием с дальним ударом. В ближний бой заходи только в безопасное окно. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -21655,6 +21660,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "MawOfInfinity",
+        "Murasama",
         "GreatswordofJudgement"
       ],
       "armor": [
@@ -21752,7 +21758,7 @@ window.GUIDE = {
         "timber-champion"
       ],
       "cells": [
-        "Пасть бесконечности; Двуручный меч правосудия",
+        "Пасть бесконечности; Мурасама; Двуручный меч правосудия",
         "Доспех убийцы богов — Тяжёлый рогатый шлем богоубийцы",
         "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Элементальная рукавица; Эмблема воина; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Держи дистанцию оружием с дальним ударом. В ближний бой заходи только в безопасное окно. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -22253,6 +22259,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "MawOfInfinity",
+        "Murasama",
         "GreatswordofJudgement"
       ],
       "armor": [
@@ -22351,7 +22358,7 @@ window.GUIDE = {
         "terra-champion"
       ],
       "cells": [
-        "Пасть бесконечности; Двуручный меч правосудия",
+        "Пасть бесконечности; Мурасама; Двуручный меч правосудия",
         "Доспех убийцы богов — Тяжёлый рогатый шлем богоубийцы",
         "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Элементальная рукавица; Эмблема воина; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Держи дистанцию оружием с дальним ударом. В ближний бой заходи только в безопасное окно. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -22856,6 +22863,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "MawOfInfinity",
+        "Murasama",
         "GreatswordofJudgement"
       ],
       "armor": [
@@ -22955,7 +22963,7 @@ window.GUIDE = {
         "earth-champion"
       ],
       "cells": [
-        "Пасть бесконечности; Двуручный меч правосудия",
+        "Пасть бесконечности; Мурасама; Двуручный меч правосудия",
         "Доспех убийцы богов — Тяжёлый рогатый шлем богоубийцы",
         "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Элементальная рукавица; Эмблема воина; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Держи дистанцию оружием с дальним ударом. В ближний бой заходи только в безопасное окно. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -23464,6 +23472,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "MawOfInfinity",
+        "Murasama",
         "GreatswordofJudgement"
       ],
       "armor": [
@@ -23564,7 +23573,7 @@ window.GUIDE = {
         "nature-champion"
       ],
       "cells": [
-        "Пасть бесконечности; Двуручный меч правосудия",
+        "Пасть бесконечности; Мурасама; Двуручный меч правосудия",
         "Доспех убийцы богов — Тяжёлый рогатый шлем богоубийцы",
         "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Элементальная рукавица; Эмблема воина; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Держи дистанцию оружием с дальним ударом. В ближний бой заходи только в безопасное окно. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -24077,6 +24086,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "MawOfInfinity",
+        "Murasama",
         "GreatswordofJudgement"
       ],
       "armor": [
@@ -24178,7 +24188,7 @@ window.GUIDE = {
         "life-champion"
       ],
       "cells": [
-        "Пасть бесконечности; Двуручный меч правосудия",
+        "Пасть бесконечности; Мурасама; Двуручный меч правосудия",
         "Доспех убийцы богов — Тяжёлый рогатый шлем богоубийцы",
         "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Элементальная рукавица; Эмблема воина; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Держи дистанцию оружием с дальним ударом. В ближний бой заходи только в безопасное окно. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -24695,6 +24705,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "MawOfInfinity",
+        "Murasama",
         "GreatswordofJudgement"
       ],
       "armor": [
@@ -24797,7 +24808,7 @@ window.GUIDE = {
         "shadow-champion"
       ],
       "cells": [
-        "Пасть бесконечности; Двуручный меч правосудия",
+        "Пасть бесконечности; Мурасама; Двуручный меч правосудия",
         "Доспех убийцы богов — Тяжёлый рогатый шлем богоубийцы",
         "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Элементальная рукавица; Эмблема воина; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Держи дистанцию оружием с дальним ударом. В ближний бой заходи только в безопасное окно. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -25318,6 +25329,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "MawOfInfinity",
+        "Murasama",
         "GreatswordofJudgement"
       ],
       "armor": [
@@ -25421,7 +25433,7 @@ window.GUIDE = {
         "spirit-champion"
       ],
       "cells": [
-        "Пасть бесконечности; Двуручный меч правосудия",
+        "Пасть бесконечности; Мурасама; Двуручный меч правосудия",
         "Доспех убийцы богов — Тяжёлый рогатый шлем богоубийцы",
         "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Элементальная рукавица; Эмблема воина; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Держи дистанцию оружием с дальним ударом. В ближний бой заходи только в безопасное окно. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -25946,6 +25958,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "MawOfInfinity",
+        "Murasama",
         "GreatswordofJudgement"
       ],
       "armor": [
@@ -26050,7 +26063,7 @@ window.GUIDE = {
         "will-champion"
       ],
       "cells": [
-        "Пасть бесконечности; Двуручный меч правосудия",
+        "Пасть бесконечности; Мурасама; Двуручный меч правосудия",
         "Доспех убийцы богов — Тяжёлый рогатый шлем богоубийцы",
         "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Элементальная рукавица; Эмблема воина; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Держи дистанцию оружием с дальним ударом. В ближний бой заходи только в безопасное окно. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -26579,6 +26592,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "MawOfInfinity",
+        "Murasama",
         "GreatswordofJudgement"
       ],
       "armor": [
@@ -26685,7 +26699,7 @@ window.GUIDE = {
         "eridanus"
       ],
       "cells": [
-        "Пасть бесконечности; Двуручный меч правосудия",
+        "Пасть бесконечности; Мурасама; Двуручный меч правосудия",
         "Доспех убийцы богов — Тяжёлый рогатый шлем богоубийцы",
         "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Элементальная рукавица; Эмблема воина; Поглотитель",
         "До первого Ярона нет аурита, ауритовой брони и Воспламеняющего посоха Ярона. Для его боя — Сильва/Убийца богов и оружие этапа Пожирателя богов. Держи дистанцию оружием с дальним ударом. В ближний бой заходи только в безопасное окно. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -31003,7 +31017,7 @@ window.GUIDE = {
       "id": "Starfury",
       "name": "Звёздная ярость",
       "requires": [],
-      "how": "Найти в небесном сундуке на парящем острове.",
+      "how": "Найти в сундуке на парящем острове. В генерации этой сборки проверь небесные обсерватории на островах; конкретный сундук может содержать другой предмет.",
       "source": "Terraria 1.4.4; изменения сборки",
       "url": "https://terraria.wiki.gg/wiki/Starfury",
       "recipe": null
@@ -31035,7 +31049,7 @@ window.GUIDE = {
         "evil",
         "skeletron"
       ],
-      "how": "Собрать Световую погибель/Кровавый мясорез, Мурамасу, Клинок травы и Вулкан; крафт на демоническом/багряном алтаре.",
+      "how": "Собрать Световую погибель или Кровавый мясорез, Мурамасу, Клинок травы и Вулкан; крафт на алтаре. Ванильную Мурамасу ищи в запертых золотых сундуках Темницы после Скелетрона; нужен золотой ключ. Не путай её с Мурасамой из адской лаборатории.",
       "source": "Terraria 1.4.4; изменения сборки",
       "url": "https://terraria.wiki.gg/wiki/Night%27s_Edge",
       "recipe": null
@@ -31239,7 +31253,7 @@ window.GUIDE = {
       "requires": [
         "skeletron"
       ],
-      "how": "Найти в теневом сундуке Ада. Теневой ключ взять в золотом сундуке Темницы.",
+      "how": "Найти в теневом сундуке Ада. Для него нужен теневой ключ; в изменённой Темнице этой сборки ключ находится в отдельном сундуке тюремной комнаты. Это другое условие, чем у древних сундуков Бездны.",
       "source": "Terraria 1.4.4; изменения сборки",
       "url": "https://terraria.wiki.gg/wiki/Flamelash",
       "recipe": null
@@ -31275,7 +31289,7 @@ window.GUIDE = {
         "twins",
         "prime"
       ],
-      "how": "Скрафтить из Ядовитого посоха и хлорофитовых слитков на хардмод-наковальне. Ядовитый посох фармится с чёрных отшельников.",
+      "how": "Улучшить Отравляющий посох четырнадцатью хлорофитовыми слитками на хардмодной наковальне. Исходный посох выбивается с чёрных отшельников в паучьих гнёздах хардмода; готовый Ядовитый посох с них не падает.",
       "source": "Terraria 1.4.4; изменения сборки",
       "url": "https://terraria.wiki.gg/wiki/Venom_Staff",
       "recipe": null
@@ -31717,6 +31731,52 @@ window.GUIDE = {
       "url": "https://terraria.wiki.gg/wiki/Fishron_Wings",
       "recipe": null
     },
+    "Murasama": {
+      "id": "Murasama",
+      "name": "Мурасама",
+      "requires": [
+        "dog"
+      ],
+      "how": "Найти в защищённом сундуке адской лаборатории Дрэйдона: забрать меч можно до хардмода, но атаковать им в этой версии разрешено только после Пожирателя богов в текущем мире. Смена имени персонажа не обходит это условие. Это Мурасама из основной сборки, а не ванильная Мурамаса из Темницы. Для боя нужна близкая дистанция.",
+      "source": "CalamityMod 2.2.4: Murasama.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Murasama",
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Дополнительный крафт",
+          "text": "Фазовый палач × 1; Сломанный меч героя × 1; Некроплазма × 25; Эссенция хаоса × 50; Губительная душа × 5; Эссенция восходящего духа × 12; Магматитовый слиток × 8. Станция: космическая наковальня. Станция должна стоять в Аду рядом с лавой. Для компонента «Фазовый палач» предварительно разблокируй пятый уровень схем арсенала. Рецепт не отменяет условие использования меча после Пожирателя богов.",
+          "requires": [
+            "golem",
+            "moonlord",
+            "polterghast",
+            "dog"
+          ],
+          "source": "CraftableCalamityItems/CraftableCalamityItems/NotShimmerableRecipes.cs"
+        }
+      ]
+    },
+    "SnowstormStaff": {
+      "id": "SnowstormStaff",
+      "name": "Посох снежной бури",
+      "requires": [
+        "cryogen"
+      ],
+      "how": "Дроп Криогена, в том числе из его мешка сокровищ. Это доступный вариант перед Праймом; Криофобия в этой версии продаётся позже, после трёх мехов.",
+      "source": "CalamityMod 2.2.4: SnowstormStaff.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Snowstorm_Staff",
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Криоген) × 1 → Посох снежной бури × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "cryogen"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
+    },
     "SeashineSword": {
       "id": "SeashineSword",
       "name": "Меч морского блеска",
@@ -31788,7 +31848,7 @@ window.GUIDE = {
       "requires": [
         "skeletron"
       ],
-      "how": "Найти в древнем сокровищном сундуке Бездны; нужен теневой ключ из Темницы после Скелетрона. Вариант цепного оружия, требующий контроля расстояния.",
+      "how": "Найти в древнем сундуке Бездны после Скелетрона. В установленной версии открытие привязано к победе над Скелетроном: теневой ключ не требуется. Это находка мира, а не дроп босса. Если этот сундук уже опустошён другим игроком, ищи остальные сундуки.",
       "source": "CalamityMod 2.2.4: BallOFugu.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Ball_O%27_Fugu",
       "recipe": null
@@ -32100,7 +32160,18 @@ window.GUIDE = {
       "how": "Дроп Пустынного бича. Вариант лука после первой победы; заранее подготовь стрелы.",
       "source": "CalamityMod 2.2.4: Barinade.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Barinade",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Пустынный бич) × 1 → Баринад × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "desert"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "FlurrystormCannon": {
       "id": "FlurrystormCannon",
@@ -32241,7 +32312,18 @@ window.GUIDE = {
       "how": "Дроп Крабулона. Вариант магического оружия после первой победы, не для самого первого Крабулона.",
       "source": "CalamityMod 2.2.4: HyphaeRod.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Hyphae_Rod",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Крабулон) × 1 → Гифовый жезл × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "crabulon"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "HellwingStaff": {
       "id": "HellwingStaff",
@@ -32275,7 +32357,7 @@ window.GUIDE = {
       "requires": [
         "skeletron"
       ],
-      "how": "Найти в древнем сокровищном сундуке Бездны после Скелетрона; нужен теневой ключ из Темницы.",
+      "how": "Найти в древнем сундуке Бездны после Скелетрона. В установленной версии открытие привязано к победе над Скелетроном: теневой ключ не требуется. Это находка мира, а не дроп босса. Если этот сундук уже опустошён другим игроком, ищи остальные сундуки.",
       "source": "CalamityMod 2.2.4: BlackAnurian.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Black_Anurian",
       "recipe": null
@@ -32413,7 +32495,7 @@ window.GUIDE = {
       "requires": [
         "skeletron"
       ],
-      "how": "Фармить тёмных колдунов в Темнице после Скелетрона. Вариант для скрытных атак перед Богом слизней и Стеной плоти.",
+      "how": "Фармить тёмных колдунов в Темнице после Скелетрона. Это дроп обычного врага, а не Скелетрона; в Мастере базовый шанс составляет один к десяти. Вариант скрытных атак перед Богом слизней и Стеной плоти.",
       "source": "CalamityMod 2.2.4: ShinobiBlade.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Shinobi_Blade",
       "recipe": null
@@ -32545,7 +32627,18 @@ window.GUIDE = {
       "how": "Дроп Пустынного бича. Миньон занимает слот призыва; не добавляй звёзды сверх общего лимита вместе с другими посохами.",
       "source": "CalamityMod 2.2.4: BrittleStarStaff.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Brittle_Star_Staff",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Пустынный бич) × 1 → Посох хрупкой звезды × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "desert"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "StaffOfNecrosteocytes": {
       "id": "StaffOfNecrosteocytes",
@@ -32553,7 +32646,7 @@ window.GUIDE = {
       "requires": [
         "skeletron"
       ],
-      "how": "Фармить тёмных колдунов в Темнице после Скелетрона. Альтернатива Посоху селёдки для заполнения слотов миньонов.",
+      "how": "Фармить тёмных колдунов в Темнице после Скелетрона. Это дроп обычного врага, а не Скелетрона; в Мастере базовый шанс составляет один к десяти. Альтернатива Посоху селёдки для заполнения слотов миньонов.",
       "source": "CalamityMod 2.2.4: StaffOfNecrosteocytes.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Staff_of_Necrosteocytes",
       "recipe": null
@@ -32637,7 +32730,18 @@ window.GUIDE = {
       "how": "Дроп Нескончаемой пустоты. Занимает четыре слота миньонов и имеет механику метки цели. Обещание постоянного сопротивления урону из старого обзора не перенесено: текущий предмет переработан.",
       "source": "CalamityMod 2.2.4: VoidConcentrationStaff.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Void_Concentration_Staff",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Нескончаемая пустота) × 1 → Концентратор пустоты × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "void"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "QuiverofNihility": {
       "id": "QuiverofNihility",
@@ -32884,7 +32988,18 @@ window.GUIDE = {
       "how": "Дроп Аструм Деуса.",
       "source": "CalamityMod 2.2.4: RegulusRiot.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Regulus_Riot",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Аструм Деус) × 1 → Бунт Регула × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "deus"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "RadiantStar": {
       "id": "RadiantStar",
@@ -32933,7 +33048,18 @@ window.GUIDE = {
       "how": "Дроп Аструм Ауреуса.",
       "source": "CalamityMod 2.2.4: Nebulash.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Nebulash",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Аструм Ареус) (Аструм Ауреус) × 1 → Хлестатель туманности × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "aureus"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "HolyCollider": {
       "id": "HolyCollider",
@@ -32944,7 +33070,18 @@ window.GUIDE = {
       "how": "Дроп Провиденс.",
       "source": "CalamityMod 2.2.4: HolyCollider.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Holy_Collider",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Провиденс, Осквернённая богиня) × 1 → Святой сокрушитель × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "providence"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "Terratomere": {
       "id": "Terratomere",
@@ -33017,7 +33154,18 @@ window.GUIDE = {
       "how": "Дроп Пожирателя богов.",
       "source": "CalamityMod 2.2.4: MawOfInfinity.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Maw_of_Infinity",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Пожиратель богов) × 1 → Пасть бесконечности × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "dog"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "GreatswordofJudgement": {
       "id": "GreatswordofJudgement",
@@ -33261,7 +33409,18 @@ window.GUIDE = {
       "how": "Дроп Крабулона; до первого Крабулона отсутствует.",
       "source": "CalamityMod 2.2.4: Fungicide.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Fungicide",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Крабулон) × 1 → Фунгицид × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "crabulon"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "Galeforce": {
       "id": "Galeforce",
@@ -33291,7 +33450,7 @@ window.GUIDE = {
       "requires": [
         "skeletron"
       ],
-      "how": "Найти в древнем сокровищном сундуке Бездны. Нужен теневой ключ из Темницы.",
+      "how": "Найти в древнем сундуке Бездны после Скелетрона. В установленной версии открытие привязано к победе над Скелетроном: теневой ключ не требуется. Это находка мира, а не дроп босса. Если этот сундук уже опустошён другим игроком, ищи остальные сундуки.",
       "source": "CalamityMod 2.2.4: Archerfish.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Archerfish",
       "recipe": null
@@ -33376,7 +33535,18 @@ window.GUIDE = {
       "how": "Дроп Предвестницы чумы.",
       "source": "CalamityMod 2.2.4: Virulence.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Virulence",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Предвестница чумы, Голиаф) × 1 → Ядовитость × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "plague"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "PlanetaryAnnihilation": {
       "id": "PlanetaryAnnihilation",
@@ -33467,7 +33637,18 @@ window.GUIDE = {
       "how": "Дроп Провиденс.",
       "source": "CalamityMod 2.2.4: TelluricGlare.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Telluric_Glare",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Провиденс, Осквернённая богиня) × 1 → Теллурический блик × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "providence"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "FetidEmesis": {
       "id": "FetidEmesis",
@@ -33478,7 +33659,18 @@ window.GUIDE = {
       "how": "Дроп Старого герцога.",
       "source": "CalamityMod 2.2.4: FetidEmesis.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Fetid_Emesis",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Старый герцог) × 1 → Зловонная рвота × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "old-duke"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "ThreadOfEradication": {
       "id": "ThreadOfEradication",
@@ -33489,7 +33681,18 @@ window.GUIDE = {
       "how": "Дроп Пожирателя богов.",
       "source": "CalamityMod 2.2.4: ThreadOfEradication.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Thread_of_Eradication",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Пожиратель богов) × 1 → Нить искоренения × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "dog"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "Starmada": {
       "id": "Starmada",
@@ -33792,9 +33995,12 @@ window.GUIDE = {
       "id": "Cryophobia",
       "name": "Криофобия",
       "requires": [
-        "cryogen"
+        "destroyer",
+        "twins",
+        "cryogen",
+        "prime"
       ],
-      "how": "Дроп Криогена.",
+      "how": "Купить у Архимага после Криогена и победы над всеми тремя механическими боссами. В установленной версии это товар магазина, а не дроп Криогена.",
       "source": "CalamityMod 2.2.4: Cryophobia.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Cryophobia",
       "recipe": null
@@ -33926,7 +34132,18 @@ window.GUIDE = {
       "how": "Дроп Провиденс.",
       "source": "CalamityMod 2.2.4: PurgeGuzzler.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Purge_Guzzler",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Провиденс, Осквернённая богиня) × 1 → Очищающий обжора × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "providence"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "VenusianTrident": {
       "id": "VenusianTrident",
@@ -34008,7 +34225,18 @@ window.GUIDE = {
       "how": "Дроп Пожирателя богов.",
       "source": "CalamityMod 2.2.4: HyperdeathRiftScepter.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Hyperdeath_Rift_Scepter",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Пожиратель богов) × 1 → Скипетр разлома гиперсмерти × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "dog"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "VoidVortex": {
       "id": "VoidVortex",
@@ -34241,7 +34469,18 @@ window.GUIDE = {
       "how": "Дроп Крабулона.",
       "source": "CalamityMod 2.2.4: Mycoroot.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Mycoroot",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Крабулон) × 1 → Грибокорень × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "crabulon"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "Turbulance": {
       "id": "Turbulance",
@@ -34271,7 +34510,7 @@ window.GUIDE = {
       "requires": [
         "skeletron"
       ],
-      "how": "Найти в древних сундуках Бездны, открываемых теневым ключом из Темницы.",
+      "how": "Найти в древнем сундуке Бездны после Скелетрона. В установленной версии открытие привязано к победе над Скелетроном: теневой ключ не требуется. Это находка мира, а не дроп босса. Если этот сундук уже опустошён другим игроком, ищи остальные сундуки.",
       "source": "CalamityMod 2.2.4: Lionfish.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Lionfish",
       "recipe": null
@@ -34454,7 +34693,18 @@ window.GUIDE = {
       "how": "Дроп Предвестницы чумы.",
       "source": "CalamityMod 2.2.4: Malachite.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Malachite",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Трофей Предвестницы чумы, Голиаф × 1 → Малахит × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "plague"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "TheSyringe": {
       "id": "TheSyringe",
@@ -34465,7 +34715,18 @@ window.GUIDE = {
       "how": "Дроп Предвестницы чумы.",
       "source": "CalamityMod 2.2.4: TheSyringe.cs",
       "url": "https://calamitymod.wiki.gg/wiki/The_Syringe",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Предвестница чумы, Голиаф) × 1 → Шприц × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "plague"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "LunarKunai": {
       "id": "LunarKunai",
@@ -34551,7 +34812,18 @@ window.GUIDE = {
       "how": "Дроп Провиденс.",
       "source": "CalamityMod 2.2.4: MoltenAmputator.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Molten_Amputator",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Провиденс, Осквернённая богиня) × 1 → Раскалённый ампутатор × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "providence"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "DeepSeaDumbbell": {
       "id": "DeepSeaDumbbell",
@@ -34627,7 +34899,18 @@ window.GUIDE = {
       "how": "Дроп Пожирателя богов.",
       "source": "CalamityMod 2.2.4: DimensionTearingDisk.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Dimension-Tearing_Disk",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Пожиратель богов) × 1 → Разрывающий измерения диск × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "dog"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "DynamicPursuer": {
       "id": "DynamicPursuer",
@@ -34882,7 +35165,7 @@ window.GUIDE = {
       "requires": [
         "skeletron"
       ],
-      "how": "Найти в древних сундуках Бездны. Нужен теневой ключ из золотых сундуков Темницы; в сборке нет мода, меняющего Бездну на вариант с поимкой рыб.",
+      "how": "Найти в древнем сундуке Бездны после Скелетрона. В установленной версии открытие привязано к победе над Скелетроном: теневой ключ не требуется. Это находка мира, а не дроп босса. Если этот сундук уже опустошён другим игроком, ищи остальные сундуки.",
       "source": "CalamityMod 2.2.4: HerringStaff.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Herring_Staff",
       "recipe": null
@@ -34920,10 +35203,20 @@ window.GUIDE = {
       "requires": [
         "wall"
       ],
-      "how": "Дроп ледяного клампера в подземном снежном биоме хардмода.",
+      "how": "Выбить с ледяного клампера в снежном биоме хардмода; базовый шанс двадцать процентов. Это обычный враг, а не Криоген. В сборке есть дополнительный рецепт.",
       "source": "CalamityMod 2.2.4: AncientIceChunk.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Ancient_Ice_Chunk",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Дополнительный крафт",
+          "text": "Эссенция Элеума × 12; Морозное ядро × 1; Эссенция ночи × 2; Эссенция света × 2. Станция: железная или свинцовая наковальня. ",
+          "requires": [
+            "wall"
+          ],
+          "source": "CraftableCalamityItems/CraftableCalamityItems/RoverCoreRecipe.cs"
+        }
+      ]
     },
     "DaedalusGolemStaff": {
       "id": "DaedalusGolemStaff",
@@ -34958,7 +35251,18 @@ window.GUIDE = {
       "how": "Дроп Серного элементаля.",
       "source": "CalamityMod 2.2.4: DormantBrimseeker.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Dormant_Brimseeker",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Серный элементаль) × 1 → Дремлющий серный искатель × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "brimstone"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "PlantationStaff": {
       "id": "PlantationStaff",
@@ -35037,7 +35341,18 @@ window.GUIDE = {
       "how": "Дроп Предвестницы чумы.",
       "source": "CalamityMod 2.2.4: FuelCellBundle.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Fuel_Cell_Bundle",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Предвестница чумы, Голиаф) × 1 → Комплект топливных элементов × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "plague"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "LegionofCelestia": {
       "id": "LegionofCelestia",
@@ -35131,7 +35446,18 @@ window.GUIDE = {
       "how": "Дроп Полтергаста.",
       "source": "CalamityMod 2.2.4: EtherealSubjugator.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Ethereal_Subjugator",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Полтергаст) × 1 → Эфирный покоритель × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "polterghast"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "Cosmilamp": {
       "id": "Cosmilamp",
@@ -35142,7 +35468,18 @@ window.GUIDE = {
       "how": "Дроп Сигнуса.",
       "source": "CalamityMod 2.2.4: Cosmilamp.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Cosmilamp",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Сигнус) × 1 → Космилампа × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "signus"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "VoidEaterMarionette": {
       "id": "VoidEaterMarionette",
@@ -35153,7 +35490,18 @@ window.GUIDE = {
       "how": "Дроп Пожирателя богов; новое название бывшего Посоха мехачервя.",
       "source": "CalamityMod 2.2.4: VoidEaterMarionette.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Void_Eater_Marionette",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Пожиратель богов) × 1 → Марионетка Пожирателя пустоты × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "dog"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "YharonsKindleStaff": {
       "id": "YharonsKindleStaff",
@@ -35164,7 +35512,18 @@ window.GUIDE = {
       "how": "Дроп Ярона. Один драконид занимает 5 слотов миньонов; с ауритовым комплектом — меньше.",
       "source": "CalamityMod 2.2.4: YharonsKindleStaff.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Yharon%27s_Kindle_Staff",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Сокровищница (Ярон) × 1 → Воспламеняющий посох Ярона × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "yharon"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "CosmicImmaterializer": {
       "id": "CosmicImmaterializer",
@@ -35236,19 +35595,35 @@ window.GUIDE = {
       "id": "RoverDrive",
       "name": "Электропривод вездехода",
       "requires": [],
-      "how": "В этой сборке есть дополнительный рецепт мода крафтов: 12 вульфрумовых обломков и 2 энергетических ядра на наковальне.",
+      "how": "Выбить с вульфрумового ровера на поверхности: базовый шанс десять процентов. В этой сборке также есть дополнительные рецепты из вульфрумовых деталей; они указаны отдельно.",
       "source": "CalamityMod 2.2.4: RoverDrive.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Rover_Drive",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Дополнительный крафт",
+          "text": "Вульфрумовый металлолом × 12; Энергетическое ядро × 2. Станция: железная или свинцовая наковальня. ",
+          "requires": [],
+          "source": "CraftableCalamityItems/CraftableCalamityItems/RoverCoreRecipe.cs"
+        }
+      ]
     },
     "WulfrumBattery": {
       "id": "WulfrumBattery",
       "name": "Вульфрумовый аккумулятор",
       "requires": [],
-      "how": "Дроп вульфрумовых врагов на поверхности.",
+      "how": "Выбить с вульфрумовых роботов поверхности: ровера, дрона, парящего аппарата, усилителя или вращателя. Базовый шанс семь процентов. Мод дополнительных крафтов также позволяет сделать аккумулятор из пяти обломков и одного энергетического ядра на наковальне.",
       "source": "CalamityMod 2.2.4: WulfrumBattery.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Wulfrum_Battery",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Дополнительный крафт",
+          "text": "Вульфрумовый металлолом × 5; Энергетическое ядро × 1. Станция: железная или свинцовая наковальня. ",
+          "requires": [],
+          "source": "CraftableCalamityItems/CraftableCalamityItems/RoverCoreRecipe.cs"
+        }
+      ]
     },
     "VoltaicJelly": {
       "id": "VoltaicJelly",
@@ -35256,10 +35631,22 @@ window.GUIDE = {
       "requires": [
         "desert"
       ],
-      "how": "Дроп призрачных колоколов Затонувшего моря после Пустынного бича.",
+      "how": "Выбить с призрачного колокола в Затонувшем море после Пустынного бича; базовый шанс двадцать процентов. Сам враг может встретиться раньше, но нужный дроп закрыт до босса. Дополнительный крафт в сборке требует мастерскую инженера.",
       "source": "CalamityMod 2.2.4: VoltaicJelly.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Voltaic_Jelly",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Дополнительный крафт",
+          "text": "Банка воды × 1; Светящаяся палочка × 3; Морская призма × 5; Осколок жемчуга × 3; Жвало штормового льва × 1. Станция: мастерская инженера. ",
+          "requires": [
+            "desert",
+            "eye",
+            "goblins"
+          ],
+          "source": "CraftableCalamityItems/CraftableCalamityItems/RoverCoreRecipe.cs"
+        }
+      ]
     },
     "CoinofDeceit": {
       "id": "CoinofDeceit",
@@ -35407,10 +35794,46 @@ window.GUIDE = {
       "requires": [
         "leviathan"
       ],
-      "how": "Дроп Левиафана и Анахиты; редкий, понадобится фарм.",
+      "how": "Редкий дроп Левиафана и Анахиты. В этой сборке есть дополнительные способы: крафт из трофея одного из этих боссов на затвердителе либо отдельный ресурсный рецепт. Не считай аксессуар гарантированным содержимым каждого мешка.",
       "source": "CalamityMod 2.2.4: TheCommunity.cs",
       "url": "https://calamitymod.wiki.gg/wiki/The_Community",
-      "recipe": null
+      "recipe": null,
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Трофей Левиафан × 1 → Сообщество × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "leviathan"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        },
+        {
+          "label": "Из мешка или трофея",
+          "text": "Трофей Анахиты × 1 → Сообщество × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "leviathan"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        },
+        {
+          "label": "Дополнительный крафт",
+          "text": "Алмаз × 12; Рубин × 12; Изумруд × 12; Сапфир × 12; Топаз × 12; Аметист × 12; Морская призма × 15; Осколок жемчуга × 15; Осколок кристалла × 25; Запретный фрагмент × 3; Ядро бедствия × 1. Станция: мифриловая или орихалковая наковальня. Этот ресурсный путь может быть доступен раньше Левиафана; таблица сохраняет основной маршрут получения через босса.",
+          "requires": [
+            "eye",
+            "goblins",
+            "hive",
+            "wall",
+            "destroyer",
+            "twins",
+            "prime",
+            "clone",
+            "plantera"
+          ],
+          "source": "CraftableCalamityItems/CraftableCalamityItems/NotShimmerableRecipes.cs"
+        }
+      ]
     },
     "DeificAmulet": {
       "id": "DeificAmulet",
@@ -35762,7 +36185,23 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/RogueEmblem.cs",
         "text": "Эмблема разбойника × 1; Эссенция могущества × 5; Эссенция прозрения × 5; Эссенция ужаса × 5",
         "station": "мастерская инженера"
-      }
+      },
+      "otherWays": [
+        {
+          "label": "Из мешка или трофея",
+          "text": "Мешок с сокровищами (Стена плоти) × 1 → Эмблема разбойника × 1 на затвердителе. Это отдельный рецепт мода совместимости; предмет не обязательно выпадет при открытии мешка.",
+          "requires": [
+            "king",
+            "eye",
+            "goblins",
+            "wall",
+            "destroyer",
+            "twins",
+            "prime"
+          ],
+          "source": "FargowiltasCrossmod/FargowiltasCrossmod.Core.Calamity.Globals/CalDLCRecipeChanges.cs"
+        }
+      ]
     },
     "RuinMedallion": {
       "id": "RuinMedallion",
@@ -40711,5 +41150,10 @@ window.GUIDE = {
       "Файлов миров и персонажей в архиве нет; Eternity/Revengeance и прогресс не определены."
     ],
     "mode": "Мастер + Мазохист"
+  },
+  "acquisitionAudit": {
+    "mod_non_recipe_items_with_source_evidence": 47,
+    "boss_bag_items_checked": 29,
+    "additional_methods": 36
   }
 };
