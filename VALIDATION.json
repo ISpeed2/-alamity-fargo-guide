@@ -17,7 +17,7 @@
   "game_runtime_tested": false,
   "ranged_accessory_alternatives_checked": true,
   "summon_slot_caveats_checked": true,
-  "mod_non_recipe_items_with_source_evidence": 47,
+  "mod_non_recipe_items_with_source_evidence": 48,
   "boss_bag_items_checked": 29,
   "additional_methods": 36,
   "murasama_use_gate_checked": true,
@@ -26,5 +26,11 @@
   "modified_vanilla_recipes_checked": 7,
   "fire_gauntlet_requires_golem": true,
   "nights_edge_requires_slime_god": true,
-  "item_wiki_links_use_mod_wikis": true
+  "item_wiki_links_use_mod_wikis": true,
+  "visited_components": 801,
+  "recipe_nodes": 345,
+  "recipe_parser_rejects_unread_ingredients_and_stations": true,
+  "one_replacement_wiki_link_per_item": true,
+  "remnants_turtle_recipes_checked": true,
+  "rogue_emblem_drop_not_upgrade_recipe": true
 }
