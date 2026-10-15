@@ -1,7 +1,7 @@
 {
   "rows": 340,
   "classes": 5,
-  "unique_items": 261,
+  "unique_items": 271,
   "bosses_and_events": 66,
   "all_rows_before_target": true,
   "no_self_drop_dependencies": true,
@@ -10,5 +10,9 @@
   "russian_item_names_and_descriptions": true,
   "accessory_slot_counts_checked": true,
   "expert_slot_uses_expert_items_only": true,
+  "rogue_start_armor_class_checked": true,
+  "crossmod_movement_recipes_checked": true,
+  "mutant_disabled_defenses_excluded": true,
+  "video_transcripts_reviewed": 4,
   "game_runtime_tested": false
 }
