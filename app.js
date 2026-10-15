@@ -89,7 +89,10 @@
     const statusText=killed?'Босс / событие пройдено':done?'Можно готовиться':'Нужны предыдущие победы';
     head.append(element('span',String(index+1).padStart(2,'0'),'stage-number'),title,element('span',statusText,'stage-status'+(done?' done':'')));
     const body=element('div',undefined,'loadout-body');
-    body.append(cell('01 / ОРУЖИЕ',row.weapons),cell('02 / БРОНЯ',row.armor),cell('03 / АКСЕССУАРЫ',row.accessories.filter(k=>!row.expertAccessories.includes(k))));
+    body.append(cell('01 / ОРУЖИЕ',row.weapons),cell(row.armor.length>1?'02 / БРОНЯ — ВЫБЕРИ ОДИН КОМПЛЕКТ':'02 / БРОНЯ',row.armor),cell('03 / АКСЕССУАРЫ',row.accessories.filter(k=>!row.expertAccessories.includes(k))));
+    for(const choice of row.accessoryAlternatives || []) {
+      body.children[2].append(cell('ДЛЯ ЛУКА — ВМЕСТО «'+items[choice.replace].name+'»',[choice.item]));
+    }
     if(row.expertAccessories.length) body.children[2].append(cell('ДОПОЛНИТЕЛЬНЫЙ СЛОТ ЭКСПЕРТА',row.expertAccessories));
     if(row.wings.length) body.children[1].append(cell('КРЫЛЬЯ / ОТДЕЛЬНЫЙ СЛОТ',row.wings));
     const foot=element('div',undefined,'loadout-note');foot.append(element('p',row.cells[3]));
@@ -113,7 +116,7 @@
     document.querySelectorAll('[data-phase]').forEach(el=>el.setAttribute('aria-pressed',String(el.dataset.phase===state.phase)));
     const query=$('search').value.trim().toLocaleLowerCase('ru');
     const exactStage=query && rows.some(row=>row.cls===state.cls && row.stage.toLocaleLowerCase('ru')===query);
-    const selected=rows.filter(row=>row.cls===state.cls && (query || row.phase===state.phase) && (!query || (exactStage ? row.stage.toLocaleLowerCase('ru')===query : [row.stage,...row.cells,...row.notes,...[...row.weapons,...row.armor,...row.accessories,...row.wings].map(k=>items[k].how)].join(' ').toLocaleLowerCase('ru').includes(query))) && (!$('reachedOnly').checked || reached(row)));
+    const selected=rows.filter(row=>row.cls===state.cls && (query || row.phase===state.phase) && (!query || (exactStage ? row.stage.toLocaleLowerCase('ru')===query : [row.stage,...row.cells,...row.notes,...[...row.weapons,...row.armor,...row.accessories,...row.wings,...(row.accessoryAlternatives || []).map(a=>a.item)].map(k=>items[k].how)].join(' ').toLocaleLowerCase('ru').includes(query))) && (!$('reachedOnly').checked || reached(row)));
     const target=$('loadouts');target.replaceChildren();
     selected.forEach((row,index)=>target.append(renderCard(row,index)));
     if(!selected.length) {

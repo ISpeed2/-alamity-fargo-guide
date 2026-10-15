@@ -1,7 +1,7 @@
 {
   "rows": 340,
   "classes": 5,
-  "unique_items": 271,
+  "unique_items": 299,
   "bosses_and_events": 66,
   "all_rows_before_target": true,
   "no_self_drop_dependencies": true,
@@ -13,6 +13,8 @@
   "rogue_start_armor_class_checked": true,
   "crossmod_movement_recipes_checked": true,
   "mutant_disabled_defenses_excluded": true,
-  "video_transcripts_reviewed": 4,
-  "game_runtime_tested": false
+  "video_transcripts_reviewed": 10,
+  "game_runtime_tested": false,
+  "ranged_accessory_alternatives_checked": true,
+  "summon_slot_caveats_checked": true
 }

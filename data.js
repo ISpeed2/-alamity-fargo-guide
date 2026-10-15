@@ -24,6 +24,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -51,7 +52,8 @@ window.GUIDE = {
         "Minishark"
       ],
       "armor": [
-        "platinum"
+        "platinum",
+        "snow-ranged"
       ],
       "accessories": [
         "HermesBoots",
@@ -60,6 +62,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -67,9 +70,9 @@ window.GUIDE = {
       "before": [],
       "cells": [
         "Платиновый лук; Мини-акула",
-        "Платиновая броня",
+        "Платиновая броня или Доспех снежного бандита — стрелок",
         "Ботинки Гермеса; Браслет регенерации; Электропривод вездехода; Ожерелье из акульих зубов; Облако в банке",
-        "Собери полный стартовый набор и увеличь запас здоровья. Редкие сундуковые предметы можно фармить до первого босса. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса."
+        "Собери полный стартовый набор и увеличь запас здоровья. Редкие сундуковые предметы можно фармить до первого босса. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Указаны два полных комплекта брони на выбор: платиновый для защиты или снежный для стрелковых бонусов. Надевай один комплект целиком."
       ],
       "notes": [],
       "links": []
@@ -83,7 +86,8 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
-        "DiamondStaff"
+        "DiamondStaff",
+        "DemonScythe"
       ],
       "armor": [
         "jungle"
@@ -95,13 +99,14 @@ window.GUIDE = {
         "NaturesGift",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
       "requires": [],
       "before": [],
       "cells": [
-        "Алмазный посох",
+        "Алмазный посох; Демоническая коса",
         "Броня джунглей",
         "Ботинки Гермеса; Браслет регенерации; Электропривод вездехода; Дар природы; Облако в банке",
         "Собери полный стартовый набор и увеличь запас здоровья. Редкие сундуковые предметы можно фармить до первого босса. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы."
@@ -131,6 +136,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -168,6 +174,7 @@ window.GUIDE = {
         "WulfrumBattery",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -205,6 +212,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -232,7 +240,8 @@ window.GUIDE = {
         "Minishark"
       ],
       "armor": [
-        "platinum"
+        "platinum",
+        "snow-ranged"
       ],
       "accessories": [
         "HermesBoots",
@@ -241,6 +250,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -248,9 +258,9 @@ window.GUIDE = {
       "before": [],
       "cells": [
         "Платиновый лук; Мини-акула",
-        "Платиновая броня",
+        "Платиновая броня или Доспех снежного бандита — стрелок",
         "Ботинки Гермеса; Браслет регенерации; Электропривод вездехода; Ожерелье из акульих зубов; Облако в банке",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса."
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Указаны два полных комплекта брони на выбор: платиновый для защиты или снежный для стрелковых бонусов. Надевай один комплект целиком."
       ],
       "notes": [],
       "links": []
@@ -264,7 +274,8 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
-        "DiamondStaff"
+        "DiamondStaff",
+        "DemonScythe"
       ],
       "armor": [
         "jungle"
@@ -276,13 +287,14 @@ window.GUIDE = {
         "NaturesGift",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
       "requires": [],
       "before": [],
       "cells": [
-        "Алмазный посох",
+        "Алмазный посох; Демоническая коса",
         "Броня джунглей",
         "Ботинки Гермеса; Браслет регенерации; Электропривод вездехода; Дар природы; Облако в банке",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы."
@@ -312,6 +324,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -349,6 +362,7 @@ window.GUIDE = {
         "WulfrumBattery",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -386,6 +400,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -415,7 +430,8 @@ window.GUIDE = {
         "Minishark"
       ],
       "armor": [
-        "platinum"
+        "platinum",
+        "snow-ranged"
       ],
       "accessories": [
         "HermesBoots",
@@ -424,6 +440,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -433,9 +450,9 @@ window.GUIDE = {
       ],
       "cells": [
         "Платиновый лук; Мини-акула",
-        "Платиновая броня",
+        "Платиновая броня или Доспех снежного бандита — стрелок",
         "Ботинки Гермеса; Браслет регенерации; Электропривод вездехода; Ожерелье из акульих зубов; Облако в банке",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса."
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Указаны два полных комплекта брони на выбор: платиновый для защиты или снежный для стрелковых бонусов. Надевай один комплект целиком."
       ],
       "notes": [],
       "links": []
@@ -449,7 +466,8 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
-        "DiamondStaff"
+        "DiamondStaff",
+        "DemonScythe"
       ],
       "armor": [
         "jungle"
@@ -461,6 +479,7 @@ window.GUIDE = {
         "NaturesGift",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -469,7 +488,7 @@ window.GUIDE = {
         "trojan"
       ],
       "cells": [
-        "Алмазный посох",
+        "Алмазный посох; Демоническая коса",
         "Броня джунглей",
         "Ботинки Гермеса; Браслет регенерации; Электропривод вездехода; Дар природы; Облако в банке",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы."
@@ -499,6 +518,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -538,6 +558,7 @@ window.GUIDE = {
         "WulfrumBattery",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -577,6 +598,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -607,7 +629,8 @@ window.GUIDE = {
         "Minishark"
       ],
       "armor": [
-        "platinum"
+        "platinum",
+        "snow-ranged"
       ],
       "accessories": [
         "HermesBoots",
@@ -616,6 +639,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -626,9 +650,9 @@ window.GUIDE = {
       ],
       "cells": [
         "Платиновый лук; Мини-акула",
-        "Платиновая броня",
+        "Платиновая броня или Доспех снежного бандита — стрелок",
         "Ботинки Гермеса; Браслет регенерации; Электропривод вездехода; Ожерелье из акульих зубов; Облако в банке",
-        "До первой победы здесь нет виктидовой брони: осколки жемчуга нужны с самого Пустынного бича. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса."
+        "До первой победы здесь нет виктидовой брони: осколки жемчуга нужны с самого Пустынного бича. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Указаны два полных комплекта брони на выбор: платиновый для защиты или снежный для стрелковых бонусов. Надевай один комплект целиком."
       ],
       "notes": [],
       "links": []
@@ -642,7 +666,8 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
-        "DiamondStaff"
+        "DiamondStaff",
+        "DemonScythe"
       ],
       "armor": [
         "jungle"
@@ -654,6 +679,7 @@ window.GUIDE = {
         "NaturesGift",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -663,7 +689,7 @@ window.GUIDE = {
         "king"
       ],
       "cells": [
-        "Алмазный посох",
+        "Алмазный посох; Демоническая коса",
         "Броня джунглей",
         "Ботинки Гермеса; Браслет регенерации; Электропривод вездехода; Дар природы; Облако в банке",
         "До первой победы здесь нет виктидовой брони: осколки жемчуга нужны с самого Пустынного бича. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы."
@@ -693,6 +719,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -733,6 +760,7 @@ window.GUIDE = {
         "WulfrumBattery",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -774,6 +802,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -803,6 +832,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "Barinade",
         "PlatinumBow",
         "Minishark"
       ],
@@ -816,6 +846,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -828,7 +859,7 @@ window.GUIDE = {
         "desert"
       ],
       "cells": [
-        "Платиновый лук; Мини-акула",
+        "Баринад; Платиновый лук; Мини-акула",
         "Виктидовый доспех — Коралловый тюрбан прилива",
         "Ботинки Гермеса; Браслет регенерации; Электропривод вездехода; Ожерелье из акульих зубов; Облако в банке",
         "Щит Ктулху появится только после этого боя; в комплект до Глаза он не входит. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса."
@@ -846,6 +877,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "CoralSpout",
+        "DemonScythe",
         "DiamondStaff"
       ],
       "armor": [
@@ -858,6 +890,7 @@ window.GUIDE = {
         "NaturesGift",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -870,7 +903,7 @@ window.GUIDE = {
         "desert"
       ],
       "cells": [
-        "Коралловая струя; Алмазный посох",
+        "Коралловая струя; Демоническая коса; Алмазный посох",
         "Виктидовый доспех — Шлем отшельника прилива",
         "Ботинки Гермеса; Браслет регенерации; Электропривод вездехода; Дар природы; Облако в банке",
         "Щит Ктулху появится только после этого боя; в комплект до Глаза он не входит. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы."
@@ -900,6 +933,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -929,8 +963,8 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "BrittleStarStaff",
         "BelladonnaSpiritStaff",
-        "SunSpiritStaff",
         "ThornWhip"
       ],
       "armor": [
@@ -944,6 +978,7 @@ window.GUIDE = {
         "WulfrumBattery",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [],
       "normalAccessorySlots": 6,
@@ -956,7 +991,7 @@ window.GUIDE = {
         "desert"
       ],
       "cells": [
-        "Посох духа белладонны; Посох солнечного духа; Хлыст джунглей",
+        "Посох хрупкой звезды; Посох духа белладонны; Хлыст джунглей",
         "Виктидовый доспех — Маска прилива",
         "Ботинки Гермеса; Браслет регенерации; Электропривод вездехода; Наэлектризованное желе; Вульфрумовый аккумулятор; Облако в банке",
         "Щит Ктулху появится только после этого боя; в комплект до Глаза он не входит. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов."
@@ -989,6 +1024,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -1022,6 +1058,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "Barinade",
         "PlatinumBow",
         "Minishark"
       ],
@@ -1036,6 +1073,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -1052,7 +1090,7 @@ window.GUIDE = {
         "eye"
       ],
       "cells": [
-        "Платиновый лук; Мини-акула",
+        "Баринад; Платиновый лук; Мини-акула",
         "Виктидовый доспех — Коралловый тюрбан прилива",
         "Ботинки Гермеса; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Ожерелье из акульих зубов; Облако в банке",
         "После победы найди связанного Гоблина-инженера и подготовь мастерскую. До события улучшенные ботинки ещё не входят в маршрут. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса."
@@ -1070,6 +1108,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "CoralSpout",
+        "DemonScythe",
         "DiamondStaff"
       ],
       "armor": [
@@ -1083,6 +1122,7 @@ window.GUIDE = {
         "NaturesGift",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -1099,7 +1139,7 @@ window.GUIDE = {
         "eye"
       ],
       "cells": [
-        "Коралловая струя; Алмазный посох",
+        "Коралловая струя; Демоническая коса; Алмазный посох",
         "Виктидовый доспех — Шлем отшельника прилива",
         "Ботинки Гермеса; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Дар природы; Облако в банке",
         "После победы найди связанного Гоблина-инженера и подготовь мастерскую. До события улучшенные ботинки ещё не входят в маршрут. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы."
@@ -1120,7 +1160,7 @@ window.GUIDE = {
         "Crystalline"
       ],
       "armor": [
-        "victide-rogue"
+        "sulphurous-rogue"
       ],
       "accessories": [
         "HermesBoots",
@@ -1130,6 +1170,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -1147,7 +1188,7 @@ window.GUIDE = {
       ],
       "cells": [
         "Бомба морской пены; Кристаллин",
-        "Виктидовый доспех — Накрабовник прилива",
+        "Серный доспех — разбойник",
         "Ботинки Гермеса; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Ожерелье из акульих зубов; Облако в банке",
         "После победы найди связанного Гоблина-инженера и подготовь мастерскую. До события улучшенные ботинки ещё не входят в маршрут. Выбери скрытные удары или непрерывные броски под конкретное оружие. Для скрытных ударов дождись заполнения шкалы перед атакой."
       ],
@@ -1163,8 +1204,8 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "BrittleStarStaff",
         "BelladonnaSpiritStaff",
-        "SunSpiritStaff",
         "ThornWhip"
       ],
       "armor": [
@@ -1179,6 +1220,7 @@ window.GUIDE = {
         "WulfrumBattery",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -1195,7 +1237,7 @@ window.GUIDE = {
         "eye"
       ],
       "cells": [
-        "Посох духа белладонны; Посох солнечного духа; Хлыст джунглей",
+        "Посох хрупкой звезды; Посох духа белладонны; Хлыст джунглей",
         "Виктидовый доспех — Маска прилива",
         "Ботинки Гермеса; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Наэлектризованное желе; Вульфрумовый аккумулятор; Облако в банке",
         "После победы найди связанного Гоблина-инженера и подготовь мастерскую. До события улучшенные ботинки ещё не входят в маршрут. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов."
@@ -1228,6 +1270,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "TungstenEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -1263,6 +1306,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "Barinade",
         "PlatinumBow",
         "Minishark"
       ],
@@ -1277,6 +1321,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -1295,7 +1340,7 @@ window.GUIDE = {
         "goblins"
       ],
       "cells": [
-        "Платиновый лук; Мини-акула",
+        "Баринад; Платиновый лук; Мини-акула",
         "Виктидовый доспех — Коралловый тюрбан прилива",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Ожерелье из акульих зубов; Облако в банке",
         "Фунгицид, Корень гриба и Грибной комок — дроп Крабулона, для первого боя они не нужны. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса."
@@ -1313,6 +1358,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "CoralSpout",
+        "DemonScythe",
         "DiamondStaff"
       ],
       "armor": [
@@ -1327,6 +1373,7 @@ window.GUIDE = {
         "ManaFlower",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -1345,7 +1392,7 @@ window.GUIDE = {
         "goblins"
       ],
       "cells": [
-        "Коралловая струя; Алмазный посох",
+        "Коралловая струя; Демоническая коса; Алмазный посох",
         "Виктидовый доспех — Шлем отшельника прилива",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Дар природы; Цветок маны; Облако в банке",
         "Фунгицид, Корень гриба и Грибной комок — дроп Крабулона, для первого боя они не нужны. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы."
@@ -1366,7 +1413,7 @@ window.GUIDE = {
         "Crystalline"
       ],
       "armor": [
-        "victide-rogue"
+        "sulphurous-rogue"
       ],
       "accessories": [
         "LightningBoots",
@@ -1376,6 +1423,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -1395,7 +1443,7 @@ window.GUIDE = {
       ],
       "cells": [
         "Бомба морской пены; Кристаллин",
-        "Виктидовый доспех — Накрабовник прилива",
+        "Серный доспех — разбойник",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Ожерелье из акульих зубов; Облако в банке",
         "Фунгицид, Корень гриба и Грибной комок — дроп Крабулона, для первого боя они не нужны. Выбери скрытные удары или непрерывные броски под конкретное оружие. Для скрытных ударов дождись заполнения шкалы перед атакой."
       ],
@@ -1411,8 +1459,8 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "BrittleStarStaff",
         "BelladonnaSpiritStaff",
-        "SunSpiritStaff",
         "ThornWhip"
       ],
       "armor": [
@@ -1427,6 +1475,7 @@ window.GUIDE = {
         "WulfrumBattery",
         "TungstenEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -1445,7 +1494,7 @@ window.GUIDE = {
         "goblins"
       ],
       "cells": [
-        "Посох духа белладонны; Посох солнечного духа; Хлыст джунглей",
+        "Посох хрупкой звезды; Посох духа белладонны; Хлыст джунглей",
         "Виктидовый доспех — Маска прилива",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Наэлектризованное желе; Вульфрумовый аккумулятор; Вольфрамовое усиление",
         "Фунгицид, Корень гриба и Грибной комок — дроп Крабулона, для первого боя они не нужны. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов."
@@ -1478,6 +1527,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "TungstenEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -1514,8 +1564,9 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "Barinade",
         "Fungicide",
-        "Minishark"
+        "PlatinumBow"
       ],
       "armor": [
         "victide-ranged"
@@ -1528,6 +1579,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -1548,7 +1600,7 @@ window.GUIDE = {
         "crabulon"
       ],
       "cells": [
-        "Фунгицид; Мини-акула",
+        "Баринад; Фунгицид; Платиновый лук",
         "Виктидовый доспех — Коралловый тюрбан прилива",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Ожерелье из акульих зубов; Облако в банке",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса."
@@ -1565,8 +1617,9 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "HyphaeRod",
         "CoralSpout",
-        "DiamondStaff"
+        "DemonScythe"
       ],
       "armor": [
         "victide-magic"
@@ -1580,6 +1633,7 @@ window.GUIDE = {
         "ManaFlower",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -1588,7 +1642,8 @@ window.GUIDE = {
       "requires": [
         "desert",
         "eye",
-        "goblins"
+        "goblins",
+        "crabulon"
       ],
       "before": [
         "trojan",
@@ -1599,7 +1654,7 @@ window.GUIDE = {
         "crabulon"
       ],
       "cells": [
-        "Коралловая струя; Алмазный посох",
+        "Гифовый жезл; Коралловая струя; Демоническая коса",
         "Виктидовый доспех — Шлем отшельника прилива",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Дар природы; Цветок маны; Облако в банке",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы."
@@ -1620,7 +1675,7 @@ window.GUIDE = {
         "SeafoamBomb"
       ],
       "armor": [
-        "victide-rogue"
+        "sulphurous-rogue"
       ],
       "accessories": [
         "LightningBoots",
@@ -1630,6 +1685,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -1651,7 +1707,7 @@ window.GUIDE = {
       ],
       "cells": [
         "Грибокорень; Бомба морской пены",
-        "Виктидовый доспех — Накрабовник прилива",
+        "Серный доспех — разбойник",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Ожерелье из акульих зубов; Облако в банке",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Выбери скрытные удары или непрерывные броски под конкретное оружие. Для скрытных ударов дождись заполнения шкалы перед атакой."
       ],
@@ -1667,8 +1723,8 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "BrittleStarStaff",
         "BelladonnaSpiritStaff",
-        "SunSpiritStaff",
         "ThornWhip"
       ],
       "armor": [
@@ -1683,6 +1739,7 @@ window.GUIDE = {
         "WulfrumBattery",
         "TungstenEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -1702,7 +1759,7 @@ window.GUIDE = {
         "crabulon"
       ],
       "cells": [
-        "Посох духа белладонны; Посох солнечного духа; Хлыст джунглей",
+        "Посох хрупкой звезды; Посох духа белладонны; Хлыст джунглей",
         "Виктидовый доспех — Маска прилива",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Наэлектризованное желе; Вульфрумовый аккумулятор; Вольфрамовое усиление",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов."
@@ -1735,6 +1792,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "TungstenEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -1772,8 +1830,9 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "Barinade",
         "Fungicide",
-        "Minishark"
+        "PlatinumBow"
       ],
       "armor": [
         "victide-ranged"
@@ -1786,6 +1845,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -1807,7 +1867,7 @@ window.GUIDE = {
         "cursed"
       ],
       "cells": [
-        "Фунгицид; Мини-акула",
+        "Баринад; Фунгицид; Платиновый лук",
         "Виктидовый доспех — Коралловый тюрбан прилива",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Ожерелье из акульих зубов; Облако в банке",
         "Убей босса зла своего мира. Снаряжение из противоположного зла не включено в обязательный комплект. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса."
@@ -1824,8 +1884,9 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "HyphaeRod",
         "CoralSpout",
-        "DiamondStaff"
+        "DemonScythe"
       ],
       "armor": [
         "victide-magic"
@@ -1839,6 +1900,7 @@ window.GUIDE = {
         "ManaFlower",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -1847,7 +1909,8 @@ window.GUIDE = {
       "requires": [
         "desert",
         "eye",
-        "goblins"
+        "goblins",
+        "crabulon"
       ],
       "before": [
         "trojan",
@@ -1859,7 +1922,7 @@ window.GUIDE = {
         "cursed"
       ],
       "cells": [
-        "Коралловая струя; Алмазный посох",
+        "Гифовый жезл; Коралловая струя; Демоническая коса",
         "Виктидовый доспех — Шлем отшельника прилива",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Дар природы; Цветок маны; Облако в банке",
         "Убей босса зла своего мира. Снаряжение из противоположного зла не включено в обязательный комплект. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы."
@@ -1880,7 +1943,7 @@ window.GUIDE = {
         "SeafoamBomb"
       ],
       "armor": [
-        "victide-rogue"
+        "sulphurous-rogue"
       ],
       "accessories": [
         "LightningBoots",
@@ -1890,6 +1953,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -1912,7 +1976,7 @@ window.GUIDE = {
       ],
       "cells": [
         "Грибокорень; Бомба морской пены",
-        "Виктидовый доспех — Накрабовник прилива",
+        "Серный доспех — разбойник",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Ожерелье из акульих зубов; Облако в банке",
         "Убей босса зла своего мира. Снаряжение из противоположного зла не включено в обязательный комплект. Выбери скрытные удары или непрерывные броски под конкретное оружие. Для скрытных ударов дождись заполнения шкалы перед атакой."
       ],
@@ -1928,8 +1992,8 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "BrittleStarStaff",
         "BelladonnaSpiritStaff",
-        "SunSpiritStaff",
         "ThornWhip"
       ],
       "armor": [
@@ -1944,6 +2008,7 @@ window.GUIDE = {
         "WulfrumBattery",
         "TungstenEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -1964,7 +2029,7 @@ window.GUIDE = {
         "cursed"
       ],
       "cells": [
-        "Посох духа белладонны; Посох солнечного духа; Хлыст джунглей",
+        "Посох хрупкой звезды; Посох духа белладонны; Хлыст джунглей",
         "Виктидовый доспех — Маска прилива",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Наэлектризованное желе; Вульфрумовый аккумулятор; Вольфрамовое усиление",
         "Убей босса зла своего мира. Снаряжение из противоположного зла не включено в обязательный комплект. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов."
@@ -1996,6 +2061,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "TungstenEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -2048,6 +2114,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -2088,8 +2155,9 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
-        "CoralSpout",
-        "DiamondStaff"
+        "HellwingStaff",
+        "HyphaeRod",
+        "DemonScythe"
       ],
       "armor": [
         "victide-magic"
@@ -2103,6 +2171,7 @@ window.GUIDE = {
         "ManaFlower",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -2111,7 +2180,9 @@ window.GUIDE = {
       "requires": [
         "desert",
         "eye",
-        "goblins"
+        "goblins",
+        "crabulon",
+        "evil"
       ],
       "before": [
         "trojan",
@@ -2124,7 +2195,7 @@ window.GUIDE = {
         "evil"
       ],
       "cells": [
-        "Коралловая струя; Алмазный посох",
+        "Посох адского крыла; Гифовый жезл; Демоническая коса",
         "Виктидовый доспех — Шлем отшельника прилива",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Дар природы; Цветок маны; Облако в банке",
         "Аэриалит и аэрофазовая броня появятся после Разума улья/Перфораторов; здесь они ещё не используются. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы."
@@ -2141,11 +2212,12 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "SludgeSplotch",
         "Mycoroot",
         "SeafoamBomb"
       ],
       "armor": [
-        "victide-rogue"
+        "sulphurous-rogue"
       ],
       "accessories": [
         "LightningBoots",
@@ -2155,6 +2227,7 @@ window.GUIDE = {
         "CoinofDeceit",
         "CloudinaBottle"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -2178,8 +2251,8 @@ window.GUIDE = {
         "evil"
       ],
       "cells": [
-        "Грибокорень; Бомба морской пены",
-        "Виктидовый доспех — Накрабовник прилива",
+        "Комок шлама; Грибокорень; Бомба морской пены",
+        "Серный доспех — разбойник",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Монета обмана; Облако в банке",
         "Аэриалит и аэрофазовая броня появятся после Разума улья/Перфораторов; здесь они ещё не используются. Выбери скрытные удары или непрерывные броски под конкретное оружие. Для скрытных ударов дождись заполнения шкалы перед атакой."
       ],
@@ -2195,8 +2268,8 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
-        "BelladonnaSpiritStaff",
-        "SunSpiritStaff",
+        "BrittleStarStaff",
+        "CinderBlossomStaff",
         "ThornWhip"
       ],
       "armor": [
@@ -2211,6 +2284,7 @@ window.GUIDE = {
         "WulfrumBattery",
         "TungstenEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [],
       "expertAccessories": [
         "EoCShield"
@@ -2219,7 +2293,8 @@ window.GUIDE = {
       "requires": [
         "desert",
         "eye",
-        "goblins"
+        "goblins",
+        "evil"
       ],
       "before": [
         "trojan",
@@ -2232,10 +2307,10 @@ window.GUIDE = {
         "evil"
       ],
       "cells": [
-        "Посох духа белладонны; Посох солнечного духа; Хлыст джунглей",
+        "Посох хрупкой звезды; Посох пепельного цветка; Хлыст джунглей",
         "Виктидовый доспех — Маска прилива",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Наэлектризованное желе; Вульфрумовый аккумулятор; Вольфрамовое усиление",
-        "Аэриалит и аэрофазовая броня появятся после Разума улья/Перфораторов; здесь они ещё не используются. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов."
+        "Аэриалит и аэрофазовая броня появятся после Разума улья/Перфораторов; здесь они ещё не используются. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов. В этой версии Пепельный цветок занимает один слот миньона. Оставшиеся слоты можно заполнить хрупкими звёздами."
       ],
       "notes": [],
       "links": []
@@ -2265,6 +2340,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "AerospecEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -2321,6 +2397,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "AerospecEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -2364,7 +2441,8 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "Tradewinds",
-        "CoralSpout"
+        "HellwingStaff",
+        "DemonScythe"
       ],
       "armor": [
         "aerospec-magic"
@@ -2378,6 +2456,7 @@ window.GUIDE = {
         "ManaFlower",
         "AerospecEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -2386,9 +2465,9 @@ window.GUIDE = {
       ],
       "normalAccessorySlots": 6,
       "requires": [
-        "desert",
         "eye",
         "goblins",
+        "evil",
         "hive"
       ],
       "before": [
@@ -2403,7 +2482,7 @@ window.GUIDE = {
         "hive"
       ],
       "cells": [
-        "Пассаты; Коралловая струя",
+        "Пассаты; Посох адского крыла; Демоническая коса",
         "Аэрофазовый доспех — Аэрофазовая шляпа",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Дар природы; Цветок маны; Аэрофазовое усиление",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы."
@@ -2434,6 +2513,7 @@ window.GUIDE = {
         "CoinofDeceit",
         "AerospecEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -2477,8 +2557,8 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
-        "BelladonnaSpiritStaff",
-        "SunSpiritStaff",
+        "BrittleStarStaff",
+        "CinderBlossomStaff",
         "ThornWhip"
       ],
       "armor": [
@@ -2493,6 +2573,7 @@ window.GUIDE = {
         "WulfrumBattery",
         "AerospecEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -2504,6 +2585,7 @@ window.GUIDE = {
         "desert",
         "eye",
         "goblins",
+        "evil",
         "hive"
       ],
       "before": [
@@ -2518,10 +2600,10 @@ window.GUIDE = {
         "hive"
       ],
       "cells": [
-        "Посох духа белладонны; Посох солнечного духа; Хлыст джунглей",
+        "Посох хрупкой звезды; Посох пепельного цветка; Хлыст джунглей",
         "Аэрофазовый доспех — Аэрофазовая каска",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Наэлектризованное желе; Вульфрумовый аккумулятор; Аэрофазовое усиление",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов."
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов. В этой версии Пепельный цветок занимает один слот миньона. Оставшиеся слоты можно заполнить хрупкими звёздами."
       ],
       "notes": [],
       "links": []
@@ -2551,6 +2633,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "AerospecEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -2608,6 +2691,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "AerospecEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -2652,7 +2736,8 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "Tradewinds",
-        "CoralSpout"
+        "HellwingStaff",
+        "DemonScythe"
       ],
       "armor": [
         "aerospec-magic"
@@ -2666,6 +2751,7 @@ window.GUIDE = {
         "ManaFlower",
         "AerospecEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -2674,9 +2760,9 @@ window.GUIDE = {
       ],
       "normalAccessorySlots": 6,
       "requires": [
-        "desert",
         "eye",
         "goblins",
+        "evil",
         "hive"
       ],
       "before": [
@@ -2692,7 +2778,7 @@ window.GUIDE = {
         "bee"
       ],
       "cells": [
-        "Пассаты; Коралловая струя",
+        "Пассаты; Посох адского крыла; Демоническая коса",
         "Аэрофазовый доспех — Аэрофазовая шляпа",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Дар природы; Цветок маны; Аэрофазовое усиление",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы."
@@ -2723,6 +2809,7 @@ window.GUIDE = {
         "CoinofDeceit",
         "AerospecEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -2768,7 +2855,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "HornetStaff",
-        "BelladonnaSpiritStaff",
+        "BrittleStarStaff",
         "ThornWhip"
       ],
       "armor": [
@@ -2783,6 +2870,7 @@ window.GUIDE = {
         "WulfrumBattery",
         "AerospecEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -2810,7 +2898,7 @@ window.GUIDE = {
         "bee"
       ],
       "cells": [
-        "Посох шершня; Посох духа белладонны; Хлыст джунглей",
+        "Посох шершня; Посох хрупкой звезды; Хлыст джунглей",
         "Аэрофазовый доспех — Аэрофазовая каска",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Наэлектризованное желе; Вульфрумовый аккумулятор; Аэрофазовое усиление",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов."
@@ -2843,6 +2931,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "AerospecEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -2901,6 +2990,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "AerospecEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -2946,7 +3036,8 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "Tradewinds",
-        "CoralSpout"
+        "HellwingStaff",
+        "DemonScythe"
       ],
       "armor": [
         "aerospec-magic"
@@ -2960,6 +3051,7 @@ window.GUIDE = {
         "ManaFlower",
         "AerospecEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -2968,9 +3060,9 @@ window.GUIDE = {
       ],
       "normalAccessorySlots": 6,
       "requires": [
-        "desert",
         "eye",
         "goblins",
+        "evil",
         "hive"
       ],
       "before": [
@@ -2987,7 +3079,7 @@ window.GUIDE = {
         "deer"
       ],
       "cells": [
-        "Пассаты; Коралловая струя",
+        "Пассаты; Посох адского крыла; Демоническая коса",
         "Аэрофазовый доспех — Аэрофазовая шляпа",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Дар природы; Цветок маны; Аэрофазовое усиление",
         "Темница и её оружие — после Скелетрона. Перед первым боем здесь нет Мурамасы, Пистолета, Посоха селёдки и некро-брони. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы."
@@ -3018,6 +3110,7 @@ window.GUIDE = {
         "CoinofDeceit",
         "AerospecEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -3064,7 +3157,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "HornetStaff",
-        "BelladonnaSpiritStaff",
+        "BrittleStarStaff",
         "ThornWhip"
       ],
       "armor": [
@@ -3079,6 +3172,7 @@ window.GUIDE = {
         "WulfrumBattery",
         "AerospecEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -3107,7 +3201,7 @@ window.GUIDE = {
         "deer"
       ],
       "cells": [
-        "Посох шершня; Посох духа белладонны; Хлыст джунглей",
+        "Посох шершня; Посох хрупкой звезды; Хлыст джунглей",
         "Аэрофазовый доспех — Аэрофазовая каска",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Наэлектризованное желе; Вульфрумовый аккумулятор; Аэрофазовое усиление",
         "Темница и её оружие — после Скелетрона. Перед первым боем здесь нет Мурамасы, Пистолета, Посоха селёдки и некро-брони. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов."
@@ -3140,6 +3234,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "AerospecEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -3187,6 +3282,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "Archerfish",
+        "FlurrystormCannon",
         "PhoenixBlaster"
       ],
       "armor": [
@@ -3200,6 +3296,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "AerospecEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -3208,6 +3305,7 @@ window.GUIDE = {
       ],
       "normalAccessorySlots": 6,
       "requires": [
+        "desert",
         "eye",
         "goblins",
         "evil",
@@ -3229,7 +3327,7 @@ window.GUIDE = {
         "skeletron"
       ],
       "cells": [
-        "Брызгун; Бластер феникса",
+        "Брызгун; Пушка снежного шторма; Бластер феникса",
         "Некро-броня",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Ожерелье из акульих зубов; Аэрофазовое усиление",
         "Очищенный гель и статигель — награда за этот бой. До первого Бога слизней статигелевой брони в комплекте нет. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса."
@@ -3246,8 +3344,9 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
-        "WaterBolt",
-        "Flamelash"
+        "BlackAnurian",
+        "Tradewinds",
+        "HellwingStaff"
       ],
       "armor": [
         "aerospec-magic"
@@ -3261,6 +3360,7 @@ window.GUIDE = {
         "ManaFlower",
         "AerospecEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -3271,6 +3371,7 @@ window.GUIDE = {
       "requires": [
         "eye",
         "goblins",
+        "evil",
         "hive",
         "skeletron"
       ],
@@ -3289,7 +3390,7 @@ window.GUIDE = {
         "skeletron"
       ],
       "cells": [
-        "Водяной выстрел; Огнеплеть",
+        "Чёрный ануриан; Пассаты; Посох адского крыла",
         "Аэрофазовый доспех — Аэрофазовая шляпа",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Дар природы; Цветок маны; Аэрофазовое усиление",
         "Очищенный гель и статигель — награда за этот бой. До первого Бога слизней статигелевой брони в комплекте нет. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы."
@@ -3306,8 +3407,9 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "ShinobiBlade",
         "Lionfish",
-        "Turbulance"
+        "EnchantedAxe"
       ],
       "armor": [
         "aerospec-rogue"
@@ -3320,6 +3422,7 @@ window.GUIDE = {
         "CoinofDeceit",
         "AerospecEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -3328,6 +3431,7 @@ window.GUIDE = {
       ],
       "normalAccessorySlots": 6,
       "requires": [
+        "desert",
         "eye",
         "goblins",
         "evil",
@@ -3349,7 +3453,7 @@ window.GUIDE = {
         "skeletron"
       ],
       "cells": [
-        "Рыба-лев; Турбулентность",
+        "Клинок шиноби; Рыба-лев; Зачарованный топор",
         "Аэрофазовый доспех — Аэрофазовый головной убор",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Монета обмана; Аэрофазовое усиление",
         "Очищенный гель и статигель — награда за этот бой. До первого Бога слизней статигелевой брони в комплекте нет. Выбери скрытные удары или непрерывные броски под конкретное оружие. Для скрытных ударов дождись заполнения шкалы перед атакой."
@@ -3366,8 +3470,8 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "StaffOfNecrosteocytes",
         "HerringStaff",
-        "HornetStaff",
         "BoneWhip"
       ],
       "armor": [
@@ -3382,6 +3486,7 @@ window.GUIDE = {
         "WulfrumBattery",
         "AerospecEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -3394,7 +3499,6 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
-        "bee",
         "skeletron"
       ],
       "before": [
@@ -3412,7 +3516,7 @@ window.GUIDE = {
         "skeletron"
       ],
       "cells": [
-        "Посох селёдки; Посох шершня; Спинномозговой хлыст",
+        "Посох некростеоцита; Посох селёдки; Спинномозговой хлыст",
         "Аэрофазовый доспех — Аэрофазовая каска",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Наэлектризованное желе; Вульфрумовый аккумулятор; Аэрофазовое усиление",
         "Очищенный гель и статигель — награда за этот бой. До первого Бога слизней статигелевой брони в комплекте нет. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов."
@@ -3445,6 +3549,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -3508,6 +3613,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -3571,6 +3677,7 @@ window.GUIDE = {
         "ManaFlower",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -3620,8 +3727,9 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
-        "GelDart",
-        "Lionfish"
+        "ShinobiBlade",
+        "Lionfish",
+        "GelDart"
       ],
       "armor": [
         "statigel-rogue"
@@ -3634,6 +3742,7 @@ window.GUIDE = {
         "CoinofDeceit",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -3666,7 +3775,7 @@ window.GUIDE = {
         "slime-god"
       ],
       "cells": [
-        "Гелевый дротик; Рыба-лев",
+        "Клинок шиноби; Рыба-лев; Гелевый дротик",
         "Статигелевый доспех — Статигелевая маска",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Монета обмана; Статигелевое усиление",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Выбери скрытные удары или непрерывные броски под конкретное оружие. Для скрытных ударов дождись заполнения шкалы перед атакой."
@@ -3683,8 +3792,8 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "EyeOfNight",
         "SlimePuppetStaff",
-        "HerringStaff",
         "BoneWhip"
       ],
       "armor": [
@@ -3699,6 +3808,7 @@ window.GUIDE = {
         "WulfrumBattery",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -3711,6 +3821,7 @@ window.GUIDE = {
         "desert",
         "eye",
         "goblins",
+        "evil",
         "hive",
         "skeletron",
         "slime-god"
@@ -3731,7 +3842,7 @@ window.GUIDE = {
         "slime-god"
       ],
       "cells": [
-        "Посох слизня-марионетки; Посох селёдки; Спинномозговой хлыст",
+        "Глаз ночи; Посох слизня-марионетки; Спинномозговой хлыст",
         "Статигелевый доспех — Статигелевый капюшон",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Наэлектризованное желе; Вульфрумовый аккумулятор; Статигелевое усиление",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов."
@@ -3764,6 +3875,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -3828,6 +3940,7 @@ window.GUIDE = {
         "SharkToothNecklace",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -3892,6 +4005,7 @@ window.GUIDE = {
         "ManaFlower",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -3942,8 +4056,9 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
-        "GelDart",
-        "Lionfish"
+        "ShinobiBlade",
+        "Lionfish",
+        "GelDart"
       ],
       "armor": [
         "statigel-rogue"
@@ -3956,6 +4071,7 @@ window.GUIDE = {
         "CoinofDeceit",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -3989,7 +4105,7 @@ window.GUIDE = {
         "deviantt"
       ],
       "cells": [
-        "Гелевый дротик; Рыба-лев",
+        "Клинок шиноби; Рыба-лев; Гелевый дротик",
         "Статигелевый доспех — Статигелевая маска",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Монета обмана; Статигелевое усиление",
         "Это последний бой до хардмода: статигелевая броня допустима, палладиевая и остальные хардмодные комплекты отсутствуют. Подготовь длинную ровную арену. Выбери скрытные удары или непрерывные броски под конкретное оружие. Для скрытных ударов дождись заполнения шкалы перед атакой."
@@ -4006,8 +4122,8 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "EyeOfNight",
         "SlimePuppetStaff",
-        "HerringStaff",
         "BoneWhip"
       ],
       "armor": [
@@ -4022,6 +4138,7 @@ window.GUIDE = {
         "WulfrumBattery",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -4034,6 +4151,7 @@ window.GUIDE = {
         "desert",
         "eye",
         "goblins",
+        "evil",
         "hive",
         "skeletron",
         "slime-god"
@@ -4055,7 +4173,7 @@ window.GUIDE = {
         "deviantt"
       ],
       "cells": [
-        "Посох слизня-марионетки; Посох селёдки; Спинномозговой хлыст",
+        "Глаз ночи; Посох слизня-марионетки; Спинномозговой хлыст",
         "Статигелевый доспех — Статигелевый капюшон",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Наэлектризованное желе; Вульфрумовый аккумулятор; Статигелевое усиление",
         "Это последний бой до хардмода: статигелевая броня допустима, палладиевая и остальные хардмодные комплекты отсутствуют. Подготовь длинную ровную арену. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов."
@@ -4087,6 +4205,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -4140,6 +4259,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "DaedalusStormbow",
+        "FlarewingBow",
         "Shotgun"
       ],
       "armor": [
@@ -4153,6 +4273,7 @@ window.GUIDE = {
         "RangerEmblem",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -4187,7 +4308,7 @@ window.GUIDE = {
         "wall"
       ],
       "cells": [
-        "Штормовой лук Дедала; Дробовик",
+        "Штормовой лук Дедала; Лук огненного крыла; Дробовик",
         "Палладиевая броня — стрелок",
         "Молниеносные ботинки; Щит Ктулху; Амулет мифов; Звёздная завеса; Эмблема стрелка; Статигелевое усиление",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -4219,6 +4340,7 @@ window.GUIDE = {
         "ManaFlower",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -4285,6 +4407,7 @@ window.GUIDE = {
         "CoinofDeceit",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -4353,6 +4476,7 @@ window.GUIDE = {
         "SummonerEmblem",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -4419,6 +4543,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -4473,6 +4598,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "DaedalusStormbow",
+        "FlarewingBow",
         "Shotgun"
       ],
       "armor": [
@@ -4486,6 +4612,7 @@ window.GUIDE = {
         "RangerEmblem",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -4521,7 +4648,7 @@ window.GUIDE = {
         "queen-slime"
       ],
       "cells": [
-        "Штормовой лук Дедала; Дробовик",
+        "Штормовой лук Дедала; Лук огненного крыла; Дробовик",
         "Палладиевая броня — стрелок",
         "Молниеносные ботинки; Щит Ктулху; Амулет мифов; Звёздная завеса; Эмблема стрелка; Статигелевое усиление",
         "В этом маршруте Уничтожитель — первый мех. Мегаакула и мифриловые крафты появятся после его победы. Для стрелка заранее нафарми освященного мимика; для лука бери доступные святые/шутовские стрелы. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -4553,6 +4680,7 @@ window.GUIDE = {
         "ManaFlower",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -4620,6 +4748,7 @@ window.GUIDE = {
         "CoinofDeceit",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -4689,6 +4818,7 @@ window.GUIDE = {
         "SummonerEmblem",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SkylineWings"
       ],
@@ -4755,6 +4885,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -4823,6 +4954,7 @@ window.GUIDE = {
         "RangerEmblem",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -4891,6 +5023,7 @@ window.GUIDE = {
         "ManaFlower",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -4958,6 +5091,7 @@ window.GUIDE = {
         "RuinMedallion",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -5028,6 +5162,7 @@ window.GUIDE = {
         "SummonerEmblem",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -5095,6 +5230,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -5151,6 +5287,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "MineralMortar",
         "Megashark",
         "DaedalusStormbow"
       ],
@@ -5165,6 +5302,7 @@ window.GUIDE = {
         "RangerEmblem",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -5203,7 +5341,7 @@ window.GUIDE = {
         "twins"
       ],
       "cells": [
-        "Мега-акула; Штормовой лук Дедала",
+        "Минеральная мортира; Мега-акула; Штормовой лук Дедала",
         "Палладиевая броня — стрелок",
         "Молниеносные ботинки; Щит Ктулху; Амулет мифов; Звёздная завеса; Эмблема стрелка; Статигелевое усиление",
         "Криоген стоит после двух мехов: после победы можно добыть его руду киркой на 180% и плавить её в нужной печи. Для первого Криогена его броня и оружие исключены. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -5235,6 +5373,7 @@ window.GUIDE = {
         "ManaFlower",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -5304,6 +5443,7 @@ window.GUIDE = {
         "RuinMedallion",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -5376,6 +5516,7 @@ window.GUIDE = {
         "SummonerEmblem",
         "StatigelEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -5445,6 +5586,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -5498,6 +5640,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "DarkechoGreatbow",
+        "MineralMortar",
         "Megashark"
       ],
       "armor": [
@@ -5511,6 +5654,7 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -5546,7 +5690,7 @@ window.GUIDE = {
         "cryogen"
       ],
       "cells": [
-        "Большой лук тёмного эха; Мега-акула",
+        "Большой лук тёмного эха; Минеральная мортира; Мега-акула",
         "Доспех Дедала — Головной убор Дедала",
         "Молниеносные ботинки; Украшенный щит; Амулет мифов; Звёздная завеса; Эмблема стрелка; Усиление Дедала",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -5578,6 +5722,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -5644,6 +5789,7 @@ window.GUIDE = {
         "RuinMedallion",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -5713,6 +5859,7 @@ window.GUIDE = {
         "SummonerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -5779,6 +5926,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -5833,6 +5981,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "DarkechoGreatbow",
+        "MineralMortar",
         "Megashark"
       ],
       "armor": [
@@ -5846,6 +5995,7 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -5882,7 +6032,7 @@ window.GUIDE = {
         "baron"
       ],
       "cells": [
-        "Большой лук тёмного эха; Мега-акула",
+        "Большой лук тёмного эха; Минеральная мортира; Мега-акула",
         "Доспех Дедала — Головной убор Дедала",
         "Молниеносные ботинки; Украшенный щит; Амулет мифов; Звёздная завеса; Эмблема стрелка; Усиление Дедала",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -5914,6 +6064,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -5981,6 +6132,7 @@ window.GUIDE = {
         "RuinMedallion",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -6051,6 +6203,7 @@ window.GUIDE = {
         "SummonerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -6118,6 +6271,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -6173,6 +6327,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "DarkechoGreatbow",
+        "MineralMortar",
         "Megashark"
       ],
       "armor": [
@@ -6186,6 +6341,7 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -6223,7 +6379,7 @@ window.GUIDE = {
         "aquatic"
       ],
       "cells": [
-        "Большой лук тёмного эха; Мега-акула",
+        "Большой лук тёмного эха; Минеральная мортира; Мега-акула",
         "Доспех Дедала — Головной убор Дедала",
         "Молниеносные ботинки; Украшенный щит; Амулет мифов; Звёздная завеса; Эмблема стрелка; Усиление Дедала",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -6255,6 +6411,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -6323,6 +6480,7 @@ window.GUIDE = {
         "RuinMedallion",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -6394,6 +6552,7 @@ window.GUIDE = {
         "SummonerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -6462,6 +6621,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -6518,6 +6678,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "DarkechoGreatbow",
+        "MineralMortar",
         "Megashark"
       ],
       "armor": [
@@ -6531,6 +6692,7 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -6569,7 +6731,7 @@ window.GUIDE = {
         "brimstone"
       ],
       "cells": [
-        "Большой лук тёмного эха; Мега-акула",
+        "Большой лук тёмного эха; Минеральная мортира; Мега-акула",
         "Доспех Дедала — Головной убор Дедала",
         "Молниеносные ботинки; Украшенный щит; Амулет мифов; Звёздная завеса; Эмблема стрелка; Усиление Дедала",
         "Прайм — третий мех; вещи, которым нужны эссенции всех трёх мехов, ещё исключены. Здесь уже доступны крафты Дедала после Криогена и двух предыдущих мехов. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -6601,6 +6763,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -6670,6 +6833,7 @@ window.GUIDE = {
         "RuinMedallion",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -6742,6 +6906,7 @@ window.GUIDE = {
         "SummonerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -6813,6 +6978,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -6886,6 +7052,7 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -6960,6 +7127,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -7034,6 +7202,7 @@ window.GUIDE = {
         "RogueEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -7109,6 +7278,7 @@ window.GUIDE = {
         "SummonerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -7184,6 +7354,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -7260,6 +7431,7 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -7335,6 +7507,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -7410,6 +7583,7 @@ window.GUIDE = {
         "RogueEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -7486,6 +7660,7 @@ window.GUIDE = {
         "SummonerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -7562,6 +7737,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -7639,6 +7815,7 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -7715,6 +7892,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -7791,6 +7969,7 @@ window.GUIDE = {
         "RogueEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -7868,6 +8047,7 @@ window.GUIDE = {
         "SummonerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -7945,6 +8125,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -8025,6 +8206,7 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -8104,6 +8286,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -8183,6 +8366,7 @@ window.GUIDE = {
         "RogueEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -8263,6 +8447,7 @@ window.GUIDE = {
         "SummonerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -8344,6 +8529,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -8426,6 +8612,7 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -8506,6 +8693,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -8586,6 +8774,7 @@ window.GUIDE = {
         "RogueEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -8668,6 +8857,7 @@ window.GUIDE = {
         "SummonerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -8750,6 +8940,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -8833,6 +9024,7 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -8914,6 +9106,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -8995,6 +9188,7 @@ window.GUIDE = {
         "RogueEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -9078,6 +9272,7 @@ window.GUIDE = {
         "SummonerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -9161,6 +9356,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -9246,6 +9442,7 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -9330,6 +9527,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -9413,6 +9611,7 @@ window.GUIDE = {
         "RogueEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -9497,6 +9696,7 @@ window.GUIDE = {
         "SummonerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -9582,6 +9782,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -9668,6 +9869,7 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -9753,6 +9955,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -9837,6 +10040,7 @@ window.GUIDE = {
         "RogueEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -9922,6 +10126,7 @@ window.GUIDE = {
         "SummonerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -10008,6 +10213,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -10096,6 +10302,12 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "MagicQuiver"
+        }
+      ],
       "wings": [
         "FairyWings"
       ],
@@ -10153,8 +10365,8 @@ window.GUIDE = {
       "cells": [
         "Мегалодон; Хлорофитовый многозарядный арбалет",
         "Грибонитовая броня для пуль",
-        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление Дедала",
-        "Фармить жуткую древесину, Некромантский свиток и дроп Тыквенного короля. В комплект до первого события не включён его собственный лут. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление ДедалаДля лука вместо Снайперский прицел: Магический колчан",
+        "Фармить жуткую древесину, Некромантский свиток и дроп Тыквенного короля. В комплект до первого события не включён его собственный лут. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -10183,6 +10395,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -10269,6 +10482,7 @@ window.GUIDE = {
         "RogueEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -10355,6 +10569,7 @@ window.GUIDE = {
         "SummonerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -10443,6 +10658,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -10532,6 +10748,12 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "MagicQuiver"
+        }
+      ],
       "wings": [
         "FairyWings"
       ],
@@ -10590,8 +10812,8 @@ window.GUIDE = {
       "cells": [
         "Мегалодон; Хлорофитовый многозарядный арбалет",
         "Грибонитовая броня для пуль",
-        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление Дедала",
-        "Оружие Морозной луны добавляется после её фарма, а не сразу после Голема. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление ДедалаДля лука вместо Снайперский прицел: Магический колчан",
+        "Оружие Морозной луны добавляется после её фарма, а не сразу после Голема. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -10620,6 +10842,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -10707,6 +10930,7 @@ window.GUIDE = {
         "RogueEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -10779,9 +11003,9 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
-        "ResurrectionButterfly",
+        "RavenStaff",
         "PlantationStaff",
-        "MaceWhip"
+        "ScytheWhip"
       ],
       "armor": [
         "spooky"
@@ -10795,6 +11019,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -10816,7 +11041,6 @@ window.GUIDE = {
         "clone",
         "plantera",
         "leviathan",
-        "golem",
         "pumpkin"
       ],
       "before": [
@@ -10854,7 +11078,7 @@ window.GUIDE = {
         "pumpkin"
       ],
       "cells": [
-        "Бабочка воскресения; Посох плантации; Утренняя звезда",
+        "Посох ворона; Посох плантации; Тёмная жатва",
         "Жуткая броня",
         "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Благословение Статиса; Папирусный скарабей; Усиление Дедала",
         "Оружие Морозной луны добавляется после её фарма, а не сразу после Голема. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -10886,6 +11110,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -10976,6 +11201,12 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "MagicQuiver"
+        }
+      ],
       "wings": [
         "FairyWings"
       ],
@@ -11035,8 +11266,8 @@ window.GUIDE = {
       "cells": [
         "Мегалодон; Хлорофитовый многозарядный арбалет",
         "Грибонитовая броня для пуль",
-        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление Дедала",
-        "Ксенопосох, Ксенопушка и Приток появляются после марсианской тарелки; для первого Марсианского безумия здесь прежнее снаряжение. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление ДедалаДля лука вместо Снайперский прицел: Магический колчан",
+        "Ксенопосох, Ксенопушка и Приток появляются после марсианской тарелки; для первого Марсианского безумия здесь прежнее снаряжение. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -11065,6 +11296,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -11154,6 +11386,7 @@ window.GUIDE = {
         "RogueEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -11227,9 +11460,9 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
-        "ResurrectionButterfly",
+        "RavenStaff",
         "PlantationStaff",
-        "MaceWhip"
+        "ScytheWhip"
       ],
       "armor": [
         "spooky"
@@ -11243,6 +11476,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -11303,7 +11537,7 @@ window.GUIDE = {
         "frost"
       ],
       "cells": [
-        "Бабочка воскресения; Посох плантации; Утренняя звезда",
+        "Посох ворона; Посох плантации; Тёмная жатва",
         "Жуткая броня",
         "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Благословение Статиса; Папирусный скарабей; Усиление Дедала",
         "Ксенопосох, Ксенопушка и Приток появляются после марсианской тарелки; для первого Марсианского безумия здесь прежнее снаряжение. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -11335,6 +11569,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -11426,6 +11661,12 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "MagicQuiver"
+        }
+      ],
       "wings": [
         "FairyWings"
       ],
@@ -11487,8 +11728,8 @@ window.GUIDE = {
       "cells": [
         "Ксеновзрывник; Мегалодон",
         "Грибонитовая броня для пуль",
-        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление Дедала",
-        "Для первой Предвестницы чумы нет её оружия и брони, требующей заражённых бронепластин. Доступная после Голема гидротермическая/жуткая броня остаётся рабочим вариантом. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление ДедалаДля лука вместо Снайперский прицел: Магический колчан",
+        "Для первой Предвестницы чумы нет её оружия и брони, требующей заражённых бронепластин. Доступная после Голема гидротермическая/жуткая броня остаётся рабочим вариантом. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -11517,6 +11758,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -11607,6 +11849,7 @@ window.GUIDE = {
         "RogueEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -11697,6 +11940,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -11789,6 +12033,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -11881,6 +12126,12 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "MagicQuiver"
+        }
+      ],
       "wings": [
         "FairyWings"
       ],
@@ -11943,8 +12194,8 @@ window.GUIDE = {
       "cells": [
         "Ядовитость; Мегалодон",
         "Доспех чумного жнеца",
-        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление Дедала",
-        "Калейдоскоп и крылья Императрицы — после этого боя. Для первого убийства они исключены. Дневной бой не обязателен для этого маршрута. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление ДедалаДля лука вместо Снайперский прицел: Магический колчан",
+        "Калейдоскоп и крылья Императрицы — после этого боя. Для первого убийства они исключены. Дневной бой не обязателен для этого маршрута. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -11973,6 +12224,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -12064,6 +12316,7 @@ window.GUIDE = {
         "RogueEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -12156,6 +12409,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -12250,6 +12504,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -12343,6 +12598,12 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "MagicQuiver"
+        }
+      ],
       "wings": [
         "FairyWings"
       ],
@@ -12406,8 +12667,8 @@ window.GUIDE = {
       "cells": [
         "Ядовитость; Мегалодон",
         "Доспех чумного жнеца",
-        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление Дедала",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление ДедалаДля лука вместо Снайперский прицел: Магический колчан",
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -12436,6 +12697,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -12528,6 +12790,7 @@ window.GUIDE = {
         "RogueEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -12621,6 +12884,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FairyWings"
       ],
@@ -12717,6 +12981,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -12812,6 +13077,12 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "MagicQuiver"
+        }
+      ],
       "wings": [
         "FishronWings"
       ],
@@ -12877,8 +13148,8 @@ window.GUIDE = {
       "cells": [
         "Ядовитость; Мегалодон",
         "Доспех чумного жнеца",
-        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление Дедала",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление ДедалаДля лука вместо Снайперский прицел: Магический колчан",
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -12907,6 +13178,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -13001,6 +13273,7 @@ window.GUIDE = {
         "RogueEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -13096,6 +13369,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -13194,6 +13468,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -13290,6 +13565,12 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "MagicQuiver"
+        }
+      ],
       "wings": [
         "FishronWings"
       ],
@@ -13356,8 +13637,8 @@ window.GUIDE = {
       "cells": [
         "Ядовитость; Мегалодон",
         "Доспех чумного жнеца",
-        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление Дедала",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление ДедалаДля лука вместо Снайперский прицел: Магический колчан",
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -13386,6 +13667,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -13481,6 +13763,7 @@ window.GUIDE = {
         "RogueEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -13577,6 +13860,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -13676,6 +13960,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -13774,6 +14059,12 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "MagicQuiver"
+        }
+      ],
       "wings": [
         "FishronWings"
       ],
@@ -13841,8 +14132,8 @@ window.GUIDE = {
       "cells": [
         "Ядовитость; Мегалодон",
         "Доспех чумного жнеца",
-        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление Дедала",
-        "До Культиста исключены лунные фрагменты, оружие башен и Древний манипулятор. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление ДедалаДля лука вместо Снайперский прицел: Магический колчан",
+        "До Культиста исключены лунные фрагменты, оружие башен и Древний манипулятор. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -13871,6 +14162,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -13968,6 +14260,7 @@ window.GUIDE = {
         "RogueEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -14066,6 +14359,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -14167,6 +14461,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -14265,6 +14560,12 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "MagicQuiver"
+        }
+      ],
       "wings": [
         "FishronWings"
       ],
@@ -14333,8 +14634,8 @@ window.GUIDE = {
       "cells": [
         "Ядовитость; Мегалодон",
         "Доспех чумного жнеца",
-        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление Дедала",
-        "Астральные слитки и аксессуары с ними — после Аструм Деуса; Божественный амулет пока отсутствует. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление ДедалаДля лука вместо Снайперский прицел: Магический колчан",
+        "Астральные слитки и аксессуары с ними — после Аструм Деуса; Божественный амулет пока отсутствует. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -14363,6 +14664,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -14460,6 +14762,7 @@ window.GUIDE = {
         "RogueEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -14558,6 +14861,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -14659,6 +14963,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -14761,6 +15066,12 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "MagicQuiver"
+        }
+      ],
       "wings": [
         "FishronWings"
       ],
@@ -14833,8 +15144,8 @@ window.GUIDE = {
       "cells": [
         "Ядовитость; Мегалодон",
         "Доспех чумного жнеца",
-        "Ангельские ботфорты; Доблесть Асгарда; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление Дедала",
-        "До первого прохождения башен оружие из лунных фрагментов не используется. Пройди все четыре башни; галочка означает, что их фрагменты собраны. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Доблесть Асгарда; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление ДедалаДля лука вместо Снайперский прицел: Магический колчан",
+        "До первого прохождения башен оружие из лунных фрагментов не используется. Пройди все четыре башни; галочка означает, что их фрагменты собраны. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -14863,6 +15174,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -14964,6 +15276,7 @@ window.GUIDE = {
         "RogueEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -15066,6 +15379,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -15172,6 +15486,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -15274,6 +15589,12 @@ window.GUIDE = {
         "RangerEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "MagicQuiver"
+        }
+      ],
       "wings": [
         "FishronWings"
       ],
@@ -15347,8 +15668,8 @@ window.GUIDE = {
       "cells": [
         "Вихревой миксер; Фантазм",
         "Доспех чумного жнеца",
-        "Ангельские ботфорты; Доблесть Асгарда; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление Дедала",
-        "Оружие из фрагментов башен уже доступно. Люминит и лунные комплекты брони ещё исключены. В режиме Мазохист Лунный лорд меняет классовую уязвимость: солнце — воин и разбойник, вихрь — стрелок, туманность — маг, звёздная пыль — призыватель, пятая фаза — любой класс. В обычном мире неподходящий урон ослабляется до двадцати процентов; на особом сиде «Для достойных» блокируется. Для соло подготовь оружие других классов из их карточек перед этим боссом; в группе распределите фазы. Это не повод надевать броню после Лунного лорда. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Доблесть Асгарда; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; Усиление ДедалаДля лука вместо Снайперский прицел: Магический колчан",
+        "Оружие из фрагментов башен уже доступно. Люминит и лунные комплекты брони ещё исключены. В режиме Мазохист Лунный лорд меняет классовую уязвимость: солнце — воин и разбойник, вихрь — стрелок, туманность — маг, звёздная пыль — призыватель, пятая фаза — любой класс. В обычном мире неподходящий урон ослабляется до двадцати процентов; на особом сиде «Для достойных» блокируется. Для соло подготовь оружие других классов из их карточек перед этим боссом; в группе распределите фазы. Это не повод надевать броню после Лунного лорда. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -15377,6 +15698,7 @@ window.GUIDE = {
         "ManaFlower",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -15480,6 +15802,7 @@ window.GUIDE = {
         "RogueEmblem",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -15584,6 +15907,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "DaedalusEnchant"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -15691,6 +16015,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -15784,6 +16109,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "PlanetaryAnnihilation",
+        "ClockworkBow",
         "VortexBeater"
       ],
       "armor": [
@@ -15798,6 +16124,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "MagicQuiver"
+        }
+      ],
       "wings": [
         "FishronWings"
       ],
@@ -15874,10 +16206,10 @@ window.GUIDE = {
         "moonlord"
       ],
       "cells": [
-        "Планетарное уничтожение; Вихревой миксер",
+        "Планетарное уничтожение; Заводной лук; Вихревой миксер",
         "Броня вихря",
-        "Ангельские ботфорты; Доблесть Асгарда; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Доблесть Асгарда; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Магический колчан",
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -15892,7 +16224,8 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "UltraLiquidator",
-        "LastPrism"
+        "LastPrism",
+        "ChronomancersScythe"
       ],
       "armor": [
         "nebula"
@@ -15906,6 +16239,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -15981,7 +16315,7 @@ window.GUIDE = {
         "moonlord"
       ],
       "cells": [
-        "Ультраликвидатор; Последняя призма",
+        "Ультраликвидатор; Последняя призма; Коса хрономанта",
         "Броня туманности",
         "Ангельские ботфорты; Доблесть Асгарда; Божественный амулет; Сообщество; Печать Каламитас; Цветок маны; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -16013,6 +16347,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -16118,6 +16453,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -16230,6 +16566,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -16324,6 +16661,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "PlanetaryAnnihilation",
+        "ClockworkBow",
         "VortexBeater"
       ],
       "armor": [
@@ -16338,6 +16676,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "MagicQuiver"
+        }
+      ],
       "wings": [
         "FishronWings"
       ],
@@ -16415,10 +16759,10 @@ window.GUIDE = {
         "dragonfolly"
       ],
       "cells": [
-        "Планетарное уничтожение; Вихревой миксер",
+        "Планетарное уничтожение; Заводной лук; Вихревой миксер",
         "Броня вихря",
-        "Ангельские ботфорты; Доблесть Асгарда; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Доблесть Асгарда; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Магический колчан",
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -16433,7 +16777,8 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "UltraLiquidator",
-        "LastPrism"
+        "LastPrism",
+        "ChronomancersScythe"
       ],
       "armor": [
         "nebula"
@@ -16447,6 +16792,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -16523,7 +16869,7 @@ window.GUIDE = {
         "dragonfolly"
       ],
       "cells": [
-        "Ультраликвидатор; Последняя призма",
+        "Ультраликвидатор; Последняя призма; Коса хрономанта",
         "Броня туманности",
         "Ангельские ботфорты; Доблесть Асгарда; Божественный амулет; Сообщество; Печать Каламитас; Цветок маны; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -16555,6 +16901,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -16661,6 +17008,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -16774,6 +17122,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -16870,6 +17219,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "PlanetaryAnnihilation",
+        "ClockworkBow",
         "VortexBeater"
       ],
       "armor": [
@@ -16884,6 +17234,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "MagicQuiver"
+        }
+      ],
       "wings": [
         "FishronWings"
       ],
@@ -16963,10 +17319,10 @@ window.GUIDE = {
         "guardians"
       ],
       "cells": [
-        "Планетарное уничтожение; Вихревой миксер",
+        "Планетарное уничтожение; Заводной лук; Вихревой миксер",
         "Броня вихря",
-        "Ангельские ботфорты; Доблесть Асгарда; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "Эстрагоновая броня, божественные жеоды и оружие Провиденс — после неё. Для первого боя здесь лунный комплект. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Доблесть Асгарда; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Магический колчан",
+        "Эстрагоновая броня, божественные жеоды и оружие Провиденс — после неё. Для первого боя здесь лунный комплект. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -16981,7 +17337,8 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "UltraLiquidator",
-        "LastPrism"
+        "LastPrism",
+        "ChronomancersScythe"
       ],
       "armor": [
         "nebula"
@@ -16995,6 +17352,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -17073,7 +17431,7 @@ window.GUIDE = {
         "guardians"
       ],
       "cells": [
-        "Ультраликвидатор; Последняя призма",
+        "Ультраликвидатор; Последняя призма; Коса хрономанта",
         "Броня туманности",
         "Ангельские ботфорты; Доблесть Асгарда; Божественный амулет; Сообщество; Печать Каламитас; Цветок маны; Поглотитель",
         "Эстрагоновая броня, божественные жеоды и оружие Провиденс — после неё. Для первого боя здесь лунный комплект. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -17105,6 +17463,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -17213,6 +17572,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "FishronWings"
       ],
@@ -17328,6 +17688,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -17435,6 +17796,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "MagicQuiver"
+        }
+      ],
       "wings": [
         "TarragonWings"
       ],
@@ -17510,8 +17877,8 @@ window.GUIDE = {
       "cells": [
         "Ангельский дробовик; Теллурический блик",
         "Эстрагоновый доспех — Эстрагоновый лик",
-        "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Магический колчан",
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -17540,6 +17907,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -17647,6 +18015,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -17752,6 +18121,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -17866,6 +18236,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -17974,6 +18345,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "MagicQuiver"
+        }
+      ],
       "wings": [
         "TarragonWings"
       ],
@@ -18050,8 +18427,8 @@ window.GUIDE = {
       "cells": [
         "Ангельский дробовик; Теллурический блик",
         "Эстрагоновый доспех — Эстрагоновый лик",
-        "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Магический колчан",
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -18080,6 +18457,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -18173,6 +18551,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "TwistingThunder",
         "TarragonThrowingDart",
         "MoltenAmputator"
       ],
@@ -18188,6 +18567,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -18198,6 +18578,7 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
+        "skeletron",
         "deviantt",
         "wall",
         "destroyer",
@@ -18209,7 +18590,9 @@ window.GUIDE = {
         "cultist",
         "deus",
         "lunar",
-        "providence"
+        "moonlord",
+        "providence",
+        "weaver"
       ],
       "before": [
         "trojan",
@@ -18261,7 +18644,7 @@ window.GUIDE = {
         "weaver"
       ],
       "cells": [
-        "Эстрагоновый метательный дротик; Раскалённый ампутатор",
+        "Извилистый гром; Эстрагоновый метательный дротик; Раскалённый ампутатор",
         "Эстрагоновый доспех — Эстрагоновая каска",
         "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Зеркало бездны; Эмблема разбойника; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Выбери скрытные удары или непрерывные броски под конкретное оружие. Для скрытных ударов дождись заполнения шкалы перед атакой. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -18294,6 +18677,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -18409,6 +18793,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -18518,6 +18903,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "QuiverofNihility"
+        }
+      ],
       "wings": [
         "TarragonWings"
       ],
@@ -18595,8 +18986,8 @@ window.GUIDE = {
       "cells": [
         "Ангельский дробовик; Теллурический блик",
         "Эстрагоновый доспех — Эстрагоновый лик",
-        "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Колчан небытия",
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -18625,6 +19016,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -18719,6 +19111,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "TwistingThunder",
         "TarragonThrowingDart",
         "MoltenAmputator"
       ],
@@ -18734,6 +19127,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -18744,6 +19138,7 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
+        "skeletron",
         "deviantt",
         "wall",
         "destroyer",
@@ -18755,7 +19150,9 @@ window.GUIDE = {
         "cultist",
         "deus",
         "lunar",
-        "providence"
+        "moonlord",
+        "providence",
+        "weaver"
       ],
       "before": [
         "trojan",
@@ -18808,7 +19205,7 @@ window.GUIDE = {
         "void"
       ],
       "cells": [
-        "Эстрагоновый метательный дротик; Раскалённый ампутатор",
+        "Извилистый гром; Эстрагоновый метательный дротик; Раскалённый ампутатор",
         "Эстрагоновый доспех — Эстрагоновая каска",
         "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Зеркало бездны; Эмблема разбойника; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Выбери скрытные удары или непрерывные броски под конкретное оружие. Для скрытных ударов дождись заполнения шкалы перед атакой. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -18825,8 +19222,8 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "VoidConcentrationStaff",
         "ViridVanguard",
-        "LegionofCelestia",
         "RainbowWhip"
       ],
       "armor": [
@@ -18841,6 +19238,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -18852,11 +19250,8 @@ window.GUIDE = {
         "goblins",
         "hive",
         "bee",
-        "skeletron",
-        "slime-god",
         "deviantt",
         "wall",
-        "queen-slime",
         "destroyer",
         "twins",
         "cryogen",
@@ -18870,8 +19265,8 @@ window.GUIDE = {
         "cultist",
         "deus",
         "lunar",
-        "moonlord",
-        "providence"
+        "providence",
+        "void"
       ],
       "before": [
         "trojan",
@@ -18924,10 +19319,10 @@ window.GUIDE = {
         "void"
       ],
       "cells": [
-        "Изумрудный авангард; Легион Селестии; Калейдоскоп",
+        "Концентратор пустоты; Изумрудный авангард; Калейдоскоп",
         "Эстрагоновый доспех — Эстрагоновый рогатый шлем",
         "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Проклятие Статиса; Папирусный скарабей; Поглотитель",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. Концентратор пустоты занимает четыре слота: сначала выдели их, затем заполняй оставшиеся другим призывом. Повторное применение меняет метку цели."
       ],
       "notes": [],
       "links": []
@@ -18957,6 +19352,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -19067,6 +19463,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "QuiverofNihility"
+        }
+      ],
       "wings": [
         "TarragonWings"
       ],
@@ -19145,8 +19547,8 @@ window.GUIDE = {
       "cells": [
         "Ангельский дробовик; Теллурический блик",
         "Эстрагоновый доспех — Эстрагоновый лик",
-        "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "Кровавая броня и Эфирный покоритель требуют самого Полтергаста, поэтому для первого боя они отсутствуют. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Колчан небытия",
+        "Кровавая броня и Эфирный покоритель требуют самого Полтергаста, поэтому для первого боя они отсутствуют. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -19160,6 +19562,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "MagneticMeltdown",
         "PurgeGuzzler",
         "LastPrism"
       ],
@@ -19175,6 +19578,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -19199,7 +19603,8 @@ window.GUIDE = {
         "deus",
         "lunar",
         "moonlord",
-        "providence"
+        "providence",
+        "signus"
       ],
       "before": [
         "trojan",
@@ -19253,7 +19658,7 @@ window.GUIDE = {
         "signus"
       ],
       "cells": [
-        "Очищающий обжора; Последняя призма",
+        "Магнитное расплавление; Очищающий обжора; Последняя призма",
         "Эстрагоновый доспех — Эстрагоновая маска",
         "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Печать Каламитас; Цветок маны; Поглотитель",
         "Кровавая броня и Эфирный покоритель требуют самого Полтергаста, поэтому для первого боя они отсутствуют. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -19270,6 +19675,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "TwistingThunder",
         "TarragonThrowingDart",
         "MoltenAmputator"
       ],
@@ -19285,6 +19691,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -19295,6 +19702,7 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
+        "skeletron",
         "deviantt",
         "wall",
         "destroyer",
@@ -19306,7 +19714,9 @@ window.GUIDE = {
         "cultist",
         "deus",
         "lunar",
-        "providence"
+        "moonlord",
+        "providence",
+        "weaver"
       ],
       "before": [
         "trojan",
@@ -19360,7 +19770,7 @@ window.GUIDE = {
         "signus"
       ],
       "cells": [
-        "Эстрагоновый метательный дротик; Раскалённый ампутатор",
+        "Извилистый гром; Эстрагоновый метательный дротик; Раскалённый ампутатор",
         "Эстрагоновый доспех — Эстрагоновая каска",
         "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Зеркало бездны; Эмблема разбойника; Поглотитель",
         "Кровавая броня и Эфирный покоритель требуют самого Полтергаста, поэтому для первого боя они отсутствуют. Выбери скрытные удары или непрерывные броски под конкретное оружие. Для скрытных ударов дождись заполнения шкалы перед атакой. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -19377,7 +19787,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
-        "ViridVanguard",
+        "VoidConcentrationStaff",
         "Cosmilamp",
         "RainbowWhip"
       ],
@@ -19393,6 +19803,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -19408,18 +19819,17 @@ window.GUIDE = {
         "wall",
         "destroyer",
         "twins",
-        "cryogen",
         "prime",
         "plantera",
         "leviathan",
         "aureus",
-        "golem",
         "pumpkin",
         "empress",
         "cultist",
         "deus",
         "lunar",
         "providence",
+        "void",
         "signus"
       ],
       "before": [
@@ -19474,10 +19884,10 @@ window.GUIDE = {
         "signus"
       ],
       "cells": [
-        "Изумрудный авангард; Космилампа; Калейдоскоп",
+        "Концентратор пустоты; Космилампа; Калейдоскоп",
         "Эстрагоновый доспех — Эстрагоновый рогатый шлем",
         "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Проклятие Статиса; Папирусный скарабей; Поглотитель",
-        "Кровавая броня и Эфирный покоритель требуют самого Полтергаста, поэтому для первого боя они отсутствуют. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Кровавая броня и Эфирный покоритель требуют самого Полтергаста, поэтому для первого боя они отсутствуют. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. Концентратор пустоты занимает четыре слота: сначала выдели их, затем заполняй оставшиеся другим призывом. Повторное применение меняет метку цели."
       ],
       "notes": [],
       "links": []
@@ -19507,6 +19917,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -19618,6 +20029,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "QuiverofNihility"
+        }
+      ],
       "wings": [
         "TarragonWings"
       ],
@@ -19698,8 +20115,8 @@ window.GUIDE = {
       "cells": [
         "Ангельский дробовик; Теллурический блик",
         "Доспех кровавой вспышки — Шлем демона кровавой вспышки",
-        "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "Зловонная рвота и другие дропы Старого герцога не входят в его первый бой. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Колчан небытия",
+        "Зловонная рвота и другие дропы Старого герцога не входят в его первый бой. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -19728,6 +20145,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -19827,6 +20245,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "Valediction",
         "DeepSeaDumbbell",
         "SealedSingularity"
       ],
@@ -19842,6 +20261,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -19921,7 +20341,7 @@ window.GUIDE = {
         "polterghast"
       ],
       "cells": [
-        "Глубинная морская гантель; Запечатанная сингулярность",
+        "Прощание; Глубинная морская гантель; Запечатанная сингулярность",
         "Доспех кровавой вспышки — Маска беса кровавой вспышки",
         "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Зеркало бездны; Эмблема разбойника; Поглотитель",
         "Зловонная рвота и другие дропы Старого герцога не входят в его первый бой. Выбери скрытные удары или непрерывные броски под конкретное оружие. Для скрытных ударов дождись заполнения шкалы перед атакой. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -19939,7 +20359,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "EtherealSubjugator",
-        "Cosmilamp",
+        "VoidConcentrationStaff",
         "RainbowWhip"
       ],
       "armor": [
@@ -19954,6 +20374,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -19979,7 +20400,7 @@ window.GUIDE = {
         "deus",
         "lunar",
         "providence",
-        "signus",
+        "void",
         "polterghast"
       ],
       "before": [
@@ -20035,10 +20456,10 @@ window.GUIDE = {
         "polterghast"
       ],
       "cells": [
-        "Эфирный покоритель; Космилампа; Калейдоскоп",
+        "Эфирный покоритель; Концентратор пустоты; Калейдоскоп",
         "Доспех кровавой вспышки — Шлем виверны кровавой вспышки",
         "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Проклятие Статиса; Папирусный скарабей; Поглотитель",
-        "Зловонная рвота и другие дропы Старого герцога не входят в его первый бой. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Зловонная рвота и другие дропы Старого герцога не входят в его первый бой. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. Концентратор пустоты занимает четыре слота: сначала выдели их, затем заполняй оставшиеся другим призывом. Повторное применение меняет метку цели."
       ],
       "notes": [],
       "links": []
@@ -20068,6 +20489,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -20182,6 +20604,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "QuiverofNihility"
+        }
+      ],
       "wings": [
         "TarragonWings"
       ],
@@ -20267,8 +20695,8 @@ window.GUIDE = {
       "cells": [
         "Зловонная рвота; Теллурический блик",
         "Доспех кровавой вспышки — Шлем демона кровавой вспышки",
-        "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "До первого Пожирателя богов нет космилита, брони Сильвы/Убийцы богов, Нуклеогенеза, Губки и его оружия. После победы повторно фарми лунные события и затмение для новых материалов. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Колчан небытия",
+        "До первого Пожирателя богов нет космилита, брони Сильвы/Убийцы богов, Нуклеогенеза, Губки и его оружия. После победы повторно фарми лунные события и затмение для новых материалов. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -20297,6 +20725,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -20398,6 +20827,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "Valediction",
         "DeepSeaDumbbell",
         "SealedSingularity"
       ],
@@ -20413,6 +20843,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -20495,7 +20926,7 @@ window.GUIDE = {
         "old-duke"
       ],
       "cells": [
-        "Глубинная морская гантель; Запечатанная сингулярность",
+        "Прощание; Глубинная морская гантель; Запечатанная сингулярность",
         "Доспех кровавой вспышки — Маска беса кровавой вспышки",
         "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Зеркало бездны; Эмблема разбойника; Поглотитель",
         "До первого Пожирателя богов нет космилита, брони Сильвы/Убийцы богов, Нуклеогенеза, Губки и его оружия. После победы повторно фарми лунные события и затмение для новых материалов. Выбери скрытные удары или непрерывные броски под конкретное оружие. Для скрытных ударов дождись заполнения шкалы перед атакой. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -20513,7 +20944,7 @@ window.GUIDE = {
       "origin": "audited",
       "weapons": [
         "EtherealSubjugator",
-        "Cosmilamp",
+        "VoidConcentrationStaff",
         "RainbowWhip"
       ],
       "armor": [
@@ -20528,6 +20959,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -20612,10 +21044,10 @@ window.GUIDE = {
         "old-duke"
       ],
       "cells": [
-        "Эфирный покоритель; Космилампа; Калейдоскоп",
+        "Эфирный покоритель; Концентратор пустоты; Калейдоскоп",
         "Доспех кровавой вспышки — Шлем виверны кровавой вспышки",
         "Ангельские ботфорты; Элизийская эгида; Божественный амулет; Сообщество; Проклятие Статиса; Папирусный скарабей; Поглотитель",
-        "До первого Пожирателя богов нет космилита, брони Сильвы/Убийцы богов, Нуклеогенеза, Губки и его оружия. После победы повторно фарми лунные события и затмение для новых материалов. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "До первого Пожирателя богов нет космилита, брони Сильвы/Убийцы богов, Нуклеогенеза, Губки и его оружия. После победы повторно фарми лунные события и затмение для новых материалов. Заполни доступные слоты миньонов до призыва босса. Хлыстом назначай цель; разные посохи — варианты или сочетание по числу слотов. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. Концентратор пустоты занимает четыре слота: сначала выдели их, затем заполняй оставшиеся другим призывом. Повторное применение меняет метку цели."
       ],
       "notes": [],
       "links": []
@@ -20644,6 +21076,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -20757,6 +21190,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "QuiverofNihility"
+        }
+      ],
       "wings": [
         "TarragonWings"
       ],
@@ -20842,8 +21281,8 @@ window.GUIDE = {
       "cells": [
         "Нить искоренения; Зловонная рвота",
         "Доспех убийцы богов — Каска богоубийцы",
-        "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Колчан небытия",
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -20857,6 +21296,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "NebulousCataclysm",
         "HyperdeathRiftScepter",
         "DarkSpark"
       ],
@@ -20872,6 +21312,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -20957,7 +21398,7 @@ window.GUIDE = {
         "dog"
       ],
       "cells": [
-        "Скипетр разлома гиперсмерти; Тёмная искра",
+        "Катаклизм туманности; Скипетр разлома гиперсмерти; Тёмная искра",
         "Доспех Сильвы — Маскировочная шляпа Сильвы",
         "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Печать Каламитас; Цветок маны; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -20989,6 +21430,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -21104,6 +21546,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -21226,6 +21669,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -21340,6 +21784,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "QuiverofNihility"
+        }
+      ],
       "wings": [
         "TarragonWings"
       ],
@@ -21426,8 +21876,8 @@ window.GUIDE = {
       "cells": [
         "Нить искоренения; Зловонная рвота",
         "Доспех убийцы богов — Каска богоубийцы",
-        "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Колчан небытия",
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -21441,6 +21891,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "NebulousCataclysm",
         "HyperdeathRiftScepter",
         "DarkSpark"
       ],
@@ -21456,6 +21907,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -21542,7 +21994,7 @@ window.GUIDE = {
         "timber-champion"
       ],
       "cells": [
-        "Скипетр разлома гиперсмерти; Тёмная искра",
+        "Катаклизм туманности; Скипетр разлома гиперсмерти; Тёмная искра",
         "Доспех Сильвы — Маскировочная шляпа Сильвы",
         "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Печать Каламитас; Цветок маны; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -21574,6 +22026,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -21690,6 +22143,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -21813,6 +22267,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -21928,6 +22383,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "QuiverofNihility"
+        }
+      ],
       "wings": [
         "TarragonWings"
       ],
@@ -22015,8 +22476,8 @@ window.GUIDE = {
       "cells": [
         "Нить искоренения; Зловонная рвота",
         "Доспех убийцы богов — Каска богоубийцы",
-        "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Колчан небытия",
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -22030,6 +22491,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "NebulousCataclysm",
         "HyperdeathRiftScepter",
         "DarkSpark"
       ],
@@ -22045,6 +22507,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -22132,7 +22595,7 @@ window.GUIDE = {
         "terra-champion"
       ],
       "cells": [
-        "Скипетр разлома гиперсмерти; Тёмная искра",
+        "Катаклизм туманности; Скипетр разлома гиперсмерти; Тёмная искра",
         "Доспех Сильвы — Маскировочная шляпа Сильвы",
         "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Печать Каламитас; Цветок маны; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -22164,6 +22627,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -22281,6 +22745,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -22405,6 +22870,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -22521,6 +22987,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "QuiverofNihility"
+        }
+      ],
       "wings": [
         "TarragonWings"
       ],
@@ -22609,8 +23081,8 @@ window.GUIDE = {
       "cells": [
         "Нить искоренения; Зловонная рвота",
         "Доспех убийцы богов — Каска богоубийцы",
-        "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Колчан небытия",
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -22624,6 +23096,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "NebulousCataclysm",
         "HyperdeathRiftScepter",
         "DarkSpark"
       ],
@@ -22639,6 +23112,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -22727,7 +23201,7 @@ window.GUIDE = {
         "earth-champion"
       ],
       "cells": [
-        "Скипетр разлома гиперсмерти; Тёмная искра",
+        "Катаклизм туманности; Скипетр разлома гиперсмерти; Тёмная искра",
         "Доспех Сильвы — Маскировочная шляпа Сильвы",
         "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Печать Каламитас; Цветок маны; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -22759,6 +23233,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -22877,6 +23352,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -23002,6 +23478,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -23119,6 +23596,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "QuiverofNihility"
+        }
+      ],
       "wings": [
         "TarragonWings"
       ],
@@ -23208,8 +23691,8 @@ window.GUIDE = {
       "cells": [
         "Нить искоренения; Зловонная рвота",
         "Доспех убийцы богов — Каска богоубийцы",
-        "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Колчан небытия",
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -23223,6 +23706,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "NebulousCataclysm",
         "HyperdeathRiftScepter",
         "DarkSpark"
       ],
@@ -23238,6 +23722,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -23327,7 +23812,7 @@ window.GUIDE = {
         "nature-champion"
       ],
       "cells": [
-        "Скипетр разлома гиперсмерти; Тёмная искра",
+        "Катаклизм туманности; Скипетр разлома гиперсмерти; Тёмная искра",
         "Доспех Сильвы — Маскировочная шляпа Сильвы",
         "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Печать Каламитас; Цветок маны; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -23359,6 +23844,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -23478,6 +23964,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -23604,6 +24091,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -23722,6 +24210,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "QuiverofNihility"
+        }
+      ],
       "wings": [
         "TarragonWings"
       ],
@@ -23812,8 +24306,8 @@ window.GUIDE = {
       "cells": [
         "Нить искоренения; Зловонная рвота",
         "Доспех убийцы богов — Каска богоубийцы",
-        "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Колчан небытия",
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -23827,6 +24321,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "NebulousCataclysm",
         "HyperdeathRiftScepter",
         "DarkSpark"
       ],
@@ -23842,6 +24337,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -23932,7 +24428,7 @@ window.GUIDE = {
         "life-champion"
       ],
       "cells": [
-        "Скипетр разлома гиперсмерти; Тёмная искра",
+        "Катаклизм туманности; Скипетр разлома гиперсмерти; Тёмная искра",
         "Доспех Сильвы — Маскировочная шляпа Сильвы",
         "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Печать Каламитас; Цветок маны; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -23964,6 +24460,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -24084,6 +24581,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -24211,6 +24709,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -24330,6 +24829,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "QuiverofNihility"
+        }
+      ],
       "wings": [
         "TarragonWings"
       ],
@@ -24421,8 +24926,8 @@ window.GUIDE = {
       "cells": [
         "Нить искоренения; Зловонная рвота",
         "Доспех убийцы богов — Каска богоубийцы",
-        "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Колчан небытия",
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -24436,6 +24941,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "NebulousCataclysm",
         "HyperdeathRiftScepter",
         "DarkSpark"
       ],
@@ -24451,6 +24957,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -24542,7 +25049,7 @@ window.GUIDE = {
         "shadow-champion"
       ],
       "cells": [
-        "Скипетр разлома гиперсмерти; Тёмная искра",
+        "Катаклизм туманности; Скипетр разлома гиперсмерти; Тёмная искра",
         "Доспех Сильвы — Маскировочная шляпа Сильвы",
         "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Печать Каламитас; Цветок маны; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -24574,6 +25081,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -24695,6 +25203,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -24823,6 +25332,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -24943,6 +25453,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "QuiverofNihility"
+        }
+      ],
       "wings": [
         "TarragonWings"
       ],
@@ -25035,8 +25551,8 @@ window.GUIDE = {
       "cells": [
         "Нить искоренения; Зловонная рвота",
         "Доспех убийцы богов — Каска богоубийцы",
-        "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Колчан небытия",
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -25050,6 +25566,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "NebulousCataclysm",
         "HyperdeathRiftScepter",
         "DarkSpark"
       ],
@@ -25065,6 +25582,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -25157,7 +25675,7 @@ window.GUIDE = {
         "spirit-champion"
       ],
       "cells": [
-        "Скипетр разлома гиперсмерти; Тёмная искра",
+        "Катаклизм туманности; Скипетр разлома гиперсмерти; Тёмная искра",
         "Доспех Сильвы — Маскировочная шляпа Сильвы",
         "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Печать Каламитас; Цветок маны; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -25189,6 +25707,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -25311,6 +25830,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -25440,6 +25960,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -25561,6 +26082,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "QuiverofNihility"
+        }
+      ],
       "wings": [
         "TarragonWings"
       ],
@@ -25654,8 +26181,8 @@ window.GUIDE = {
       "cells": [
         "Нить искоренения; Зловонная рвота",
         "Доспех убийцы богов — Каска богоубийцы",
-        "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Колчан небытия",
+        "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -25669,6 +26196,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "NebulousCataclysm",
         "HyperdeathRiftScepter",
         "DarkSpark"
       ],
@@ -25684,6 +26212,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -25777,7 +26306,7 @@ window.GUIDE = {
         "will-champion"
       ],
       "cells": [
-        "Скипетр разлома гиперсмерти; Тёмная искра",
+        "Катаклизм туманности; Скипетр разлома гиперсмерти; Тёмная искра",
         "Доспех Сильвы — Маскировочная шляпа Сильвы",
         "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Печать Каламитас; Цветок маны; Поглотитель",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -25809,6 +26338,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -25932,6 +26462,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -26062,6 +26593,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -26185,6 +26717,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "QuiverofNihility"
+        }
+      ],
       "wings": [
         "TarragonWings"
       ],
@@ -26280,8 +26818,8 @@ window.GUIDE = {
       "cells": [
         "Нить искоренения; Зловонная рвота",
         "Доспех убийцы богов — Каска богоубийцы",
-        "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "До первого Ярона нет аурита, ауритовой брони и Воспламеняющего посоха Ярона. Для его боя — Сильва/Убийца богов и оружие этапа Пожирателя богов. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Колчан небытия",
+        "До первого Ярона нет аурита, ауритовой брони и Воспламеняющего посоха Ярона. Для его боя — Сильва/Убийца богов и оружие этапа Пожирателя богов. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -26295,6 +26833,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "NebulousCataclysm",
         "HyperdeathRiftScepter",
         "DarkSpark"
       ],
@@ -26310,6 +26849,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -26404,7 +26944,7 @@ window.GUIDE = {
         "eridanus"
       ],
       "cells": [
-        "Скипетр разлома гиперсмерти; Тёмная искра",
+        "Катаклизм туманности; Скипетр разлома гиперсмерти; Тёмная искра",
         "Доспех Сильвы — Маскировочная шляпа Сильвы",
         "Ангельские ботфорты; Асгардская эгида; Губка; Сообщество; Печать Каламитас; Цветок маны; Поглотитель",
         "До первого Ярона нет аурита, ауритовой брони и Воспламеняющего посоха Ярона. Для его боя — Сильва/Убийца богов и оружие этапа Пожирателя богов. Подготовь зелья маны. Цветок маны занимает отдельный слот; не допускай нехватки маны во время длинной фазы. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -26436,6 +26976,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -26561,6 +27102,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "TarragonWings"
       ],
@@ -26692,6 +27234,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -26828,6 +27371,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "QuiverofNihility"
+        }
+      ],
       "wings": [
         "SeraphTracers"
       ],
@@ -26930,8 +27479,8 @@ window.GUIDE = {
       "cells": [
         "Стармада; Конец тирании",
         "Ауритовый тесла-доспех — Защитная ауритовая тесла-маска с капюшоном",
-        "Асгардская эгида; Оплот божеств; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "Этот комплект позволяет идти на Каламитас первой: без её дропа, тенеспектра, экзо-призм и чудо-материи. Экзо можно убить первыми тем же базовым набором. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Асгардская эгида; Оплот божеств; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Колчан небытия",
+        "Этот комплект позволяет идти на Каламитас первой: без её дропа, тенеспектра, экзо-призм и чудо-материи. Экзо можно убить первыми тем же базовым набором. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -26959,6 +27508,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -27075,6 +27625,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "EclipsesFall",
         "DynamicPursuer",
         "Seraphim"
       ],
@@ -27089,6 +27640,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -27189,7 +27741,7 @@ window.GUIDE = {
         "yharon"
       ],
       "cells": [
-        "Отслеживатель движения; Серафим",
+        "Падение затмения; Отслеживатель движения; Серафим",
         "Ауритовый тесла-доспех — Плюмажный ауритовый тесла-шлем",
         "Асгардская эгида; Оплот божеств; Сообщество; Зеркало затмения; Эмблема разбойника; Поглотитель",
         "Этот комплект позволяет идти на Каламитас первой: без её дропа, тенеспектра, экзо-призм и чудо-материи. Экзо можно убить первыми тем же базовым набором. Выбери скрытные удары или непрерывные броски под конкретное оружие. Для скрытных ударов дождись заполнения шкалы перед атакой. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -27221,6 +27773,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -27357,6 +27910,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -27494,6 +28048,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "QuiverofNihility"
+        }
+      ],
       "wings": [
         "SeraphTracers"
       ],
@@ -27597,8 +28157,8 @@ window.GUIDE = {
       "cells": [
         "Стармада; Конец тирании",
         "Ауритовый тесла-доспех — Защитная ауритовая тесла-маска с капюшоном",
-        "Асгардская эгида; Оплот божеств; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "Комплект рассчитан на первый бой с Экзо и не требует их дропа. Каламитас не обязательна для ауритового набора; можно поменять порядок двух финальных боссов. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Асгардская эгида; Оплот божеств; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Колчан небытия",
+        "Комплект рассчитан на первый бой с Экзо и не требует их дропа. Каламитас не обязательна для ауритового набора; можно поменять порядок двух финальных боссов. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -27626,6 +28186,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -27743,6 +28304,7 @@ window.GUIDE = {
       "timing": "before",
       "origin": "audited",
       "weapons": [
+        "EclipsesFall",
         "DynamicPursuer",
         "Seraphim"
       ],
@@ -27757,6 +28319,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -27858,7 +28421,7 @@ window.GUIDE = {
         "scal"
       ],
       "cells": [
-        "Отслеживатель движения; Серафим",
+        "Падение затмения; Отслеживатель движения; Серафим",
         "Ауритовый тесла-доспех — Плюмажный ауритовый тесла-шлем",
         "Асгардская эгида; Оплот божеств; Сообщество; Зеркало затмения; Эмблема разбойника; Поглотитель",
         "Комплект рассчитан на первый бой с Экзо и не требует их дропа. Каламитас не обязательна для ауритового набора; можно поменять порядок двух финальных боссов. Выбери скрытные удары или непрерывные броски под конкретное оружие. Для скрытных ударов дождись заполнения шкалы перед атакой. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
@@ -27890,6 +28453,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -28026,6 +28590,7 @@ window.GUIDE = {
         "WarriorEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -28161,6 +28726,12 @@ window.GUIDE = {
         "RangerEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [
+        {
+          "replace": "SniperScope",
+          "item": "QuiverofNihility"
+        }
+      ],
       "wings": [
         "SeraphTracers"
       ],
@@ -28265,8 +28836,8 @@ window.GUIDE = {
       "cells": [
         "Фотопотрошитель; Сома Прайм",
         "Доспех тени демона",
-        "Асгардская эгида; Оплот божеств; Сообщество; Снайперский прицел; Эмблема стрелка; Поглотитель",
-        "Оба финальных босса основной сборки уже пройдены; тенеспектр доступен. Но классовые Души дополнения с энергией Мерзости ещё исключены. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
+        "Асгардская эгида; Оплот божеств; Сообщество; Снайперский прицел; Эмблема стрелка; ПоглотительДля лука вместо Снайперский прицел: Колчан небытия",
+        "Оба финальных босса основной сборки уже пройдены; тенеспектр доступен. Но классовые Души дополнения с энергией Мерзости ещё исключены. Для ружей бери пули, для луков — стрелы. Не ставь луковый аксессуар ради ружья; запас патронов подготовь до призыва босса. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере. С луком замени Снайперский прицел на указанный колчан. Это один и тот же слот; одновременно надевать оба предмета не требуется."
       ],
       "notes": [],
       "links": []
@@ -28294,6 +28865,7 @@ window.GUIDE = {
         "ManaFlower",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -28429,6 +29001,7 @@ window.GUIDE = {
         "RogueEmblem",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -28566,6 +29139,7 @@ window.GUIDE = {
         "PapyrusScarab",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -28704,6 +29278,7 @@ window.GUIDE = {
         "BerserkerSoul",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -28842,6 +29417,7 @@ window.GUIDE = {
         "SnipersSoul",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -28979,6 +29555,7 @@ window.GUIDE = {
         "ArchWizardsSoul",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -29116,6 +29693,7 @@ window.GUIDE = {
         "VagabondsSoul",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -29255,6 +29833,7 @@ window.GUIDE = {
         "ConjuristsSoul",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -29397,6 +29976,7 @@ window.GUIDE = {
         "BerserkerSoul",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -29538,6 +30118,7 @@ window.GUIDE = {
         "SnipersSoul",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -29678,6 +30259,7 @@ window.GUIDE = {
         "ArchWizardsSoul",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -29818,6 +30400,7 @@ window.GUIDE = {
         "VagabondsSoul",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -29959,6 +30542,7 @@ window.GUIDE = {
         "ConjuristsSoul",
         "TheAbsorber"
       ],
+      "accessoryAlternatives": [],
       "wings": [
         "SeraphTracers"
       ],
@@ -30649,17 +31233,6 @@ window.GUIDE = {
       "url": "https://terraria.wiki.gg/wiki/Diamond_Staff",
       "recipe": null
     },
-    "WaterBolt": {
-      "id": "WaterBolt",
-      "name": "Водяной выстрел",
-      "requires": [
-        "skeletron"
-      ],
-      "how": "Найти в книжных полках Темницы после Скелетрона.",
-      "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Water_Bolt",
-      "recipe": null
-    },
     "Flamelash": {
       "id": "Flamelash",
       "name": "Огнеплеть",
@@ -30838,6 +31411,18 @@ window.GUIDE = {
       "how": "Дроп марсианской тарелки.",
       "source": "Terraria 1.4.4; изменения сборки",
       "url": "https://terraria.wiki.gg/wiki/Xeno_Staff",
+      "recipe": null
+    },
+    "ScytheWhip": {
+      "id": "ScytheWhip",
+      "name": "Тёмная жатва",
+      "requires": [
+        "plantera",
+        "pumpkin"
+      ],
+      "how": "Выбить с Тыквенного короля в Тыквенную луну. Тёмная жатва — вариант хлыста до Императрицы света; ударом можно обновить его эффект, затем переключиться на другой хлыст.",
+      "source": "Terraria 1.4.4; изменения сборки",
+      "url": "https://terraria.wiki.gg/wiki/Dark_Harvest",
       "recipe": null
     },
     "RainbowWhip": {
@@ -31029,6 +31614,17 @@ window.GUIDE = {
       "how": "Скрафтить Дар природы и зелье маны в мастерской инженера. В этом маршруте используется после Армии гоблинов.",
       "source": "Terraria 1.4.4; изменения сборки",
       "url": "https://terraria.wiki.gg/wiki/Mana_Flower",
+      "recipe": null
+    },
+    "MagicQuiver": {
+      "id": "MagicQuiver",
+      "name": "Магический колчан",
+      "requires": [
+        "wall"
+      ],
+      "how": "Фармить скелетов-лучников в хардмодных пещерах. Для луков; для огнестрельного оружия этот слот можно отдать защите.",
+      "source": "Terraria 1.4.4; изменения сборки",
+      "url": "https://terraria.wiki.gg/wiki/Magic_Quiver",
       "recipe": null
     },
     "FireGauntlet": {
@@ -31472,6 +32068,609 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Enchantments/TungstenEnchant.cs",
         "text": "Вольфрамовый шлем × 1; Вольфрамовая кольчуга × 1; Вольфрамовые поножи × 1; Вольфрамовый меч × 1; Линейка × 1; Катана × 1",
         "station": "демонический или багряный алтарь"
+      }
+    },
+    "DemonScythe": {
+      "id": "DemonScythe",
+      "name": "Демоническая коса",
+      "requires": [],
+      "how": "Выбить книгу у демонов в Аду до боссов. Дальний пронзающий вариант; фарм опасен для стартового персонажа, поэтому алмазный посох остаётся более простым вариантом получения.",
+      "source": "Terraria 1.4.4; изменения сборки",
+      "url": "https://terraria.wiki.gg/wiki/Demon_Scythe",
+      "recipe": null
+    },
+    "RavenStaff": {
+      "id": "RavenStaff",
+      "name": "Посох ворона",
+      "requires": [
+        "plantera",
+        "pumpkin"
+      ],
+      "how": "Выбить с Тыквенного короля в Тыквенную луну после Плантеры. Ворон — альтернатива основному миньону, а не дополнительный бесплатный призыв сверх лимита слотов.",
+      "source": "Terraria 1.4.4; изменения сборки",
+      "url": "https://terraria.wiki.gg/wiki/Raven_Staff",
+      "recipe": null
+    },
+    "Barinade": {
+      "id": "Barinade",
+      "name": "Баринад",
+      "requires": [
+        "desert"
+      ],
+      "how": "Дроп Пустынного бича. Вариант лука после первой победы; заранее подготовь стрелы.",
+      "source": "CalamityMod 2.2.4: Barinade.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Barinade",
+      "recipe": null
+    },
+    "FlurrystormCannon": {
+      "id": "FlurrystormCannon",
+      "name": "Пушка снежного шторма",
+      "requires": [
+        "desert",
+        "hive",
+        "skeletron"
+      ],
+      "how": "Скрафтить из аэриалита и костей после Скелетрона. Выстреливает снежками; в особом перевёрнутом мире исходная пушка в рецепте отличается, проверь альтернативный рецепт в игре.",
+      "source": "CalamityMod 2.2.4: FlurrystormCannon.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Flurrystorm_Cannon",
+      "recipe": {
+        "ingredients": [
+          [
+            "SnowballCannon",
+            "1"
+          ],
+          [
+            "IllegalGunParts",
+            "1"
+          ],
+          [
+            "AerialiteBar",
+            "10"
+          ],
+          [
+            "Bone",
+            "10"
+          ],
+          [
+            "PearlShard",
+            "10"
+          ]
+        ],
+        "tile": "16",
+        "source": "CalamityMod/CalamityMod.Items.Weapons.Ranged/FlurrystormCannon.cs",
+        "text": "Снежковая пушка × 1; Нелегальные части оружия × 1; Аэриалитовый слиток × 10; Кость × 10; Осколок жемчуга × 10",
+        "station": "железная или свинцовая наковальня"
+      }
+    },
+    "FlarewingBow": {
+      "id": "FlarewingBow",
+      "name": "Лук огненного крыла",
+      "requires": [
+        "skeletron",
+        "wall"
+      ],
+      "how": "Скрафтить из лука адского крыла, эссенций солнечного света, живого огня и обсидиана. Вариант лука в начале хардмода.",
+      "source": "CalamityMod 2.2.4: FlarewingBow.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Flarewing_Bow",
+      "recipe": {
+        "ingredients": [
+          [
+            "HellwingBow",
+            "1"
+          ],
+          [
+            "EssenceofSunlight",
+            "5"
+          ],
+          [
+            "LivingFireBlock",
+            "50"
+          ],
+          [
+            "Obsidian",
+            "10"
+          ]
+        ],
+        "tile": "16",
+        "source": "CalamityMod/CalamityMod.Items.Weapons.Ranged/FlarewingBow.cs",
+        "text": "Лук адского крыла × 1; Эссенция солнечного света × 5; Живой огонь × 50; Обсидиан × 10",
+        "station": "железная или свинцовая наковальня"
+      }
+    },
+    "MineralMortar": {
+      "id": "MineralMortar",
+      "name": "Минеральная мортира",
+      "requires": [
+        "wall",
+        "destroyer",
+        "twins"
+      ],
+      "how": "Скрафтить после доступа к адамантиту или титану и запретным фрагментам Песчаного элементаля. В вашем маршруте нужны два побеждённых меха; оружие из старого видео нельзя автоматически ставить сразу после первого.",
+      "source": "CalamityMod 2.2.4: MineralMortar.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Mineral_Mortar",
+      "recipe": {
+        "ingredients": [
+          [
+            "AncientBattleArmorMaterial",
+            "2"
+          ],
+          [
+            "group:AnyAdamantiteBar",
+            "13"
+          ]
+        ],
+        "tile": "134",
+        "source": "CalamityMod/CalamityMod.Items.Weapons.Ranged/MineralMortar.cs",
+        "text": "Запретный фрагмент × 2; адамантитовый или титановый слиток × 13",
+        "station": "мифриловая или орихалковая наковальня"
+      }
+    },
+    "ClockworkBow": {
+      "id": "ClockworkBow",
+      "name": "Заводной лук",
+      "requires": [
+        "destroyer",
+        "moonlord"
+      ],
+      "how": "Скрафтить из люминитовых слитков и шестерёнок на хардмодной наковальне. Вариант лука после Лунного лорда.",
+      "source": "CalamityMod 2.2.4: ClockworkBow.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Clockwork_Bow",
+      "recipe": {
+        "ingredients": [
+          [
+            "LunarBar",
+            "5"
+          ],
+          [
+            "Cog",
+            "50"
+          ]
+        ],
+        "tile": "134",
+        "source": "CalamityMod/CalamityMod.Items.Weapons.Ranged/ClockworkBow.cs",
+        "text": "Люминитовый слиток × 5; Шестерня × 50",
+        "station": "мифриловая или орихалковая наковальня"
+      }
+    },
+    "HyphaeRod": {
+      "id": "HyphaeRod",
+      "name": "Гифовый жезл",
+      "requires": [
+        "crabulon"
+      ],
+      "how": "Дроп Крабулона. Вариант магического оружия после первой победы, не для самого первого Крабулона.",
+      "source": "CalamityMod 2.2.4: HyphaeRod.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Hyphae_Rod",
+      "recipe": null
+    },
+    "HellwingStaff": {
+      "id": "HellwingStaff",
+      "name": "Посох адского крыла",
+      "requires": [
+        "evil"
+      ],
+      "how": "Скрафтить из адских слитков и древесины пепла. Пронзающая альтернатива после босса зла, до Скелетрона.",
+      "source": "CalamityMod 2.2.4: HellwingStaff.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Hellwing_Staff",
+      "recipe": {
+        "ingredients": [
+          [
+            "HellstoneBar",
+            "10"
+          ],
+          [
+            "AshWood",
+            "10"
+          ]
+        ],
+        "tile": "16",
+        "source": "CalamityMod/CalamityMod.Items.Weapons.Magic/HellwingStaff.cs",
+        "text": "Слиток адского камня × 10; Пепельная древесина × 10",
+        "station": "железная или свинцовая наковальня"
+      }
+    },
+    "BlackAnurian": {
+      "id": "BlackAnurian",
+      "name": "Чёрный ануриан",
+      "requires": [
+        "skeletron"
+      ],
+      "how": "Найти в древнем сокровищном сундуке Бездны после Скелетрона; нужен теневой ключ из Темницы.",
+      "source": "CalamityMod 2.2.4: BlackAnurian.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Black_Anurian",
+      "recipe": null
+    },
+    "MagneticMeltdown": {
+      "id": "MagneticMeltdown",
+      "name": "Магнитное расплавление",
+      "requires": [
+        "destroyer",
+        "plantera",
+        "signus"
+      ],
+      "how": "Скрафтить из Магнитной сферы усиленной Темницы и Искривлённой пустоты Сигнуса. В этом маршруте появляется только после Сигнуса.",
+      "source": "CalamityMod 2.2.4: MagneticMeltdown.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Magnetic_Meltdown",
+      "recipe": {
+        "ingredients": [
+          [
+            "MagnetSphere",
+            "1"
+          ],
+          [
+            "TwistingNether",
+            "3"
+          ]
+        ],
+        "tile": "134",
+        "source": "CalamityMod/CalamityMod.Items.Weapons.Magic/MagneticMeltdown.cs",
+        "text": "Магнитная сфера × 1; Искривлённая пустота × 3",
+        "station": "мифриловая или орихалковая наковальня"
+      }
+    },
+    "NebulousCataclysm": {
+      "id": "NebulousCataclysm",
+      "name": "Катаклизм туманности",
+      "requires": [
+        "cultist",
+        "lunar",
+        "moonlord",
+        "dog"
+      ],
+      "how": "Скрафтить после Пожирателя богов; нужны космилит и топливо кошмара с повторной Тыквенной луны. Вариант перед Яроном.",
+      "source": "CalamityMod 2.2.4: NebulousCataclysm.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Nebulous_Cataclysm",
+      "recipe": {
+        "ingredients": [
+          [
+            "NebulaArcanum",
+            "1"
+          ],
+          [
+            "NebulaBlaze",
+            "1"
+          ],
+          [
+            "CosmiliteBar",
+            "8"
+          ],
+          [
+            "NightmareFuel",
+            "20"
+          ]
+        ],
+        "tile": "CosmicAnvil",
+        "source": "CalamityMod/CalamityMod.Items.Weapons.Magic/NebulousCataclysm.cs",
+        "text": "Туманный арканум × 1; Вспышка туманности × 1; Космилитовый слиток × 8; Кошмарное топливо × 20",
+        "station": "космическая наковальня"
+      }
+    },
+    "ChronomancersScythe": {
+      "id": "ChronomancersScythe",
+      "name": "Коса хрономанта",
+      "requires": [
+        "wall",
+        "destroyer",
+        "moonlord"
+      ],
+      "how": "Скрафтить из ледяной косы, будильника, люминита и эссенций Элеума. Оружие мага: название косы не означает, что это оружие воина.",
+      "source": "CalamityMod 2.2.4: ChronomancersScythe.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Chronomancer%27s_Scythe",
+      "recipe": {
+        "ingredients": [
+          [
+            "IceSickle",
+            "1"
+          ],
+          [
+            "FastClock",
+            "1"
+          ],
+          [
+            "LunarBar",
+            "10"
+          ],
+          [
+            "EssenceofEleum",
+            "6"
+          ]
+        ],
+        "tile": "134",
+        "source": "CalamityMod/CalamityMod.Items.Weapons.Magic/ChronomancersScythe.cs",
+        "text": "Ледяная коса × 1; Будильник × 1; Люминитовый слиток × 10; Эссенция Элеума × 6",
+        "station": "мифриловая или орихалковая наковальня"
+      }
+    },
+    "SludgeSplotch": {
+      "id": "SludgeSplotch",
+      "name": "Комок шлама",
+      "requires": [
+        "evil"
+      ],
+      "how": "Скрафтить из гибельного геля и материала босса зла. Альтернатива для разбойника, требующая прицеливания.",
+      "source": "CalamityMod 2.2.4: SludgeSplotch.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Sludge_Splotch",
+      "recipe": {
+        "ingredients": [
+          [
+            "BlightedGel",
+            "50"
+          ],
+          [
+            "group:Boss2Material",
+            "8"
+          ]
+        ],
+        "tile": null,
+        "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/SludgeSplotch.cs",
+        "text": "Гибельный гель × 50; материал Пожирателя миров или Мозга Ктулху × 8",
+        "station": "станция, указанная в полном рецепте"
+      }
+    },
+    "ShinobiBlade": {
+      "id": "ShinobiBlade",
+      "name": "Клинок шиноби",
+      "requires": [
+        "skeletron"
+      ],
+      "how": "Фармить тёмных колдунов в Темнице после Скелетрона. Вариант для скрытных атак перед Богом слизней и Стеной плоти.",
+      "source": "CalamityMod 2.2.4: ShinobiBlade.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Shinobi_Blade",
+      "recipe": null
+    },
+    "EnchantedAxe": {
+      "id": "EnchantedAxe",
+      "name": "Зачарованный топор",
+      "requires": [
+        "desert",
+        "evil",
+        "skeletron"
+      ],
+      "how": "Скрафтить из железного или свинцового метательного топора, осколков жемчуга, демонитовых слитков и костей. В маршруте используется после Скелетрона из-за костей.",
+      "source": "CalamityMod 2.2.4: EnchantedAxe.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Enchanted_Axe",
+      "recipe": {
+        "ingredients": [
+          [
+            "IronFrancisca",
+            "1"
+          ],
+          [
+            "FallenStar",
+            "5"
+          ],
+          [
+            "PearlShard",
+            "10"
+          ],
+          [
+            "Bone",
+            "30"
+          ]
+        ],
+        "tile": "16",
+        "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/EnchantedAxe.cs",
+        "text": "Железная франциска × 1; Упавшая звезда × 5; Осколок жемчуга × 10; Кость × 30",
+        "station": "железная или свинцовая наковальня"
+      }
+    },
+    "TwistingThunder": {
+      "id": "TwistingThunder",
+      "name": "Извилистый гром",
+      "requires": [
+        "desert",
+        "skeletron",
+        "wall",
+        "destroyer",
+        "moonlord",
+        "weaver"
+      ],
+      "how": "Скрафтить после Штормового ткача. В этом маршруте не используется перед Провиденс: для первого Ткача она уже побеждена.",
+      "source": "CalamityMod 2.2.4: TwistingThunder.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Twisting_Thunder",
+      "recipe": {
+        "ingredients": [
+          [
+            "StormfrontRazor",
+            "1"
+          ],
+          [
+            "UnholyEssence",
+            "15"
+          ],
+          [
+            "ArmoredShell",
+            "3"
+          ]
+        ],
+        "tile": "134",
+        "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/TwistingThunder.cs",
+        "text": "Штормовая бритва × 1; Нечестивая эссенция × 15; Бронированный панцирь × 3",
+        "station": "мифриловая или орихалковая наковальня"
+      }
+    },
+    "Valediction": {
+      "id": "Valediction",
+      "name": "Прощание",
+      "requires": [
+        "polterghast"
+      ],
+      "how": "Дроп мини-босса Акулы-жнеца в Бездне после Полтергаста. Вариант перед Пожирателем богов.",
+      "source": "CalamityMod 2.2.4: Valediction.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Valediction",
+      "recipe": null
+    },
+    "EclipsesFall": {
+      "id": "EclipsesFall",
+      "name": "Падение затмения",
+      "requires": [
+        "destroyer",
+        "twins",
+        "leviathan",
+        "moonlord",
+        "polterghast",
+        "dog",
+        "yharon"
+      ],
+      "how": "Скрафтить после Ярона: в установленной версии требуются ауритовые слитки. Старый совет брать это оружие на первого Ярона здесь неприменим.",
+      "source": "CalamityMod 2.2.4: EclipsesFall.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Eclipse%27s_Fall",
+      "recipe": {
+        "ingredients": [
+          [
+            "Vega",
+            "1"
+          ],
+          [
+            "AuricBar",
+            "5"
+          ],
+          [
+            "DarksunFragment",
+            "15"
+          ]
+        ],
+        "tile": "CosmicAnvil",
+        "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/EclipsesFall.cs",
+        "text": "Вега × 1; Ауритовый слиток × 5; Фрагмент тёмного солнца × 15",
+        "station": "космическая наковальня"
+      }
+    },
+    "BrittleStarStaff": {
+      "id": "BrittleStarStaff",
+      "name": "Посох хрупкой звезды",
+      "requires": [
+        "desert"
+      ],
+      "how": "Дроп Пустынного бича. Миньон занимает слот призыва; не добавляй звёзды сверх общего лимита вместе с другими посохами.",
+      "source": "CalamityMod 2.2.4: BrittleStarStaff.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Brittle_Star_Staff",
+      "recipe": null
+    },
+    "StaffOfNecrosteocytes": {
+      "id": "StaffOfNecrosteocytes",
+      "name": "Посох некростеоцита",
+      "requires": [
+        "skeletron"
+      ],
+      "how": "Фармить тёмных колдунов в Темнице после Скелетрона. Альтернатива Посоху селёдки для заполнения слотов миньонов.",
+      "source": "CalamityMod 2.2.4: StaffOfNecrosteocytes.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Staff_of_Necrosteocytes",
+      "recipe": null
+    },
+    "CinderBlossomStaff": {
+      "id": "CinderBlossomStaff",
+      "name": "Посох пепельного цветка",
+      "requires": [
+        "evil"
+      ],
+      "how": "Скрафтить из адских слитков, древесины пепла и огнецвета. В установленной версии цветок занимает один слот миньона; одновременно существует один такой цветок. Старый совет считать его бесплатным дополнительным призывом здесь не подходит.",
+      "source": "CalamityMod 2.2.4: CinderBlossomStaff.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Cinder_Blossom_Staff",
+      "recipe": {
+        "ingredients": [
+          [
+            "HellstoneBar",
+            "10"
+          ],
+          [
+            "AshWood",
+            "10"
+          ],
+          [
+            "Fireblossom",
+            "5"
+          ]
+        ],
+        "tile": "16",
+        "source": "CalamityMod/CalamityMod.Items.Weapons.Summon/CinderBlossomStaff.cs",
+        "text": "Слиток адского камня × 10; Пепельная древесина × 10; Огнецвет × 5",
+        "station": "железная или свинцовая наковальня"
+      }
+    },
+    "EyeOfNight": {
+      "id": "EyeOfNight",
+      "name": "Глаз ночи",
+      "requires": [
+        "evil",
+        "skeletron",
+        "slime-god"
+      ],
+      "how": "Скрафтить после Бога слизней из ранних посохов и очищенного геля. Использует слоты миньонов, поэтому выбирай между основными призывами по доступному лимиту.",
+      "source": "CalamityMod 2.2.4: EyeOfNight.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Eye_of_Night",
+      "recipe": {
+        "ingredients": [
+          [
+            "VileFeeder",
+            "1"
+          ],
+          [
+            "StaffOfNecrosteocytes",
+            "1"
+          ],
+          [
+            "BelladonnaSpiritStaff",
+            "1"
+          ],
+          [
+            "ImpStaff",
+            "1"
+          ],
+          [
+            "PurifiedGel",
+            "10"
+          ]
+        ],
+        "tile": "26",
+        "source": "CalamityMod/CalamityMod.Items.Weapons.Summon/EyeOfNight.cs",
+        "text": "Гнусный кормилец × 1; Посох некростеоцита × 1; Посох духа белладонны × 1; Посох беса × 1; Очищенный гель × 10",
+        "station": "демонический или багряный алтарь"
+      }
+    },
+    "VoidConcentrationStaff": {
+      "id": "VoidConcentrationStaff",
+      "name": "Концентратор пустоты",
+      "requires": [
+        "void"
+      ],
+      "how": "Дроп Нескончаемой пустоты. Занимает четыре слота миньонов и имеет механику метки цели. Обещание постоянного сопротивления урону из старого обзора не перенесено: текущий предмет переработан.",
+      "source": "CalamityMod 2.2.4: VoidConcentrationStaff.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Void_Concentration_Staff",
+      "recipe": null
+    },
+    "QuiverofNihility": {
+      "id": "QuiverofNihility",
+      "name": "Колчан небытия",
+      "requires": [
+        "wall",
+        "destroyer",
+        "cultist",
+        "lunar",
+        "void"
+      ],
+      "how": "Скрафтить из колчана, фрагментов вихря и тёмной плазмы. Используй с луком вместо прицела для пуль; это замена одного слота, а не дополнительный аксессуар.",
+      "source": "CalamityMod 2.2.4: QuiverofNihility.cs",
+      "url": "https://calamitymod.wiki.gg/wiki/Quiver_of_Nihility",
+      "recipe": {
+        "ingredients": [
+          [
+            "FragmentVortex",
+            "5"
+          ],
+          [
+            "DarkPlasma",
+            "3"
+          ],
+          [
+            "group:AnyQuiver",
+            "1"
+          ]
+        ],
+        "tile": "134",
+        "source": "CalamityMod/CalamityMod.Items.Accessories/QuiverofNihility.cs",
+        "text": "Вихревой фрагмент × 5; Тёмная плазма × 3; магический, расплавленный колчан или колчан преследователя × 1",
+        "station": "мифриловая или орихалковая наковальня"
       }
     },
     "UrchinMace": {
@@ -34295,7 +35494,7 @@ window.GUIDE = {
       "requires": [
         "providence"
       ],
-      "how": "Получить с Провиденс при бою в Аду; это отдельный фарм после первой победы, если первый бой был в Освящении.",
+      "how": "Получить после победы над Провиденс. В вашей версии 2.2.4 Элизийская эгида и крылья выпадают независимо от выбора Ада или Освящения; старое разделение дропа по биому здесь не применяется.",
       "source": "CalamityMod 2.2.4: ElysianAegis.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Elysian_Aegis",
       "recipe": null
@@ -35568,6 +36767,144 @@ window.GUIDE = {
           "source": "CalamityMod/CalamityMod.Items.Armor.DesertProwler/DesertProwlerPants.cs",
           "text": "Жвало штормового льва × 1; Шёлк × 5",
           "station": "ткацкий станок"
+        }
+      ],
+      "recipe": null
+    },
+    "snow-ranged": {
+      "id": "snow-ranged",
+      "name": "Доспех снежного бандита — стрелок",
+      "requires": [],
+      "how": "Скрафтить из шёлка, бореальной древесины и меха флинкса. В вашей версии комплект усиливает стрелковые атаки. На старте выбирай этот полный комплект для классовых бонусов или платиновый для защиты; не смешивай их части. Состав комплекта: Маска снежного бандита, Нагрудник снежного бандита, Поножи снежного бандита.",
+      "source": "CalamityMod — все части комплекта",
+      "url": "https://calamitymod.wiki.gg/wiki/snow-ranged",
+      "recipes": [
+        {
+          "part": "Маска снежного бандита",
+          "ingredients": [
+            [
+              "BorealWood",
+              "10"
+            ],
+            [
+              "Silk",
+              "4"
+            ],
+            [
+              "FlinxFur",
+              "1"
+            ]
+          ],
+          "tile": "16",
+          "source": "CalamityMod/CalamityMod.Items.Armor.SnowRuffian/SnowRuffianMask.cs",
+          "text": "Северная древесина × 10; Шёлк × 4; Мех флинкса × 1",
+          "station": "железная или свинцовая наковальня"
+        },
+        {
+          "part": "Нагрудник снежного бандита",
+          "ingredients": [
+            [
+              "BorealWood",
+              "20"
+            ],
+            [
+              "Silk",
+              "6"
+            ],
+            [
+              "FlinxFur",
+              "2"
+            ]
+          ],
+          "tile": "16",
+          "source": "CalamityMod/CalamityMod.Items.Armor.SnowRuffian/SnowRuffianChestplate.cs",
+          "text": "Северная древесина × 20; Шёлк × 6; Мех флинкса × 2",
+          "station": "железная или свинцовая наковальня"
+        },
+        {
+          "part": "Поножи снежного бандита",
+          "ingredients": [
+            [
+              "BorealWood",
+              "15"
+            ],
+            [
+              "Silk",
+              "5"
+            ],
+            [
+              "FlinxFur",
+              "1"
+            ]
+          ],
+          "tile": "16",
+          "source": "CalamityMod/CalamityMod.Items.Armor.SnowRuffian/SnowRuffianGreaves.cs",
+          "text": "Северная древесина × 15; Шёлк × 5; Мех флинкса × 1",
+          "station": "железная или свинцовая наковальня"
+        }
+      ],
+      "recipe": null
+    },
+    "sulphurous-rogue": {
+      "id": "sulphurous-rogue",
+      "name": "Серный доспех — разбойник",
+      "requires": [
+        "eye"
+      ],
+      "how": "После Глаза Ктулху дождаться Кислотного дождя в Сернистом море и нафармить сорок пять серных чешуек, собрать сорок пять единиц кислотной древесины. Босса достаточно для доступа к событию, но чешуйки нужно добыть отдельно. Полный комплект поддерживает скрытные атаки. Состав комплекта: Сернистый шлем, Сернистый нагрудник, Сернистые поножи.",
+      "source": "CalamityMod — все части комплекта",
+      "url": "https://calamitymod.wiki.gg/wiki/sulphurous-rogue",
+      "recipes": [
+        {
+          "part": "Сернистый шлем",
+          "ingredients": [
+            [
+              "Acidwood",
+              "10"
+            ],
+            [
+              "SulphuricScale",
+              "10"
+            ]
+          ],
+          "tile": "16",
+          "source": "CalamityMod/CalamityMod.Items.Armor.Sulphurous/SulphurousHelmet.cs",
+          "text": "Кислотная древесина × 10; Сернистая чешуя × 10",
+          "station": "железная или свинцовая наковальня"
+        },
+        {
+          "part": "Сернистый нагрудник",
+          "ingredients": [
+            [
+              "Acidwood",
+              "20"
+            ],
+            [
+              "SulphuricScale",
+              "20"
+            ]
+          ],
+          "tile": "16",
+          "source": "CalamityMod/CalamityMod.Items.Armor.Sulphurous/SulphurousBreastplate.cs",
+          "text": "Кислотная древесина × 20; Сернистая чешуя × 20",
+          "station": "железная или свинцовая наковальня"
+        },
+        {
+          "part": "Сернистые поножи",
+          "ingredients": [
+            [
+              "Acidwood",
+              "15"
+            ],
+            [
+              "SulphuricScale",
+              "15"
+            ]
+          ],
+          "tile": "16",
+          "source": "CalamityMod/CalamityMod.Items.Armor.Sulphurous/SulphurousLeggings.cs",
+          "text": "Кислотная древесина × 15; Сернистая чешуя × 15",
+          "station": "железная или свинцовая наковальня"
         }
       ],
       "recipe": null
