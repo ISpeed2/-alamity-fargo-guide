@@ -1,7 +1,7 @@
 {
   "rows": 340,
   "classes": 5,
-  "unique_items": 301,
+  "unique_items": 302,
   "bosses_and_events": 66,
   "all_rows_before_target": true,
   "no_self_drop_dependencies": true,
@@ -22,5 +22,9 @@
   "additional_methods": 36,
   "murasama_use_gate_checked": true,
   "cryophobia_shop_gate_checked": true,
-  "abyss_chest_unlock_checked": true
+  "abyss_chest_unlock_checked": true,
+  "modified_vanilla_recipes_checked": 7,
+  "fire_gauntlet_requires_golem": true,
+  "nights_edge_requires_slime_god": true,
+  "item_wiki_links_use_mod_wikis": true
 }

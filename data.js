@@ -3220,7 +3220,7 @@ window.GUIDE = {
       "weapons": [
         "BallOFugu",
         "BrokenBiomeBlade",
-        "NightsEdge"
+        "WindBlade"
       ],
       "armor": [
         "molten"
@@ -3264,7 +3264,7 @@ window.GUIDE = {
         "skeletron"
       ],
       "cells": [
-        "Шар фугу; Сломанный клинок биома; Грань ночи",
+        "Шар фугу; Сломанный клинок биома; Клинок ветра",
         "Расплавленная броня",
         "Молниеносные ботинки; Щит Ктулху; Браслет регенерации; Электропривод вездехода; Звериные когти; Ожерелье из акульих зубов; Аэрофазовое усиление",
         "Очищенный гель и статигель — награда за этот бой. До первого Бога слизней статигелевой брони в комплекте нет. Держи дистанцию оружием с дальним ударом. В ближний бой заходи только в безопасное окно."
@@ -6978,7 +6978,7 @@ window.GUIDE = {
         "OrnateShield",
         "CharmofMyths",
         "StarVeil",
-        "FireGauntlet",
+        "MechanicalGlove",
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
@@ -7027,7 +7027,7 @@ window.GUIDE = {
       "cells": [
         "Истинный Экскалибур; Двуручный меч света и тьмы",
         "Доспех Дедала — Шлем Дедала",
-        "Ангельские ботфорты; Украшенный щит; Амулет мифов; Звёздная завеса; Огненная рукавица; Эмблема воина; Усиление Дедала",
+        "Ангельские ботфорты; Украшенный щит; Амулет мифов; Звёздная завеса; Механическая перчатка; Эмблема воина; Усиление Дедала",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Держи дистанцию оружием с дальним ударом. В ближний бой заходи только в безопасное окно. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
       ],
       "notes": [],
@@ -7354,7 +7354,7 @@ window.GUIDE = {
         "OrnateShield",
         "CharmofMyths",
         "StarVeil",
-        "FireGauntlet",
+        "MechanicalGlove",
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
@@ -7406,7 +7406,7 @@ window.GUIDE = {
       "cells": [
         "Серная плеть; Истинный Экскалибур",
         "Доспех Дедала — Шлем Дедала",
-        "Ангельские ботфорты; Украшенный щит; Амулет мифов; Звёздная завеса; Огненная рукавица; Эмблема воина; Усиление Дедала",
+        "Ангельские ботфорты; Украшенный щит; Амулет мифов; Звёздная завеса; Механическая перчатка; Эмблема воина; Усиление Дедала",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Держи дистанцию оружием с дальним ударом. В ближний бой заходи только в безопасное окно. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
       ],
       "notes": [],
@@ -7737,7 +7737,7 @@ window.GUIDE = {
         "OrnateShield",
         "CharmofMyths",
         "StarVeil",
-        "FireGauntlet",
+        "MechanicalGlove",
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
@@ -7790,7 +7790,7 @@ window.GUIDE = {
       "cells": [
         "Серная плеть; Истинный Экскалибур",
         "Доспех Дедала — Шлем Дедала",
-        "Ангельские ботфорты; Украшенный щит; Амулет мифов; Звёздная завеса; Огненная рукавица; Эмблема воина; Усиление Дедала",
+        "Ангельские ботфорты; Украшенный щит; Амулет мифов; Звёздная завеса; Механическая перчатка; Эмблема воина; Усиление Дедала",
         "Спектральная, грибонитовая и броня тики — после Плантеры. Для её первого боя используются предыдущие комплекты. Держи дистанцию оружием с дальним ударом. В ближний бой заходи только в безопасное окно. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
       ],
       "notes": [],
@@ -8125,7 +8125,7 @@ window.GUIDE = {
         "AsgardsValor",
         "CharmofMyths",
         "StarVeil",
-        "FireGauntlet",
+        "MechanicalGlove",
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
@@ -8180,7 +8180,7 @@ window.GUIDE = {
       "cells": [
         "Серная плеть; Истинный Экскалибур",
         "Черепашья броня",
-        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Звёздная завеса; Огненная рукавица; Эмблема воина; Усиление Дедала",
+        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Звёздная завеса; Механическая перчатка; Эмблема воина; Усиление Дедала",
         "Для дальнейшего комплекта нафарми Сломанный меч героя и нужные солнечные материалы. Галочка означает, что событие пройдено и нужные материалы собраны. Держи дистанцию оружием с дальним ударом. В ближний бой заходи только в безопасное окно. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
       ],
       "notes": [],
@@ -8529,7 +8529,7 @@ window.GUIDE = {
         "AsgardsValor",
         "CharmofMyths",
         "StarVeil",
-        "FireGauntlet",
+        "MechanicalGlove",
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
@@ -8544,6 +8544,8 @@ window.GUIDE = {
         "goblins",
         "evil",
         "hive",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -8586,7 +8588,7 @@ window.GUIDE = {
       "cells": [
         "Терра-клинок; Серная плеть",
         "Черепашья броня",
-        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Звёздная завеса; Огненная рукавица; Эмблема воина; Усиление Дедала",
+        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Звёздная завеса; Механическая перчатка; Эмблема воина; Усиление Дедала",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Держи дистанцию оружием с дальним ударом. В ближний бой заходи только в безопасное окно. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
       ],
       "notes": [],
@@ -8940,7 +8942,7 @@ window.GUIDE = {
         "AsgardsValor",
         "CharmofMyths",
         "StarVeil",
-        "FireGauntlet",
+        "MechanicalGlove",
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
@@ -8955,6 +8957,8 @@ window.GUIDE = {
         "goblins",
         "evil",
         "hive",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -8998,7 +9002,7 @@ window.GUIDE = {
       "cells": [
         "Терра-клинок; Серная плеть",
         "Черепашья броня",
-        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Звёздная завеса; Огненная рукавица; Эмблема воина; Усиление Дедала",
+        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Звёздная завеса; Механическая перчатка; Эмблема воина; Усиление Дедала",
         "Глубинные клетки и Мегалодон появляются после Левиафана; до этого боя Мегалодона нет. Держи дистанцию оружием с дальним ударом. В ближний бой заходи только в безопасное окно. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
       ],
       "notes": [],
@@ -9356,7 +9360,7 @@ window.GUIDE = {
         "AsgardsValor",
         "CharmofMyths",
         "TheCommunity",
-        "FireGauntlet",
+        "MechanicalGlove",
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
@@ -9371,6 +9375,8 @@ window.GUIDE = {
         "goblins",
         "evil",
         "hive",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -9416,7 +9422,7 @@ window.GUIDE = {
       "cells": [
         "Терра-клинок; Серная плеть",
         "Черепашья броня",
-        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Огненная рукавица; Эмблема воина; Усиление Дедала",
+        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Механическая перчатка; Эмблема воина; Усиление Дедала",
         "Комплект рассчитан на этот бой по указанному маршруту. Собственный дроп босса используется только в следующих строках. Держи дистанцию оружием с дальним ударом. В ближний бой заходи только в безопасное окно. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
       ],
       "notes": [],
@@ -9782,7 +9788,7 @@ window.GUIDE = {
         "AsgardsValor",
         "CharmofMyths",
         "TheCommunity",
-        "FireGauntlet",
+        "MechanicalGlove",
         "WarriorEmblem",
         "DaedalusEnchant"
       ],
@@ -9796,6 +9802,8 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -9843,7 +9851,7 @@ window.GUIDE = {
       "cells": [
         "Хлестатель туманности; Терра-клинок",
         "Черепашья броня",
-        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Огненная рукавица; Эмблема воина; Усиление Дедала",
+        "Ангельские ботфорты; Доблесть Асгарда; Амулет мифов; Сообщество; Механическая перчатка; Эмблема воина; Усиление Дедала",
         "До первого Голема исключены скория и гидротермический комплект. После победы получи кирку на 210% для добычи скории. Держи дистанцию оружием с дальним ударом. В ближний бой заходи только в безопасное окно. Используй Сердце демона из мешка Стены плоти: оно открывает седьмой обычный слот в Мастере."
       ],
       "notes": [],
@@ -10227,6 +10235,8 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -10672,6 +10682,8 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -11124,6 +11136,8 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -11583,6 +11597,8 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -12047,6 +12063,8 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -12518,6 +12536,8 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -12995,6 +13015,8 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -13482,6 +13504,8 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -13975,6 +13999,7 @@ window.GUIDE = {
         "goblins",
         "hive",
         "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -14475,6 +14500,8 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -14977,6 +15004,8 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -17703,6 +17732,8 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -17713,6 +17744,7 @@ window.GUIDE = {
         "eclipse",
         "leviathan",
         "aureus",
+        "golem",
         "cultist",
         "deus",
         "lunar",
@@ -18251,6 +18283,8 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -18261,6 +18295,7 @@ window.GUIDE = {
         "eclipse",
         "leviathan",
         "aureus",
+        "golem",
         "cultist",
         "deus",
         "lunar",
@@ -18808,6 +18843,8 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -18818,6 +18855,7 @@ window.GUIDE = {
         "eclipse",
         "leviathan",
         "aureus",
+        "golem",
         "cultist",
         "deus",
         "lunar",
@@ -19367,6 +19405,8 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -19377,6 +19417,7 @@ window.GUIDE = {
         "eclipse",
         "leviathan",
         "aureus",
+        "golem",
         "cultist",
         "deus",
         "lunar",
@@ -19932,6 +19973,8 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -19941,6 +19984,7 @@ window.GUIDE = {
         "eclipse",
         "leviathan",
         "aureus",
+        "golem",
         "cultist",
         "deus",
         "lunar",
@@ -20504,6 +20548,8 @@ window.GUIDE = {
         "eye",
         "goblins",
         "hive",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -20513,6 +20559,7 @@ window.GUIDE = {
         "eclipse",
         "leviathan",
         "aureus",
+        "golem",
         "cultist",
         "deus",
         "lunar",
@@ -21101,6 +21148,7 @@ window.GUIDE = {
         "clone",
         "plantera",
         "leviathan",
+        "golem",
         "cultist",
         "deus",
         "lunar",
@@ -21695,6 +21743,7 @@ window.GUIDE = {
         "clone",
         "plantera",
         "leviathan",
+        "golem",
         "cultist",
         "deus",
         "lunar",
@@ -22294,6 +22343,7 @@ window.GUIDE = {
         "clone",
         "plantera",
         "leviathan",
+        "golem",
         "cultist",
         "deus",
         "lunar",
@@ -22898,6 +22948,7 @@ window.GUIDE = {
         "clone",
         "plantera",
         "leviathan",
+        "golem",
         "cultist",
         "deus",
         "lunar",
@@ -23507,6 +23558,7 @@ window.GUIDE = {
         "clone",
         "plantera",
         "leviathan",
+        "golem",
         "cultist",
         "deus",
         "lunar",
@@ -24121,6 +24173,7 @@ window.GUIDE = {
         "clone",
         "plantera",
         "leviathan",
+        "golem",
         "cultist",
         "deus",
         "lunar",
@@ -24740,6 +24793,7 @@ window.GUIDE = {
         "clone",
         "plantera",
         "leviathan",
+        "golem",
         "cultist",
         "deus",
         "lunar",
@@ -25364,6 +25418,7 @@ window.GUIDE = {
         "clone",
         "plantera",
         "leviathan",
+        "golem",
         "cultist",
         "deus",
         "lunar",
@@ -25993,6 +26048,7 @@ window.GUIDE = {
         "clone",
         "plantera",
         "leviathan",
+        "golem",
         "cultist",
         "deus",
         "lunar",
@@ -26627,6 +26683,7 @@ window.GUIDE = {
         "clone",
         "plantera",
         "leviathan",
+        "golem",
         "cultist",
         "deus",
         "lunar",
@@ -28615,6 +28672,8 @@ window.GUIDE = {
         "eye",
         "goblins",
         "evil",
+        "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -29304,6 +29363,7 @@ window.GUIDE = {
         "goblins",
         "evil",
         "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -30002,6 +30062,7 @@ window.GUIDE = {
         "goblins",
         "evil",
         "skeletron",
+        "slime-god",
         "deviantt",
         "wall",
         "destroyer",
@@ -31019,8 +31080,19 @@ window.GUIDE = {
       "requires": [],
       "how": "Найти в сундуке на парящем острове. В генерации этой сборки проверь небесные обсерватории на островах; конкретный сундук может содержать другой предмет.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Starfury",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "EnchantedSword": {
       "id": "EnchantedSword",
@@ -31028,8 +31100,19 @@ window.GUIDE = {
       "requires": [],
       "how": "Найти в святилище зачарованного меча; если мир не дал меч, используй Звёздную ярость.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Enchanted_Sword",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "FieryGreatsword": {
       "id": "FieryGreatsword",
@@ -31039,20 +31122,70 @@ window.GUIDE = {
       ],
       "how": "Скрафтить из адских слитков на наковальне. Добыть адскую руду киркой из материалов босса зла; переплавить с обсидианом в адской печи.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Volcano",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "NightsEdge": {
       "id": "NightsEdge",
       "name": "Грань ночи",
       "requires": [
         "evil",
-        "skeletron"
+        "skeletron",
+        "slime-god"
       ],
-      "how": "Собрать Световую погибель или Кровавый мясорез, Мурамасу, Клинок травы и Вулкан; крафт на алтаре. Ванильную Мурамасу ищи в запертых золотых сундуках Темницы после Скелетрона; нужен золотой ключ. Не путай её с Мурасамой из адской лаборатории.",
+      "how": "Собрать Световую погибель или Кровавый мясорез, Мурамасу, Клинок травы и Вулкан; крафт на алтаре. Ванильную Мурамасу ищи в запертых золотых сундуках Темницы после Скелетрона; нужен золотой ключ. Не путай её с Мурасамой из адской лаборатории. Изменение основной сборки: дополнительно нужны десять очищенного геля с Бога слизней. До его первого убийства этот меч не предлагается.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Night%27s_Edge",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": {
+        "ingredients": [
+          [
+            "group:AnyEvilSword",
+            "1"
+          ],
+          [
+            "Muramasa",
+            "1"
+          ],
+          [
+            "BladeofGrass",
+            "1"
+          ],
+          [
+            "FieryGreatsword",
+            "1"
+          ],
+          [
+            "PurifiedGel",
+            "10"
+          ]
+        ],
+        "tile": "26",
+        "source": "CalamityMod/CalamityMod.Systems/RecipeSystem.cs",
+        "text": "Световая погибель или Кровавый мясорез × 1; Мурамаса × 1; Травяной клинок × 1; Вулкан × 1; Очищенный гель × 10",
+        "station": "демонический или багряный алтарь"
+      },
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "IceSickle": {
       "id": "IceSickle",
@@ -31062,8 +31195,19 @@ window.GUIDE = {
       ],
       "how": "Фармить ледяных врагов в подземном снежном биоме хардмода.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Ice_Sickle",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "TrueExcalibur": {
       "id": "TrueExcalibur",
@@ -31073,22 +31217,87 @@ window.GUIDE = {
         "twins",
         "prime"
       ],
-      "how": "Скрафтить Экскалибур из святых слитков, затем улучшить хлорофитовыми слитками на хардмод-наковальне.",
+      "how": "Улучшить Экскалибур двенадцатью хлорофитовыми слитками на хардмодной наковальне. Основная сборка уменьшает число слитков с двадцати четырёх до двенадцати.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/True_Excalibur",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": {
+        "ingredients": [
+          [
+            "Excalibur",
+            "1"
+          ],
+          [
+            "ChlorophyteBar",
+            "12"
+          ]
+        ],
+        "tile": "134",
+        "source": "CalamityMod/CalamityMod.Systems/RecipeSystem.cs",
+        "text": "Экскалибур × 1; Хлорофитовый слиток × 12",
+        "station": "мифриловая или орихалковая наковальня"
+      },
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "TerraBlade": {
       "id": "TerraBlade",
       "name": "Терра-клинок",
       "requires": [
+        "skeletron",
+        "slime-god",
+        "destroyer",
+        "twins",
+        "prime",
         "plantera",
         "eclipse"
       ],
-      "how": "Собрать Истинный Экскалибур, Истинное лезвие ночи и Сломанный меч героя. Последний фармится с Мотрона в Солнечном затмении; крафт на хардмод-наковальне.",
+      "how": "Собрать Истинный Экскалибур, Истинное лезвие ночи и Сломанный меч героя. Последний фармится с Мотрона в Солнечном затмении; крафт на хардмод-наковальне. Основная сборка дополнительно требует двенадцать живых осколков с Плантеры.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Terra_Blade",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": {
+        "ingredients": [
+          [
+            "TrueExcalibur",
+            "1"
+          ],
+          [
+            "TrueNightsEdge",
+            "1"
+          ],
+          [
+            "BrokenHeroSword",
+            "1"
+          ],
+          [
+            "LivingShard",
+            "12"
+          ]
+        ],
+        "tile": "134",
+        "source": "CalamityMod/CalamityMod.Systems/RecipeSystem.cs",
+        "text": "Истинный Экскалибур × 1; Истинная грань ночи × 1; Сломанный меч героя × 1; Живой осколок × 12",
+        "station": "мифриловая или орихалковая наковальня"
+      },
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "InfluxWaver": {
       "id": "InfluxWaver",
@@ -31099,8 +31308,19 @@ window.GUIDE = {
       ],
       "how": "Дроп марсианской тарелки в Марсианском безумии.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Influx_Waver",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "SolarEruption": {
       "id": "SolarEruption",
@@ -31111,8 +31331,19 @@ window.GUIDE = {
       ],
       "how": "Скрафтить из солнечных фрагментов на Древнем манипуляторе. Люминит не нужен.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Solar_Eruption",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "PlatinumBow": {
       "id": "PlatinumBow",
@@ -31120,8 +31351,19 @@ window.GUIDE = {
       "requires": [],
       "how": "Скрафтить из платиновых слитков на наковальне. В мире с золотом используй золотой лук.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Platinum_Bow",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "Minishark": {
       "id": "Minishark",
@@ -31129,8 +31371,19 @@ window.GUIDE = {
       "requires": [],
       "how": "Купить у Оружейника. Для его заселения получи огнестрельное оружие и патроны, например мушкет/гробовщик из сферы/сердца.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Minishark",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "MoltenFury": {
       "id": "MoltenFury",
@@ -31140,8 +31393,19 @@ window.GUIDE = {
       ],
       "how": "Скрафтить из адских слитков после добычи адской руды и обсидиана.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Molten_Fury",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "PhoenixBlaster": {
       "id": "PhoenixBlaster",
@@ -31152,8 +31416,19 @@ window.GUIDE = {
       ],
       "how": "Найти Пистолет в золотых сундуках Темницы и улучшить адскими слитками на наковальне.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Phoenix_Blaster",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "DaedalusStormbow": {
       "id": "DaedalusStormbow",
@@ -31163,8 +31438,19 @@ window.GUIDE = {
       ],
       "how": "Дроп освященного мимика в хардмоде. Для отдельного боя с мимиком используй прежнее оружие; этот лук нужен уже после его фарма.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Daedalus_Stormbow",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "Shotgun": {
       "id": "Shotgun",
@@ -31174,8 +31460,19 @@ window.GUIDE = {
       ],
       "how": "Купить у Оружейника в хардмоде.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Shotgun",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "Megashark": {
       "id": "Megashark",
@@ -31186,8 +31483,19 @@ window.GUIDE = {
       ],
       "how": "Скрафтить Миниакулу, Нелегальные части оружия, плавники акулы и эссенции могущества на мифриловой/орихалковой наковальне. Уничтожитель обязателен.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Megashark",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "ChlorophyteShotbow": {
       "id": "ChlorophyteShotbow",
@@ -31199,8 +31507,19 @@ window.GUIDE = {
       ],
       "how": "Добыть хлорофит киркой на 200% и скрафтить самострел из хлорофитовых слитков на хардмод-наковальне.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Chlorophyte_Shotbow",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "Xenopopper": {
       "id": "Xenopopper",
@@ -31211,8 +31530,19 @@ window.GUIDE = {
       ],
       "how": "Дроп марсианской тарелки.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Xenopopper",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "VortexBeater": {
       "id": "VortexBeater",
@@ -31223,8 +31553,19 @@ window.GUIDE = {
       ],
       "how": "Крафт из фрагментов вихря на Древнем манипуляторе, до Лунного лорда.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Vortex_Beater",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "Phantasm": {
       "id": "Phantasm",
@@ -31235,8 +31576,19 @@ window.GUIDE = {
       ],
       "how": "Крафт из фрагментов вихря на Древнем манипуляторе, до Лунного лорда.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Phantasm",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "DiamondStaff": {
       "id": "DiamondStaff",
@@ -31244,8 +31596,19 @@ window.GUIDE = {
       "requires": [],
       "how": "Скрафтить из платины и алмазов на наковальне. Если в мире золото, можно сделать рубиновый посох.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Diamond_Staff",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "Flamelash": {
       "id": "Flamelash",
@@ -31255,8 +31618,19 @@ window.GUIDE = {
       ],
       "how": "Найти в теневом сундуке Ада. Для него нужен теневой ключ; в изменённой Темнице этой сборки ключ находится в отдельном сундуке тюремной комнаты. Это другое условие, чем у древних сундуков Бездны.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Flamelash",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "CrystalSerpent": {
       "id": "CrystalSerpent",
@@ -31266,8 +31640,19 @@ window.GUIDE = {
       ],
       "how": "Выловить в Освящении в хардмоде.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Crystal_Serpent",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "MeteorStaff": {
       "id": "MeteorStaff",
@@ -31276,10 +31661,40 @@ window.GUIDE = {
         "wall",
         "destroyer"
       ],
-      "how": "Крафт из метеоритных слитков, пикси-пыли и эссенций света на хардмод-наковальне.",
+      "how": "Скрафтить из двадцати метеоритных слитков, десяти пикси-пыли и десяти эссенций света. Основная сборка переносит рецепт на обычную железную или свинцовую наковальню. Таблица сохраняет этот вариант после первого меха.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Meteor_Staff",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": {
+        "ingredients": [
+          [
+            "MeteoriteBar",
+            "20"
+          ],
+          [
+            "PixieDust",
+            "10"
+          ],
+          [
+            "SoulofLight",
+            "10"
+          ]
+        ],
+        "tile": "16",
+        "source": "CalamityMod/CalamityMod.Systems/RecipeSystem.cs",
+        "text": "Метеоритный слиток × 20; Пыльца пикси × 10; Эссенция света × 10",
+        "station": "железная или свинцовая наковальня"
+      },
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "VenomStaff": {
       "id": "VenomStaff",
@@ -31291,8 +31706,19 @@ window.GUIDE = {
       ],
       "how": "Улучшить Отравляющий посох четырнадцатью хлорофитовыми слитками на хардмодной наковальне. Исходный посох выбивается с чёрных отшельников в паучьих гнёздах хардмода; готовый Ядовитый посох с них не падает.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Venom_Staff",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "Razorpine": {
       "id": "Razorpine",
@@ -31303,8 +31729,19 @@ window.GUIDE = {
       ],
       "how": "Дроп злой ели во время Морозной луны.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Razorpine",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "NebulaBlaze": {
       "id": "NebulaBlaze",
@@ -31315,8 +31752,19 @@ window.GUIDE = {
       ],
       "how": "Крафт из фрагментов туманности на Древнем манипуляторе; люминит не требуется.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Nebula_Blaze",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "LastPrism": {
       "id": "LastPrism",
@@ -31326,8 +31774,19 @@ window.GUIDE = {
       ],
       "how": "Дроп Лунного лорда после первой победы.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Last_Prism",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "BlandWhip": {
       "id": "BlandWhip",
@@ -31335,8 +31794,19 @@ window.GUIDE = {
       "requires": [],
       "how": "Купить у Зоолога при заполнении 10% бестиария.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Leather_Whip",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "ThornWhip": {
       "id": "ThornWhip",
@@ -31344,8 +31814,19 @@ window.GUIDE = {
       "requires": [],
       "how": "Скрафтить из жал, лоз и спор джунглей на наковальне.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Snapthorn",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "HornetStaff": {
       "id": "HornetStaff",
@@ -31355,8 +31836,19 @@ window.GUIDE = {
       ],
       "how": "Крафт из пчелиного воска на наковальне.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Hornet_Staff",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "BoneWhip": {
       "id": "BoneWhip",
@@ -31366,8 +31858,19 @@ window.GUIDE = {
       ],
       "how": "Крафт из костей и паутины на верстаке.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Spinal_Tap",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "SpiderStaff": {
       "id": "SpiderStaff",
@@ -31377,8 +31880,19 @@ window.GUIDE = {
       ],
       "how": "Крафт из паучьих клыков, добытых с чёрных отшельников в хардмоде.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Spider_Staff",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "FireWhip": {
       "id": "FireWhip",
@@ -31388,8 +31902,19 @@ window.GUIDE = {
       ],
       "how": "Дроп Стены плоти после первой победы.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Firecracker",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "SwordWhip": {
       "id": "SwordWhip",
@@ -31401,8 +31926,19 @@ window.GUIDE = {
       ],
       "how": "Крафт из святых слитков на хардмод-наковальне.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Durendal",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "MaceWhip": {
       "id": "MaceWhip",
@@ -31412,8 +31948,19 @@ window.GUIDE = {
       ],
       "how": "Дроп врагов усиленной Темницы после Плантеры.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Morning_Star",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "XenoStaff": {
       "id": "XenoStaff",
@@ -31424,8 +31971,19 @@ window.GUIDE = {
       ],
       "how": "Дроп марсианской тарелки.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Xeno_Staff",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "ScytheWhip": {
       "id": "ScytheWhip",
@@ -31436,8 +31994,19 @@ window.GUIDE = {
       ],
       "how": "Выбить с Тыквенного короля в Тыквенную луну. Тёмная жатва — вариант хлыста до Императрицы света; ударом можно обновить его эффект, затем переключиться на другой хлыст.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Dark_Harvest",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "RainbowWhip": {
       "id": "RainbowWhip",
@@ -31448,8 +32017,19 @@ window.GUIDE = {
       ],
       "how": "Дроп Императрицы света; дневная победа для самого хлыста не нужна.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Kaleidoscope",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "StardustDragonStaff": {
       "id": "StardustDragonStaff",
@@ -31460,8 +32040,19 @@ window.GUIDE = {
       ],
       "how": "Крафт из фрагментов звёздной пыли на Древнем манипуляторе.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Stardust_Dragon_Staff",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "StardustCellStaff": {
       "id": "StardustCellStaff",
@@ -31472,8 +32063,19 @@ window.GUIDE = {
       ],
       "how": "Крафт из фрагментов звёздной пыли на Древнем манипуляторе.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Stardust_Cell_Staff",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "HermesBoots": {
       "id": "HermesBoots",
@@ -31481,8 +32083,19 @@ window.GUIDE = {
       "requires": [],
       "how": "Найти в подземном сундуке. Можно заменить аналогом с тем же ускорением.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Hermes_Boots",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "CloudinaBottle": {
       "id": "CloudinaBottle",
@@ -31490,8 +32103,19 @@ window.GUIDE = {
       "requires": [],
       "how": "Найти в подземном сундуке; даёт дополнительный прыжок.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Cloud_in_a_Bottle",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "BandofRegeneration": {
       "id": "BandofRegeneration",
@@ -31499,8 +32123,19 @@ window.GUIDE = {
       "requires": [],
       "how": "Найти в подземном сундуке; пассивная регенерация.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Band_of_Regeneration",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "SharkToothNecklace": {
       "id": "SharkToothNecklace",
@@ -31508,8 +32143,19 @@ window.GUIDE = {
       "requires": [],
       "how": "Фармить Кровавую луну; дроп кровавых зомби и капельниц.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Shark_Tooth_Necklace",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "FeralClaws": {
       "id": "FeralClaws",
@@ -31517,8 +32163,19 @@ window.GUIDE = {
       "requires": [],
       "how": "Найти в сундуках джунглей или выловить в ящиках джунглей.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Feral_Claws",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "NaturesGift": {
       "id": "NaturesGift",
@@ -31526,8 +32183,19 @@ window.GUIDE = {
       "requires": [],
       "how": "Срезать редкий синий цветок в подземных джунглях.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Nature%27s_Gift",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "EoCShield": {
       "id": "EoCShield",
@@ -31537,8 +32205,19 @@ window.GUIDE = {
       ],
       "how": "Дроп из мешка Глаза Ктулху. Не требуется для его первого убийства.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Shield_of_Cthulhu",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "LightningBoots": {
       "id": "LightningBoots",
@@ -31549,8 +32228,19 @@ window.GUIDE = {
       ],
       "how": "Собрать Спектральные ботинки, Аглет и Браслет ветра в мастерской инженера. Ракетные ботинки продаёт спасённый Гоблин-инженер.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Lightning_Boots",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "CharmofMyths": {
       "id": "CharmofMyths",
@@ -31560,8 +32250,19 @@ window.GUIDE = {
       ],
       "how": "Объединить Философский камень с хардмод-мимика и Браслет регенерации в мастерской инженера.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Charm_of_Myths",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "StarVeil": {
       "id": "StarVeil",
@@ -31571,8 +32272,19 @@ window.GUIDE = {
       ],
       "how": "Объединить Звёздный плащ и Ожерелье с крестом с хардмод-мимиков в мастерской инженера.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Star_Veil",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "WarriorEmblem": {
       "id": "WarriorEmblem",
@@ -31582,8 +32294,19 @@ window.GUIDE = {
       ],
       "how": "Дроп Стены плоти; классовая эмблема воина.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Warrior_Emblem",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "RangerEmblem": {
       "id": "RangerEmblem",
@@ -31593,8 +32316,19 @@ window.GUIDE = {
       ],
       "how": "Дроп Стены плоти; классовая эмблема стрелка.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Ranger_Emblem",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "SorcererEmblem": {
       "id": "SorcererEmblem",
@@ -31604,8 +32338,19 @@ window.GUIDE = {
       ],
       "how": "Дроп Стены плоти; классовая эмблема мага.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Sorcerer_Emblem",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "SummonerEmblem": {
       "id": "SummonerEmblem",
@@ -31615,8 +32360,19 @@ window.GUIDE = {
       ],
       "how": "Дроп Стены плоти; классовая эмблема призывателя.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Summoner_Emblem",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "ManaFlower": {
       "id": "ManaFlower",
@@ -31627,8 +32383,19 @@ window.GUIDE = {
       ],
       "how": "Скрафтить Дар природы и зелье маны в мастерской инженера. В этом маршруте используется после Армии гоблинов.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Mana_Flower",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "MagicQuiver": {
       "id": "MagicQuiver",
@@ -31638,21 +32405,107 @@ window.GUIDE = {
       ],
       "how": "Фармить скелетов-лучников в хардмодных пещерах. Для луков; для огнестрельного оружия этот слот можно отдать защите.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Magic_Quiver",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "FireGauntlet": {
       "id": "FireGauntlet",
       "name": "Огненная рукавица",
       "requires": [
+        "eye",
+        "goblins",
+        "destroyer",
+        "twins",
+        "prime",
+        "golem"
+      ],
+      "how": "Объединить Механическую перчатку, Магмовый камень и восемь магматитовых слитков в мастерской инженера. Слитки добавлены основной сборкой и требуют добычи магматита после Голема; до его первого убийства используй Механическую перчатку. Магмовый камень и магматитовые слитки — разные компоненты.",
+      "source": "Terraria 1.4.4; изменения сборки",
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": {
+        "ingredients": [
+          [
+            "MechanicalGlove",
+            "1"
+          ],
+          [
+            "MagmaStone",
+            "1"
+          ],
+          [
+            "ScoriaBar",
+            "8"
+          ]
+        ],
+        "tile": "114",
+        "source": "CalamityMod/CalamityMod.Systems/RecipeSystem.cs",
+        "text": "Механическая перчатка × 1; Магмовый камень × 1; Магматитовый слиток × 8",
+        "station": "мастерская инженера"
+      },
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
+    },
+    "MechanicalGlove": {
+      "id": "MechanicalGlove",
+      "name": "Механическая перчатка",
+      "requires": [
+        "eye",
+        "goblins",
+        "wall",
         "destroyer",
         "twins",
         "prime"
       ],
-      "how": "Объединить Механическую перчатку и Магматический камень в мастерской инженера; нужны эссенции всех трёх мехов для эмблемы мстителя.",
+      "how": "Объединить Перчатку силы и Эмблему мстителя в мастерской инженера. Для эмблемы нужны эссенции трёх механических боссов. До Голема это доступная замена Огненной рукавице.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Fire_Gauntlet",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": {
+        "ingredients": [
+          [
+            "PowerGlove",
+            "1"
+          ],
+          [
+            "AvengerEmblem",
+            "1"
+          ]
+        ],
+        "tile": "114",
+        "source": "CalamityMod/CalamityMod.Systems/RecipeSystem.cs",
+        "text": "Перчатка силы × 1; Эмблема мстителя × 1",
+        "station": "мастерская инженера"
+      },
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "AvengerEmblem": {
       "id": "AvengerEmblem",
@@ -31665,8 +32518,19 @@ window.GUIDE = {
       ],
       "how": "Скрафтить из классовой эмблемы и эссенций трёх механических боссов в мастерской инженера. Универсальный бонус урона; в комплекте перед Мутантом заменяет защитный аксессуар с отключёнными эффектами.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Avenger_Emblem",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "CelestialEmblem": {
       "id": "CelestialEmblem",
@@ -31678,8 +32542,19 @@ window.GUIDE = {
       ],
       "how": "Объединить Небесный магнит и эмблему мстителя в мастерской инженера. Эмблема мстителя требует эссенции всех трёх мехов.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Celestial_Emblem",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "PapyrusScarab": {
       "id": "PapyrusScarab",
@@ -31690,8 +32565,19 @@ window.GUIDE = {
       ],
       "how": "Объединить Некромантский свиток с Тыквенной луны и Жук-геркулес Знахаря в мастерской инженера.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Papyrus_Scarab",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "SniperScope": {
       "id": "SniperScope",
@@ -31705,8 +32591,19 @@ window.GUIDE = {
       ],
       "how": "Объединить прицел из усиленной Темницы и эмблему уничтожителя в мастерской инженера. Эмблема уничтожителя требует Глаз Голема; здесь используется только после Голема.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Sniper_Scope",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "FairyWings": {
       "id": "FairyWings",
@@ -31715,10 +32612,36 @@ window.GUIDE = {
         "wall",
         "destroyer"
       ],
-      "how": "Крафт из эссенций полёта с виверн и пикси-пыли на хардмод-наковальне. Здесь используются после первого меха.",
+      "how": "Скрафтить из двадцати эссенций полёта и ста пикси-пыли на обычной железной или свинцовой наковальне: основная сборка убирает требование хардмодной наковальни. В выбранном маршруте используются после первого меха.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Fairy_Wings",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": {
+        "ingredients": [
+          [
+            "SoulofFlight",
+            "20"
+          ],
+          [
+            "PixieDust",
+            "100"
+          ]
+        ],
+        "tile": "16",
+        "source": "CalamityMod/CalamityMod.Systems/RecipeSystem.cs",
+        "text": "Эссенция полёта × 20; Пыльца пикси × 100",
+        "station": "железная или свинцовая наковальня"
+      },
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "FishronWings": {
       "id": "FishronWings",
@@ -31728,8 +32651,19 @@ window.GUIDE = {
       ],
       "how": "Дроп Герцога Рыброна после первой победы.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Fishron_Wings",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "Murasama": {
       "id": "Murasama",
@@ -32136,8 +33070,19 @@ window.GUIDE = {
       "requires": [],
       "how": "Выбить книгу у демонов в Аду до боссов. Дальний пронзающий вариант; фарм опасен для стартового персонажа, поэтому алмазный посох остаётся более простым вариантом получения.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Demon_Scythe",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "RavenStaff": {
       "id": "RavenStaff",
@@ -32148,8 +33093,19 @@ window.GUIDE = {
       ],
       "how": "Выбить с Тыквенного короля в Тыквенную луну после Плантеры. Ворон — альтернатива основному миньону, а не дополнительный бесплатный призыв сверх лимита слотов.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://terraria.wiki.gg/wiki/Raven_Staff",
-      "recipe": null
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "Barinade": {
       "id": "Barinade",
@@ -33087,8 +34043,11 @@ window.GUIDE = {
       "id": "Terratomere",
       "name": "Терратомир",
       "requires": [
+        "skeletron",
+        "slime-god",
         "destroyer",
         "twins",
+        "prime",
         "plantera",
         "eclipse",
         "providence"
@@ -33310,10 +34269,13 @@ window.GUIDE = {
       "name": "Экзо-меч",
       "requires": [
         "evil",
+        "skeletron",
+        "slime-god",
         "wall",
         "destroyer",
         "twins",
         "cryogen",
+        "prime",
         "clone",
         "plantera",
         "eclipse",
@@ -35750,7 +36712,13 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/AngelTreads.cs",
         "text": "Ботинки Зефира × 1; Кольцо гарпии × 1; Эссенция солнечного света × 5; Эссенция ужаса × 1; Эссенция могущества × 1; Эссенция прозрения × 1",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLinks": [
+        {
+          "label": "Совместимость основной сборки и Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Souls_DLC"
+        }
+      ]
     },
     "AsgardsValor": {
       "id": "AsgardsValor",
@@ -36056,9 +37024,12 @@ window.GUIDE = {
       "id": "ElementalGauntlet",
       "name": "Элементальная рукавица",
       "requires": [
+        "eye",
+        "goblins",
         "destroyer",
         "twins",
         "prime",
+        "golem",
         "moonlord",
         "dog"
       ],
@@ -36455,7 +37426,13 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories.Wings/SeraphTracers.cs",
         "text": "Пустотные скороходы × 1; Ауритовый слиток × 5; Эссенция восходящего духа × 3",
         "station": "космическая наковальня"
-      }
+      },
+      "wikiLinks": [
+        {
+          "label": "Совместимость основной сборки и Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Souls_DLC"
+        }
+      ]
     },
     "StatisBlessing": {
       "id": "StatisBlessing",
@@ -36575,7 +37552,13 @@ window.GUIDE = {
         "source": "FargowiltasCrossmod/FargowiltasCrossmod.Content.Calamity.Items.Accessories.Enchantments/AerospecEnchant.cs",
         "text": "Аэрофазовый нагрудник × 1; Аэрофазовые поножи × 1; Турбулентность × 1; Небесная глазурь × 1; Ветер перемен × 1; любой аэрофазовый головной убор × 1",
         "station": "демонический или багряный алтарь"
-      }
+      },
+      "wikiLinks": [
+        {
+          "label": "Совместимость основной сборки и Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Souls_DLC"
+        }
+      ]
     },
     "StatigelEnchant": {
       "id": "StatigelEnchant",
@@ -36619,7 +37602,13 @@ window.GUIDE = {
         "source": "FargowiltasCrossmod/FargowiltasCrossmod.Content.Calamity.Items.Accessories.Enchantments/StatigelEnchant.cs",
         "text": "Статигелевый доспех × 1; Статигелевые поножи × 1; Клинок шиноби × 1; Перегруженный бластер × 1; Гелевый дротик × 1; любой статигелевый головной убор × 1",
         "station": "демонический или багряный алтарь"
-      }
+      },
+      "wikiLinks": [
+        {
+          "label": "Совместимость основной сборки и Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Souls_DLC"
+        }
+      ]
     },
     "DaedalusEnchant": {
       "id": "DaedalusEnchant",
@@ -36664,13 +37653,21 @@ window.GUIDE = {
         "source": "FargowiltasCrossmod/FargowiltasCrossmod.Content.Calamity.Items.Accessories.Enchantments/DaedalusEnchant.cs",
         "text": "Нагрудник Дедала × 1; Поножи Дедала × 1; Большой лук тёмного эха × 1; Душа Криогена × 1; Древняя ледяная глыба × 1; любой головной убор Дедала × 1",
         "station": "хрустальный шар"
-      }
+      },
+      "wikiLinks": [
+        {
+          "label": "Совместимость основной сборки и Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Souls_DLC"
+        }
+      ]
     },
     "BerserkerSoul": {
       "id": "BerserkerSoul",
       "name": "Душа берсерка",
       "requires": [
         "desert",
+        "eye",
+        "goblins",
         "evil",
         "skeletron",
         "wall",
@@ -36750,13 +37747,21 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Souls/BerserkerSoul.cs",
         "text": "Эссенция варвара × 1; Жалящее ожерелье × 1; Сумка для йо-йо × 1; Неземная ракушка × 1; Элементальная рукавица × 1; Знак храбрости × 1; Осквернённый двуручный меч × 1; Дар Нептуна × 1; Дьявольское опустошение × 1; Вершитель правосудия × 1; Драконий бах × 1; Мерзкая энергия × 10",
         "station": "Космическое горнило"
-      }
+      },
+      "wikiLinks": [
+        {
+          "label": "Совместимость основной сборки и Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Souls_DLC"
+        }
+      ]
     },
     "SnipersSoul": {
       "id": "SnipersSoul",
       "name": "Душа снайпера",
       "requires": [
         "desert",
+        "eye",
+        "goblins",
         "crabulon",
         "skeletron",
         "wall",
@@ -36830,7 +37835,13 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Souls/SnipersSoul.cs",
         "text": "Эссенция стрелка × 1; Разведывательный прицел × 1; Подсумок сокрушителя измерений × 1; Колчан небытия × 1; Морской дракон × 1; Жемчужный бог × 1; Звездопокалипсис × 1; Конец тирании × 1; Драталиорн × 1; Мерзкая энергия × 10",
         "station": "Космическое горнило"
-      }
+      },
+      "wikiLinks": [
+        {
+          "label": "Совместимость основной сборки и Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Souls_DLC"
+        }
+      ]
     },
     "ArchWizardsSoul": {
       "id": "ArchWizardsSoul",
@@ -36903,7 +37914,13 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Souls/ArchWizardsSoul.cs",
         "text": "Эссенция подмастерья × 1; Неземные наручники × 1; Эфирный талисман × 1; Шёпот эфира × 1; Тёмная искра × 1; Омикрон × 1; Горизонт событий × 1; Пустотный вихрь × 1; Мерзкая энергия × 10",
         "station": "Космическое горнило"
-      }
+      },
+      "wikiLinks": [
+        {
+          "label": "Совместимость основной сборки и Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Souls_DLC"
+        }
+      ]
     },
     "ConjuristsSoul": {
       "id": "ConjuristsSoul",
@@ -36991,7 +38008,13 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Souls/ConjuristsSoul.cs",
         "text": "Эссенция оккультиста × 1; Пояс монаха × 1; Щит оруженосца × 1; Баклер охотницы × 1; Шарф подмастерья × 1; Нуклеогенез × 1; Эфирный покоритель × 1; Мертвенная падаль × 1; Посох вороньего предвестника × 1; Одержимость саросом × 1; Воспламеняющий посох Ярона × 1; Мерзкая энергия × 10",
         "station": "Космическое горнило"
-      }
+      },
+      "wikiLinks": [
+        {
+          "label": "Совместимость основной сборки и Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Souls_DLC"
+        }
+      ]
     },
     "VagabondsSoul": {
       "id": "VagabondsSoul",
@@ -37064,7 +38087,13 @@ window.GUIDE = {
         "source": "FargowiltasCrossmod/FargowiltasCrossmod.Content.Calamity.Items.Accessories.Souls/VagabondsSoul.cs",
         "text": "Эссенция бандита × 1; Зеркало затмения × 1; Нанотехнология × 1; Прощание × 1; Божья паранойя × 1; Разрывающий измерения диск × 1; Гневокрыл × 1; Серафим × 1; Мерзкая энергия × 10",
         "station": "Космическое горнило"
-      }
+      },
+      "wikiLinks": [
+        {
+          "label": "Совместимость основной сборки и Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Souls_DLC"
+        }
+      ]
     },
     "platinum": {
       "id": "platinum",
@@ -37072,9 +38101,20 @@ window.GUIDE = {
       "requires": [],
       "how": "Крафт из платиновых слитков; в золотом мире допустим полный золотой комплект. Состав комплекта: Платиновый шлем, Платиновая кольчуга, Платиновые поножи.",
       "source": "Terraria — все части комплекта",
-      "url": "https://terraria.wiki.gg/wiki/Platinum_armor",
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
       "recipes": [],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "jungle": {
       "id": "jungle",
@@ -37082,9 +38122,20 @@ window.GUIDE = {
       "requires": [],
       "how": "Крафт из материалов подземных джунглей на наковальне. Состав комплекта: Шляпа джунглей, Рубашка джунглей, Штаны джунглей.",
       "source": "Terraria — все части комплекта",
-      "url": "https://terraria.wiki.gg/wiki/Jungle_armor",
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
       "recipes": [],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "wulfrum": {
       "id": "wulfrum",
@@ -37356,9 +38407,20 @@ window.GUIDE = {
       ],
       "how": "Добыть адскую руду, переплавить с обсидианом в адской печи, собрать комплект на наковальне. Состав комплекта: Раскалённый шлем, Раскалённый нагрудник, Раскалённые ботинки.",
       "source": "Terraria — все части комплекта",
-      "url": "https://terraria.wiki.gg/wiki/Molten_armor",
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
       "recipes": [],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "necro": {
       "id": "necro",
@@ -37368,9 +38430,20 @@ window.GUIDE = {
       ],
       "how": "Крафт из костей и паутины после доступа к Темнице. Состав комплекта: Некрошлем, Некронагрудник, Некропоножи.",
       "source": "Terraria — все части комплекта",
-      "url": "https://terraria.wiki.gg/wiki/Necro_armor",
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
       "recipes": [],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "spider": {
       "id": "spider",
@@ -37380,9 +38453,20 @@ window.GUIDE = {
       ],
       "how": "Крафт из клыков чёрных отшельников хардмода. Состав комплекта: Паучья маска, Паучий нагрудник, Паучьи поножи.",
       "source": "Terraria — все части комплекта",
-      "url": "https://terraria.wiki.gg/wiki/Spider_armor",
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
       "recipes": [],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "turtle": {
       "id": "turtle",
@@ -37394,9 +38478,20 @@ window.GUIDE = {
       ],
       "how": "Крафт из хлорофитовых слитков и панцирей гигантских черепах. Состав комплекта: Черепаший шлем, Черепашья чешуйчатая кольчуга, Черепашьи поножи.",
       "source": "Terraria — все части комплекта",
-      "url": "https://terraria.wiki.gg/wiki/Turtle_armor",
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
       "recipes": [],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "shroomite": {
       "id": "shroomite",
@@ -37409,9 +38504,20 @@ window.GUIDE = {
       ],
       "how": "Купить Автомолот у Трюфеля после Плантеры; сделать грибонит из хлорофита и грибов. Для основного лука поменять маску на грибонитовый головной убор. Состав комплекта: Грибнитовая маска, Грибнитовый нагрудник, Грибнитовые поножи.",
       "source": "Terraria — все части комплекта",
-      "url": "https://terraria.wiki.gg/wiki/Shroomite_armor",
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
       "recipes": [],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "spectre": {
       "id": "spectre",
@@ -37424,9 +38530,20 @@ window.GUIDE = {
       ],
       "how": "Крафт из спектральных слитков: хлорофит и эктоплазма из усиленной Темницы. Состав комплекта: Спектральная маска, Спектральное одеяние, Спектральные штаны.",
       "source": "Terraria — все части комплекта",
-      "url": "https://terraria.wiki.gg/wiki/Spectre_armor",
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
       "recipes": [],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "tiki": {
       "id": "tiki",
@@ -37436,9 +38553,20 @@ window.GUIDE = {
       ],
       "how": "Купить полный комплект у Знахаря после Плантеры. Состав комплекта: Маска тики, Рубашка тики, Штаны тики.",
       "source": "Terraria — все части комплекта",
-      "url": "https://terraria.wiki.gg/wiki/Tiki_armor",
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
       "recipes": [],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "spooky": {
       "id": "spooky",
@@ -37449,9 +38577,20 @@ window.GUIDE = {
       ],
       "how": "Скрафтить из жуткой древесины, нафармленной в Тыквенной луне. Состав комплекта: Жуткий шлем, Жуткий нагрудник, Жуткие поножи.",
       "source": "Terraria — все части комплекта",
-      "url": "https://terraria.wiki.gg/wiki/Spooky_armor",
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
       "recipes": [],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "beetle": {
       "id": "beetle",
@@ -37462,11 +38601,74 @@ window.GUIDE = {
         "prime",
         "golem"
       ],
-      "how": "Улучшить черепаший комплект шелухой жука с Голема. Состав комплекта: Жучий шлем, Жучий панцирь, Жучьи поножи.",
+      "how": "Мод Фарго заменяет черепашью броню в рецептах жучьей на хлорофитовую: маска, нагрудник и поножи плюс жучьи панцири с Голема. Крафт на мифриловой или орихалковой наковальне. Для воина здесь выбран вариант нагрудника с защитой.",
       "source": "Terraria — все части комплекта",
-      "url": "https://terraria.wiki.gg/wiki/Beetle_armor",
-      "recipes": [],
-      "recipe": null
+      "url": "https://fargosmods.wiki.gg/wiki/Vanilla_Changes",
+      "recipes": [
+        {
+          "part": "Жучий шлем",
+          "ingredients": [
+            [
+              "ChlorophyteMask",
+              "1"
+            ],
+            [
+              "BeetleHusk",
+              "4"
+            ]
+          ],
+          "tile": "134",
+          "source": "Fargowiltas/Fargowiltas.Common.Systems.Recipes/MiscRecipeSystem.cs",
+          "text": "Хлорофитовая маска × 1; Жучий хитин × 4",
+          "station": "мифриловая или орихалковая наковальня"
+        },
+        {
+          "part": "Жучий панцирь",
+          "ingredients": [
+            [
+              "ChlorophytePlateMail",
+              "1"
+            ],
+            [
+              "BeetleHusk",
+              "8"
+            ]
+          ],
+          "tile": "134",
+          "source": "Fargowiltas/Fargowiltas.Common.Systems.Recipes/MiscRecipeSystem.cs",
+          "text": "Хлорофитовые латы × 1; Жучий хитин × 8",
+          "station": "мифриловая или орихалковая наковальня"
+        },
+        {
+          "part": "Жучьи поножи",
+          "ingredients": [
+            [
+              "ChlorophyteGreaves",
+              "1"
+            ],
+            [
+              "BeetleHusk",
+              "6"
+            ]
+          ],
+          "tile": "134",
+          "source": "Fargowiltas/Fargowiltas.Common.Systems.Recipes/MiscRecipeSystem.cs",
+          "text": "Хлорофитовые поножи × 1; Жучий хитин × 6",
+          "station": "мифриловая или орихалковая наковальня"
+        }
+      ],
+      "recipe": null,
+      "wikiLabel": "Изменения ванильных предметов Фарго ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "palladium-melee": {
       "id": "palladium-melee",
@@ -37476,9 +38678,20 @@ window.GUIDE = {
       ],
       "how": "Добыть палладий в хардмоде, сделать слитки и полный классовый комплект. Состав комплекта: Палладиевая маска, Палладиевый нагрудник, Палладиевые поножи.",
       "source": "Terraria — все части комплекта",
-      "url": "https://terraria.wiki.gg/wiki/Palladium_armor",
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
       "recipes": [],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "palladium-ranged": {
       "id": "palladium-ranged",
@@ -37488,9 +38701,20 @@ window.GUIDE = {
       ],
       "how": "Добыть палладий в хардмоде, сделать слитки и полный классовый комплект. Состав комплекта: Палладиевый шлем, Палладиевый нагрудник, Палладиевые поножи.",
       "source": "Terraria — все части комплекта",
-      "url": "https://terraria.wiki.gg/wiki/Palladium_armor",
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
       "recipes": [],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "palladium-magic": {
       "id": "palladium-magic",
@@ -37500,9 +38724,20 @@ window.GUIDE = {
       ],
       "how": "Добыть палладий в хардмоде, сделать слитки и полный классовый комплект. Состав комплекта: Палладиевый головной убор, Палладиевый нагрудник, Палладиевые поножи.",
       "source": "Terraria — все части комплекта",
-      "url": "https://terraria.wiki.gg/wiki/Palladium_armor",
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
       "recipes": [],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "victide-melee": {
       "id": "victide-melee",
@@ -40775,9 +42010,20 @@ window.GUIDE = {
       ],
       "how": "Крафт из соответствующих лунных фрагментов и люминитовых слитков после Лунного лорда. Состав комплекта: Шлем солнечной вспышки, Нагрудник солнечной вспышки, Поножи солнечной вспышки.",
       "source": "Terraria — все части комплекта",
-      "url": "https://terraria.wiki.gg/wiki/Solar_Flare_armor",
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
       "recipes": [],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "vortex": {
       "id": "vortex",
@@ -40789,9 +42035,20 @@ window.GUIDE = {
       ],
       "how": "Крафт из соответствующих лунных фрагментов и люминитовых слитков после Лунного лорда. Состав комплекта: Вихревой шлем, Вихревой нагрудник, Вихревые ботинки.",
       "source": "Terraria — все части комплекта",
-      "url": "https://terraria.wiki.gg/wiki/Vortex_armor",
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
       "recipes": [],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "nebula": {
       "id": "nebula",
@@ -40803,9 +42060,20 @@ window.GUIDE = {
       ],
       "how": "Крафт из соответствующих лунных фрагментов и люминитовых слитков после Лунного лорда. Состав комплекта: Шлем туманности, Нагрудник туманности, Ботинки туманности.",
       "source": "Terraria — все части комплекта",
-      "url": "https://terraria.wiki.gg/wiki/Nebula_armor",
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
       "recipes": [],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "stardust": {
       "id": "stardust",
@@ -40817,9 +42085,20 @@ window.GUIDE = {
       ],
       "how": "Крафт из соответствующих лунных фрагментов и люминитовых слитков после Лунного лорда. Состав комплекта: Шлем звёздной пыли, Нагрудник звёздной пыли, Ботинки звёздной пыли.",
       "source": "Terraria — все части комплекта",
-      "url": "https://terraria.wiki.gg/wiki/Stardust_armor",
+      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes",
       "recipes": [],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Рецепты с изменениями основной сборки ↗",
+      "wikiLinks": [
+        {
+          "label": "Другие изменения ванильных предметов ↗",
+          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+        },
+        {
+          "label": "Дополнительные рецепты Фарго ↗",
+          "url": "https://fargosmods.wiki.gg/wiki/Added_Recipes"
+        }
+      ]
     },
     "demonshade": {
       "id": "demonshade",
@@ -41155,5 +42434,14 @@ window.GUIDE = {
     "mod_non_recipe_items_with_source_evidence": 47,
     "boss_bag_items_checked": 29,
     "additional_methods": 36
+  },
+  "vanillaRecipeAudit": {
+    "TrueExcalibur": "ChangeIngredientStack(1006, 12)",
+    "NightsEdge": "AddIngredient(ModContent.ItemType<PurifiedGel>(), 10)",
+    "TerraBlade": "AddIngredient(ModContent.ItemType<LivingShard>(), 12)",
+    "FireGauntlet": "AddIngredient(ModContent.ItemType<ScoriaBar>(), 8)",
+    "MeteorStaff": "ReplaceTile(134, 16)",
+    "FairyWings": "ReplaceTile(134, 16)",
+    "ReconScope": "Disabled vanilla recipe; replaced with SniperScope + PutridScent"
   }
 };

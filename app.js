@@ -77,7 +77,12 @@
       const names=item.requires.map(id=>bosses.find(b=>b.id===id)?.name || id);
       content.append(element('p',(item.otherWays?.length ? 'Для основного способа: ' : 'Сначала: ')+names.join(', ')+'.','item-prerequisites'));
     }
-    content.append(link('Страница предмета ↗',item.url));
+    content.append(link(item.wikiLabel || 'Страница предмета ↗',item.url));
+    if(item.wikiLinks?.length) {
+      const sources=element('div',undefined,'source-links');
+      item.wikiLinks.forEach(source=>sources.append(link(source.label,source.url)));
+      content.append(sources);
+    }
     detail.append(content);return detail;
   }
   function cell(label,keys) {
