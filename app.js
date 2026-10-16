@@ -96,13 +96,13 @@
     const advice={
       melee:'Воин: для урона — «Грозный» (+4% урона). «Везучий» (+4 процентных пункта шанса крита) — альтернатива для оружия, которое может критовать. «Жестокий» (+4% скорости ближнего боя) выбирай под конкретное оружие: скорость не одинаково полезна всем мечам и снарядам.',
       ranged:'Стрелок: для урона — «Грозный» (+4% урона). Можно смешивать с «Везучим» (+4 процентных пункта шанса крита), пока шанс крита ниже 100%. Точное соотношение зависит от оружия, брони и усилений.',
-      magic:'Маг: для урона — «Грозный» (+4% урона). Если не хватает маны, попробуй «Загадочный»: в вашей версии он даёт +20 маны, +2% магического урона и −2% расхода маны. «Везучий» (+4 процентных пункта шанса крита) — ещё одна альтернатива, если оружие критует и шанс ниже 100%.',
+      magic:'Маг: для урона — «Грозный» (+4% урона). Если не хватает маны, попробуй «Загадочный»: в Calamity 2.2.4 он даёт +20 маны, +2% магического урона и −2% расхода маны. «Везучий» (+4 процентных пункта шанса крита) — ещё одна альтернатива, если оружие критует и шанс ниже 100%.',
       rogue:'Разбойник: при непрерывных бросках — «Грозный» (+4% урона). Для игры через полную скрытность попробуй «Безмолвный» (+8% к скорости накопления скрытности). Сравни удобство восстановления скрытности между бросками; универсального лучшего соотношения этих перековок нет.',
       summon:'Призыватель: для урона миньонов — «Грозный» (+4% урона); для освоения боя — «Охранный». «Везучий» не бери по умолчанию: обычные миньоны не получают обычный крит как оружие других классов. Особые эффекты критов проверяй отдельно по их описанию; «Жестокий» не ускоряет атаки самих миньонов.'
     };
     content.append(element('p',advice[row.cls]));
     content.append(element('p','Выбор относится ко всем надетым боевым аксессуарам, включая крылья и экспертный слот, если предмет допускает перековку и бонус работает в этом слоте. У каждого аксессуара один модификатор. Броню у гоблина не перековывают. На старте сохрани деньги: хорошие промежуточные бонусы можно оставить до замены предмета.'));
-    content.append(element('p','Названия взяты из русификатора вашей сборки. В другом переводе «Охранный» может называться «Оберегающий», «Грозный» — «Угрожающий», «Везучий» — «Счастливый». Сверяй бонус в описании.'));
+    content.append(element('p','Названия взяты из русификатора сборки. В другом переводе «Охранный» может называться «Оберегающий», «Грозный» — «Угрожающий», «Везучий» — «Счастливый». Сверяй бонус в описании.'));
     detail.append(content);return detail;
   }
   function renderCard(row,index) {
@@ -126,7 +126,7 @@
     if(row.expertAccessories.length) body.children[2].append(cell('ДОПОЛНИТЕЛЬНЫЙ СЛОТ ЭКСПЕРТА',row.expertAccessories));
     if(pactItem) {
       pactSlot.classList.add('pact-slot');
-      pactSlot.append(element('p','Этот предмет перенесён из обычного слота. Освободившийся обычный слот оставлен для твоего дополнительного аксессуара; указанные замены по-прежнему заменяют подписанный предмет.','item-prerequisites'));
+      pactSlot.append(element('p','Этот предмет перенесён из обычного слота. Освободившийся обычный слот оставлен для дополнительного аксессуара на выбор; указанные замены по-прежнему заменяют подписанный предмет.','item-prerequisites'));
       body.children[2].append(pactSlot);
     } else if(row.pactItem) {
       const hint=element('button','Договор уже съеден? Отметь в памятке','text-button pact-hint');hint.type='button';
@@ -179,7 +179,7 @@
     const target=$('journeyChecklist');target.replaceChildren();
     const consumed=new Set(state.upgrades[state.profile]);const done=new Set(state.profiles[state.profile]);
     $('journeyTitle').textContent='Памятка: '+(state.profile==='solo'?'соло':'с друзьями');
-    $('journeyProgress').textContent=`Выполнено ${consumed.size} из ${upgradeIds.size} · отметки относятся к твоему персонажу`;
+    $('journeyProgress').textContent=`Выполнено ${consumed.size} из ${upgradeIds.size} · отметки персонажа`;
     journey.forEach((stage,index)=>{
       const section=element('section',undefined,'journey-stage');
       const complete=stage.tasks.every(task=>consumed.has(task.id));const available=stage.requires.every(id=>done.has(id));
@@ -192,12 +192,15 @@
         check.addEventListener('change',()=>{
           const checked=new Set(state.upgrades[state.profile]);check.checked?checked.add(task.id):checked.delete(task.id);state.upgrades[state.profile]=[...checked];save();render();
           // Update labels without rebuilding the focused checkbox or scrolling the dialog.
-          $('journeyProgress').textContent=`Выполнено ${checked.size} из ${upgradeIds.size} · отметки относятся к твоему персонажу`;
+          $('journeyProgress').textContent=`Выполнено ${checked.size} из ${upgradeIds.size} · отметки персонажа`;
           section.querySelector('.eyebrow').textContent=`${String(index+1).padStart(2,'0')} / ${stage.tasks.every(t=>checked.has(t.id))?'ВЫПОЛНЕНО':available?'МОЖНО ГОТОВИТЬСЯ':'ПОСЛЕ НУЖНЫХ ПОБЕД'}`;
         });
         label.append(check,element('span',task.title));block.append(label,element('p',task.text));
         if(task.conditional) block.append(element('p','Условно: дроп зависит от режима Мести / Смерти Calamity.','item-prerequisites'));
         if(task.recipe) block.append(element('p','Состав: '+task.recipe.text+'.','recipe-content'),element('p','Станция: '+task.recipe.station+'.','recipe-content'));
+        for(const choice of task.classItems || []) {
+          const option=element('div',undefined,'essence-choice');option.append(element('strong',choice.cls),itemDetails(choice.item));block.append(option);
+        }
         block.append(link('Вики '+(task.url.includes('fargosmods')?'Fargo':'Calamity')+' ↗',task.url));section.append(block);
       });target.append(section);
     });
