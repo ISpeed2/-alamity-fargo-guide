@@ -1,6 +1,6 @@
 'use strict';
 (() => {
-  const {rows, bosses, items, pack} = window.GUIDE;
+  const {rows, bosses, items, pack, journey} = window.GUIDE;
   const classes = [
     {id:'melee',name:'Воин',en:'ВОИН',icon:'⚔',note:'Дальний удар и выживаемость'},
     {id:'ranged',name:'Стрелок',en:'СТРЕЛОК',icon:'➶',note:'Оружие, патроны и пробитие'},
@@ -11,14 +11,17 @@
   const phaseNames = {pre:'До хардмода',hard:'Хардмод',post:'После Лунного лорда'};
   const $ = id => document.getElementById(id);
   const storageKey = 'calamity-fargo-guide-v1';
-  const state = {cls:'summon',phase:'pre',profile:'solo',profiles:{solo:[],friends:[]}};
+  const state = {cls:'summon',phase:'pre',profile:'solo',profiles:{solo:[],friends:[]},upgrades:{solo:[],friends:[]}};
   let storageAvailable = true;
   const bossIds = new Set(bosses.map(b => b.id));
+  const upgradeIds = new Set(journey.flatMap(s=>s.tasks.map(t=>t.id)));
+  const cleanUpgrades = list => Array.isArray(list) ? [...new Set(list.filter(id=>typeof id==='string' && upgradeIds.has(id)))] : [];
   const cleanList = list => Array.isArray(list) ? [...new Set(list.filter(id => typeof id==='string' && bossIds.has(id)))] : [];
   try {
     const saved = JSON.parse(localStorage.getItem(storageKey) || 'null');
     if (saved) {
       for (const key of ['solo','friends']) state.profiles[key] = cleanList(saved.profiles?.[key]);
+      for (const key of ['solo','friends']) state.upgrades[key] = cleanUpgrades(saved.upgrades?.[key]);
       if (classes.some(c=>c.id===saved.cls)) state.cls=saved.cls;
       if (phaseNames[saved.phase]) state.phase=saved.phase;
       if (['solo','friends'].includes(saved.profile)) state.profile=saved.profile;
@@ -112,13 +115,23 @@
     const statusText=killed?'Босс / событие пройдено':done?'Можно готовиться':'Нужны предыдущие победы';
     head.append(element('span',String(index+1).padStart(2,'0'),'stage-number'),title,element('span',statusText,'stage-status'+(done?' done':'')));
     const body=element('div',undefined,'loadout-body');
-    body.append(cell('01 / ОРУЖИЕ',row.weapons),cell(row.armor.length>1?'02 / БРОНЯ — ВЫБЕРИ ОДИН КОМПЛЕКТ':'02 / БРОНЯ',row.armor),cell('03 / АКСЕССУАРЫ',row.accessories.filter(k=>!row.expertAccessories.includes(k))));
+    const pactItem=state.upgrades[state.profile].includes('mutants-pact') ? row.pactItem : null;
+    body.append(cell('01 / ОРУЖИЕ',row.weapons),cell(row.armor.length>1?'02 / БРОНЯ — ВЫБЕРИ ОДИН КОМПЛЕКТ':'02 / БРОНЯ',row.armor),cell('03 / АКСЕССУАРЫ',row.accessories.filter(k=>!row.expertAccessories.includes(k) && k!==pactItem)));
+    const pactSlot=pactItem ? cell('СЛОТ ДОГОВОРА МУТАНТА',[pactItem]) : null;
     for(const choice of row.accessoryAlternatives || []) {
       const option=cell(choice.label || 'ДЛЯ ЛУКА — ВМЕСТО «'+items[choice.replace].name+'»',[choice.item]);
       if(choice.note) option.append(element('p',choice.note,'item-prerequisites'));
-      body.children[2].append(option);
+      (choice.replace===pactItem ? pactSlot : body.children[2]).append(option);
     }
     if(row.expertAccessories.length) body.children[2].append(cell('ДОПОЛНИТЕЛЬНЫЙ СЛОТ ЭКСПЕРТА',row.expertAccessories));
+    if(pactItem) {
+      pactSlot.classList.add('pact-slot');
+      pactSlot.append(element('p','Этот предмет перенесён из обычного слота. Освободившийся обычный слот оставлен для твоего дополнительного аксессуара; указанные замены по-прежнему заменяют подписанный предмет.','item-prerequisites'));
+      body.children[2].append(pactSlot);
+    } else if(row.pactItem) {
+      const hint=element('button','Договор уже съеден? Отметь в памятке','text-button pact-hint');hint.type='button';
+      hint.addEventListener('click',()=>{renderJourney();$('journeyDialog').showModal();$('task-mutants-pact').scrollIntoView?.({block:'center'});});body.children[2].append(hint);
+    }
     body.children[2].append(reforgeDetails(row));
     if(row.wings.length) body.children[1].append(cell('КРЫЛЬЯ / ОТДЕЛЬНЫЙ СЛОТ',row.wings));
     const foot=element('div',undefined,'loadout-note');foot.append(element('p',row.cells[3]));
@@ -162,16 +175,46 @@
       });target.append(grid);
     }
   }
+  function renderJourney() {
+    const target=$('journeyChecklist');target.replaceChildren();
+    const consumed=new Set(state.upgrades[state.profile]);const done=new Set(state.profiles[state.profile]);
+    $('journeyTitle').textContent='Памятка: '+(state.profile==='solo'?'соло':'с друзьями');
+    $('journeyProgress').textContent=`Выполнено ${consumed.size} из ${upgradeIds.size} · отметки относятся к твоему персонажу`;
+    journey.forEach((stage,index)=>{
+      const section=element('section',undefined,'journey-stage');
+      const complete=stage.tasks.every(task=>consumed.has(task.id));const available=stage.requires.every(id=>done.has(id));
+      section.append(element('div',`${String(index+1).padStart(2,'0')} / ${complete?'ВЫПОЛНЕНО':available?'МОЖНО ГОТОВИТЬСЯ':'ПОСЛЕ НУЖНЫХ ПОБЕД'}`,'eyebrow'),element('h3',stage.title));
+      if(stage.requires.length) section.append(element('p','Условие: '+stage.requires.map(id=>bosses.find(b=>b.id===id).name).join(' · '),'item-prerequisites'));
+      if(stage.note) section.append(element('p',stage.note,'dialog-note'));
+      stage.tasks.forEach(task=>{
+        const block=element('div',undefined,'journey-task');block.id='task-'+task.id;
+        const label=element('label',undefined,'journey-task-label');const check=element('input');check.type='checkbox';check.dataset.upgrade=task.id;check.checked=consumed.has(task.id);
+        check.addEventListener('change',()=>{
+          const checked=new Set(state.upgrades[state.profile]);check.checked?checked.add(task.id):checked.delete(task.id);state.upgrades[state.profile]=[...checked];save();render();
+          // Update labels without rebuilding the focused checkbox or scrolling the dialog.
+          $('journeyProgress').textContent=`Выполнено ${checked.size} из ${upgradeIds.size} · отметки относятся к твоему персонажу`;
+          section.querySelector('.eyebrow').textContent=`${String(index+1).padStart(2,'0')} / ${stage.tasks.every(t=>checked.has(t.id))?'ВЫПОЛНЕНО':available?'МОЖНО ГОТОВИТЬСЯ':'ПОСЛЕ НУЖНЫХ ПОБЕД'}`;
+        });
+        label.append(check,element('span',task.title));block.append(label,element('p',task.text));
+        if(task.conditional) block.append(element('p','Условно: дроп зависит от режима Мести / Смерти Calamity.','item-prerequisites'));
+        if(task.recipe) block.append(element('p','Состав: '+task.recipe.text+'.','recipe-content'),element('p','Станция: '+task.recipe.station+'.','recipe-content'));
+        block.append(link('Вики '+(task.url.includes('fargosmods')?'Fargo':'Calamity')+' ↗',task.url));section.append(block);
+      });target.append(section);
+    });
+  }
   $('phases').addEventListener('click',event=>{const button=event.target.closest('button[data-phase]');if(!button)return;state.phase=button.dataset.phase;$('search').value='';save();render();});
-  $('profile').addEventListener('change',()=>{state.profile=$('profile').value;save();render();renderChecklist();});
+  $('profile').addEventListener('change',()=>{state.profile=$('profile').value;save();render();renderChecklist();renderJourney();});
   $('search').addEventListener('input',render);
   $('reachedOnly').addEventListener('change',render);
   $('openChecklist').addEventListener('click',()=>{renderChecklist();$('checklistDialog').showModal();});
   $('closeChecklist').addEventListener('click',()=>$('checklistDialog').close());
+  $('openJourney').addEventListener('click',()=>{renderJourney();$('journeyDialog').showModal();});
+  $('closeJourney').addEventListener('click',()=>$('journeyDialog').close());
+  $('journeyDialog').addEventListener('click',e=>{if(e.target===$('journeyDialog')){const rect=e.target.getBoundingClientRect();if(e.clientX<rect.left||e.clientX>rect.right||e.clientY<rect.top||e.clientY>rect.bottom)e.target.close();}});
   $('checklistDialog').addEventListener('click',e=>{if(e.target===$('checklistDialog')){const rect=e.target.getBoundingClientRect();if(e.clientX<rect.left||e.clientX>rect.right||e.clientY<rect.top||e.clientY>rect.bottom)e.target.close();}});
-  $('resetProgress').addEventListener('click',()=>{if(window.confirm(`Сбросить отмеченные этапы профиля «${state.profile==='solo'?'Соло':'С друзьями'}»?`)){state.profiles[state.profile]=[];save();render();renderChecklist();$('storageMessage').textContent='Прогресс этого профиля сброшен.';}});
+  $('resetProgress').addEventListener('click',()=>{if(window.confirm(`Сбросить боссов и отметки памятки профиля «${state.profile==='solo'?'Соло':'С друзьями'}»?`)){state.profiles[state.profile]=[];state.upgrades[state.profile]=[];save();render();renderChecklist();renderJourney();$('storageMessage').textContent='Прогресс этого профиля сброшен.';}});
   $('exportProgress').addEventListener('click',()=>{
-    const blob=new Blob([JSON.stringify({version:1,profiles:state.profiles},null,2)],{type:'application/json'});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='calamity-fargo-progress.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);$('storageMessage').textContent='Файл содержит оба профиля. Его можно передать друзьям.';
+    const blob=new Blob([JSON.stringify({version:1,profiles:state.profiles,upgrades:state.upgrades},null,2)],{type:'application/json'});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='calamity-fargo-progress.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);$('storageMessage').textContent='Файл содержит боссов и памятку обоих профилей. Его можно передать друзьям.';
   });
   $('importProgress').addEventListener('change',async e=>{
     const file=e.target.files[0];if(!file)return;
@@ -179,8 +222,9 @@
       if(file.size>100000)throw Error('Файл слишком большой.');
       const data=JSON.parse(await file.text());
       if(data.version!==1||!data.profiles||!['solo','friends'].every(key=>Array.isArray(data.profiles[key])&&data.profiles[key].every(id=>bossIds.has(id))))throw Error('Это не файл прогресса этого гайда.');
+      if(data.upgrades!==undefined && (!data.upgrades || !['solo','friends'].every(key=>Array.isArray(data.upgrades[key])&&data.upgrades[key].every(id=>upgradeIds.has(id)))))throw Error('Некорректные отметки памятки.');
       if(!window.confirm('Заменить прогресс обоих профилей данными из файла?'))return;
-      for(const key of ['solo','friends'])state.profiles[key]=cleanList(data.profiles[key]);save();render();renderChecklist();$('storageMessage').textContent='Оба профиля загружены.';
+      for(const key of ['solo','friends']){state.profiles[key]=cleanList(data.profiles[key]);if(data.upgrades)state.upgrades[key]=cleanUpgrades(data.upgrades[key]);}save();render();renderChecklist();renderJourney();$('storageMessage').textContent=data.upgrades?'Оба профиля и памятки загружены.':'Боссы загружены. Старый файл не содержит памятку: её отметки сохранены.';
     }catch(error){$('storageMessage').textContent='Не удалось загрузить прогресс: '+error.message;}
     finally{e.target.value='';}
   });

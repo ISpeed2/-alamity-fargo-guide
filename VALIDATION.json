@@ -40,5 +40,9 @@
   "class_essences_before_boss_checked": true,
   "spectre_revive_conditions_checked": true,
   "beetle_armor_conflict_excluded": true,
-  "hallowed_healing_tradeoff_explicit": true
+  "hallowed_healing_tradeoff_explicit": true,
+  "journey_sections": 18,
+  "journey_tasks": 30,
+  "pact_slot_only_after_cultist": true,
+  "permanent_booster_recipes_checked": true
 }
