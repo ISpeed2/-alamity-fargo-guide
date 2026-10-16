@@ -114,7 +114,9 @@
     const body=element('div',undefined,'loadout-body');
     body.append(cell('01 / ОРУЖИЕ',row.weapons),cell(row.armor.length>1?'02 / БРОНЯ — ВЫБЕРИ ОДИН КОМПЛЕКТ':'02 / БРОНЯ',row.armor),cell('03 / АКСЕССУАРЫ',row.accessories.filter(k=>!row.expertAccessories.includes(k))));
     for(const choice of row.accessoryAlternatives || []) {
-      body.children[2].append(cell('ДЛЯ ЛУКА — ВМЕСТО «'+items[choice.replace].name+'»',[choice.item]));
+      const option=cell(choice.label || 'ДЛЯ ЛУКА — ВМЕСТО «'+items[choice.replace].name+'»',[choice.item]);
+      if(choice.note) option.append(element('p',choice.note,'item-prerequisites'));
+      body.children[2].append(option);
     }
     if(row.expertAccessories.length) body.children[2].append(cell('ДОПОЛНИТЕЛЬНЫЙ СЛОТ ЭКСПЕРТА',row.expertAccessories));
     body.children[2].append(reforgeDetails(row));
