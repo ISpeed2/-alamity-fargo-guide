@@ -166,7 +166,7 @@
       hint.addEventListener('click',()=>{renderJourney();$('journeyDialog').showModal();$('task-mutants-pact').scrollIntoView?.({block:'center'});});body.children[2].append(hint);
     }
     body.children[2].append(reforgeDetails(row));
-    if(row.wings.length) body.children[1].append(cell('КРЫЛЬЯ / ОТДЕЛЬНЫЙ СЛОТ',row.wings));
+    if(row.wings.length) body.children[1].append(cell(row.wings.some(k=>['MoonWalkers','VoidStriders','SeraphTracers'].includes(k))?'БЕГ И ПОЛЁТ / ОТДЕЛЬНЫЙ СЛОТ КРЫЛЬЕВ':'КРЫЛЬЯ / ОТДЕЛЬНЫЙ СЛОТ',row.wings));
     const foot=element('div',undefined,'loadout-note');foot.append(element('p',row.cells[3]));
     const missing=row.requires.filter(id=>!state.profiles[state.profile].includes(id));
     if(missing.length) {
@@ -175,7 +175,13 @@
       req.append(element('p',missing.map(id=>bosses.find(b=>b.id===id)?.name || id).join(' · ')));
       foot.append(req);
     }
-    card.append(head,body,foot);return card;
+    card.append(head,body);
+    for(const choice of row.kitAlternatives || []) {
+      const kit=element('details',undefined,'kit-alternative');kit.append(element('summary','Другой комплект: жучья броня + орихалковое усиление'));
+      kit.append(element('p',choice.note,'item-prerequisites'));
+      const pair=element('div',undefined,'kit-alternative-body');pair.append(cell('ЗАМЕНА БРОНИ',choice.armor),cell('ВМЕСТО «'+items[choice.replace].name+'»',[choice.item]));kit.append(pair);card.append(kit);
+    }
+    card.append(foot);return card;
   }
   function render() {
     renderClasses();updateProgress();
@@ -210,11 +216,13 @@
   }
   function renderJourney() {
     const target=$('journeyChecklist');target.replaceChildren();
+    const jump=$('journeyJump');jump.replaceChildren(element('option','Перейти к этапу…'));jump.options[0].value='';
     const consumed=new Set(state.upgrades[state.profile]);const done=new Set(state.profiles[state.profile]);
     $('journeyTitle').textContent='Памятка: '+(state.profile==='solo'?'соло':'с друзьями');
     $('journeyProgress').textContent=`Выполнено ${consumed.size} из ${upgradeIds.size} · отметки персонажа`;
     journey.forEach((stage,index)=>{
-      const section=element('section',undefined,'journey-stage');
+      const section=element('section',undefined,'journey-stage');section.id='journey-stage-'+stage.id;
+      const option=element('option',stage.title);option.value=section.id;jump.append(option);
       const complete=stage.tasks.every(task=>consumed.has(task.id));const available=stage.requires.every(id=>done.has(id));
       section.append(element('div',`${String(index+1).padStart(2,'0')} / ${complete?'ВЫПОЛНЕНО':available?'МОЖНО ГОТОВИТЬСЯ':'ПОСЛЕ НУЖНЫХ ПОБЕД'}`,'eyebrow'),element('h3',stage.title));
       if(stage.requires.length) section.append(element('p','Условие: '+stage.requires.map(id=>bosses.find(b=>b.id===id).name).join(' · '),'item-prerequisites'));
@@ -231,6 +239,7 @@
         label.append(check,element('span',task.title));block.append(label,element('p',task.text));
         if(task.conditional) block.append(element('p','Условно: дроп зависит от режима Мести / Смерти Calamity.','item-prerequisites'));
         if(task.recipe) block.append(element('p','Состав: '+task.recipe.text+'.','recipe-content'),element('p','Станция: '+task.recipe.station+'.','recipe-content'));
+        for(const key of task.equipmentItems || []) block.append(itemDetails(key));
         if(task.reforges) {
           block.append(reforgeRules());
           for(const cls of classes) block.append(classReforge(cls.id));
@@ -246,6 +255,12 @@
   $('profile').addEventListener('change',()=>{state.profile=$('profile').value;save();render();renderChecklist();renderJourney();});
   $('search').addEventListener('input',render);
   $('reachedOnly').addEventListener('change',render);
+  const scrollBehavior=()=>window.matchMedia?.('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
+  const updateBackToTop=()=>{$('backToStages').hidden=window.scrollY<480;};
+  window.addEventListener('scroll',updateBackToTop,{passive:true});updateBackToTop();
+  $('backToStages').addEventListener('click',()=>{$('guideControls').scrollIntoView({behavior:scrollBehavior(),block:'start'});document.querySelector('[data-phase][aria-pressed="true"]').focus({preventScroll:true});});
+  $('journeyBackToTop').addEventListener('click',()=>{$('journeyDialog').scrollTo({top:0,behavior:scrollBehavior()});$('journeyJump').value='';});
+  $('journeyJump').addEventListener('change',()=>{const section=$( $('journeyJump').value );if(section)section.scrollIntoView({behavior:scrollBehavior(),block:'start'});});
   $('openChecklist').addEventListener('click',()=>{renderChecklist();$('checklistDialog').showModal();});
   $('closeChecklist').addEventListener('click',()=>$('checklistDialog').close());
   $('openJourney').addEventListener('click',()=>{renderJourney();$('journeyDialog').showModal();});
