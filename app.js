@@ -149,7 +149,9 @@
     head.append(element('span',String(index+1).padStart(2,'0'),'stage-number'),title,element('span',statusText,'stage-status'+(done?' done':'')));
     const body=element('div',undefined,'loadout-body');
     const pactItem=state.upgrades[state.profile].includes('mutants-pact') ? row.pactItem : null;
-    body.append(cell('01 / ОРУЖИЕ',row.weapons),cell(row.armor.length>1?'02 / БРОНЯ — ВЫБЕРИ ОДИН КОМПЛЕКТ':'02 / БРОНЯ',row.armor),cell('03 / АКСЕССУАРЫ',row.accessories.filter(k=>!row.expertAccessories.includes(k) && k!==pactItem)));
+    const ordinary=row.accessories.filter(k=>!row.expertAccessories.includes(k) && k!==pactItem);
+    if(pactItem && row.pactBonus)ordinary.push(row.pactBonus);
+    body.append(cell('01 / ОРУЖИЕ',row.weapons),cell(row.armor.length>1?'02 / БРОНЯ — ВЫБЕРИ ОДИН КОМПЛЕКТ':'02 / БРОНЯ',row.armor),cell(`03 / ОБЫЧНЫЕ АКСЕССУАРЫ · ${ordinary.length}/${row.normalAccessorySlots}`,ordinary));
     const pactSlot=pactItem ? cell('СЛОТ ДОГОВОРА МУТАНТА',[pactItem]) : null;
     for(const choice of row.accessoryAlternatives || []) {
       const option=cell(choice.label || 'ДЛЯ ЛУКА — ВМЕСТО «'+items[choice.replace].name+'»',[choice.item]);
@@ -159,7 +161,7 @@
     if(row.expertAccessories.length) body.children[2].append(cell('ДОПОЛНИТЕЛЬНЫЙ СЛОТ ЭКСПЕРТА',row.expertAccessories));
     if(pactItem) {
       pactSlot.classList.add('pact-slot');
-      pactSlot.append(element('p','Этот предмет перенесён из обычного слота. Освободившийся обычный слот оставлен для дополнительного аксессуара на выбор; указанные замены по-прежнему заменяют подписанный предмет.','item-prerequisites'));
+      pactSlot.append(element('p','Этот предмет перенесён из обычного слота. Вместо него в обычный слот добавлен аксессуар «'+items[row.pactBonus].name+'». Указанные замены по-прежнему заменяют подписанный предмет.','item-prerequisites'));
       body.children[2].append(pactSlot);
     } else if(row.pactItem) {
       const hint=element('button','Договор уже съеден? Отметь в памятке','text-button pact-hint');hint.type='button';
