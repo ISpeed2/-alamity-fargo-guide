@@ -1,6 +1,6 @@
 'use strict';
 (() => {
-  const {rows, bosses, items, pack, journey} = window.GUIDE;
+  const {rows:soloRows, friendRows, bosses, items, pack, journey} = window.GUIDE;
   const classes = [
     {id:'melee',name:'Воин',en:'ВОИН',icon:'⚔',note:'Дальний удар и выживаемость'},
     {id:'ranged',name:'Стрелок',en:'СТРЕЛОК',icon:'➶',note:'Оружие, патроны и пробитие'},
@@ -117,6 +117,7 @@
   function classReforge(cls) {
     const section=element('div',undefined,'reforge-class');const advice=reforgeAdvice[cls];
     section.append(element('h4',classes.find(c=>c.id===cls).name));
+    if(state.profile==='friends') section.append(element('p',cls==='melee'?'Командная роль защитника: базовая перековка аксессуаров — «Охранный». Урон добавлять после уверенного выживания под повышенной агрессией.':'Командная роль урона: базовая перековка — «Грозный»; магу при нехватке маны подойдёт «Загадочный», разбойнику для скрытных ударов — «Безмолвный». При частых смертях вернуть часть «Охранных».','team-advice'));
     section.append(element('p','Аксессуары — защита: «Охранный» (+4 защиты) на каждом боевом предмете. Подходит всем классам, когда главная задача — пережить бой.'));
     section.append(element('p','Аксессуары — урон: '+advice.damage),element('p',advice.alternative));
     section.append(element('strong','Перековка оружия'),element('p',advice.weapon));return section;
@@ -124,7 +125,7 @@
   function reforgeRules() {
     const content=element('div',undefined,'reforge-rules');
     content.append(element('p','Каждый надетый боевой аксессуар перековывается отдельно: ботинки, эмблемы, щиты, усиления и крылья, если предмет допускает перековку и его бонус работает в этом слоте. У предмета может быть только один модификатор; броня у гоблина не перековывается.'));
-    content.append(element('p','Для освоения Мастера + Мазохиста можно начать с «Охранного» на всех аксессуарах, затем перевести два предмета на классовый вариант для урона. Если выживаемости хватает, увеличивать долю урона; при частых смертях вернуть защиту. Это отправная точка, а не универсально лучший набор.'));
+    content.append(element('p',state.profile==='friends'?'В команде защитник начинает с «Охранных», остальные — с классовых перековок на урон с запасом защиты по необходимости. Повышенная агрессия не отменяет общие атаки и смену цели: любой игрок должен переживать отдельные попадания.':'Для освоения Мастера + Мазохиста можно начать с «Охранного» на всех аксессуарах, затем перевести два предмета на классовый вариант для урона. Если выживаемости хватает, увеличивать долю урона; при частых смертях вернуть защиту. Это отправная точка, а не универсально лучший набор.'));
     content.append(element('p','Не обязательно сразу тратить все монеты на идеальную перековку промежуточной вещи. Модификатор оружия выбирается из тех, которые поддерживает конкретный предмет. Специальные модификаторы через купоны Каламити не считаются обычным случайным результатом гоблина.'));
     return content;
   }
@@ -152,6 +153,10 @@
     const ordinary=row.accessories.filter(k=>!row.expertAccessories.includes(k) && k!==pactItem);
     if(pactItem && row.pactBonus)ordinary.push(row.pactBonus);
     body.append(cell('01 / ОРУЖИЕ',row.weapons),cell(row.armor.length>1?'02 / БРОНЯ — ВЫБЕРИ ОДИН КОМПЛЕКТ':'02 / БРОНЯ',row.armor),cell(`03 / ОБЫЧНЫЕ АКСЕССУАРЫ · ${ordinary.length}/${row.normalAccessorySlots}`,ordinary));
+    if(row.supportWeapons?.length) {
+      const support=cell('ДОПОЛНИТЕЛЬНО / ПОДДЕРЖКА КОМАНДЫ',row.supportWeapons);
+      support.append(element('p',row.supportNote,'item-prerequisites'));body.children[0].append(support);
+    }
     const pactSlot=pactItem ? cell('СЛОТ ДОГОВОРА МУТАНТА',[pactItem]) : null;
     for(const choice of row.accessoryAlternatives || []) {
       const option=cell(choice.label || 'ДЛЯ ЛУКА — ВМЕСТО «'+items[choice.replace].name+'»',[choice.item]);
@@ -170,6 +175,10 @@
     body.children[2].append(reforgeDetails(row));
     if(row.wings.length) body.children[1].append(cell(row.wings.some(k=>['MoonWalkers','VoidStriders','SeraphTracers'].includes(k))?'БЕГ И ПОЛЁТ / ОТДЕЛЬНЫЙ СЛОТ КРЫЛЬЕВ':'КРЫЛЬЯ / ОТДЕЛЬНЫЙ СЛОТ',row.wings));
     const foot=element('div',undefined,'loadout-note');foot.append(element('p',row.cells[3]));
+    if(row.teamRole) {
+      foot.prepend(element('strong','С ДРУЗЬЯМИ / '+row.teamRole),element('p',row.teamNote,'team-advice'));
+      for(const change of row.teamChanges || []) foot.append(element('p',change,'team-advice'));
+    }
     const missing=row.requires.filter(id=>!state.profiles[state.profile].includes(id));
     if(missing.length) {
       const req=element('details',undefined,'route-requirements');
@@ -179,7 +188,7 @@
     }
     card.append(head,body);
     for(const choice of row.kitAlternatives || []) {
-      const kit=element('details',undefined,'kit-alternative');kit.append(element('summary','Другой комплект: жучья броня + орихалковое усиление'));
+      const kit=element('details',undefined,'kit-alternative');kit.append(element('summary',choice.label || 'Другой комплект: жучья броня + орихалковое усиление'));
       kit.append(element('p',choice.note,'item-prerequisites'));
       const pair=element('div',undefined,'kit-alternative-body');pair.append(cell('ЗАМЕНА БРОНИ',choice.armor),cell('ВМЕСТО «'+items[choice.replace].name+'»',[choice.item]));kit.append(pair);card.append(kit);
     }
@@ -187,16 +196,17 @@
   }
   function render() {
     renderClasses();updateProgress();
+    const rows=state.profile==='friends'?friendRows:soloRows;
     const c=classes.find(c=>c.id===state.cls);
     $('classTitle').textContent=c.name;
     $('classKicker').textContent=`КЛАСС ${String(classes.indexOf(c)+1).padStart(2,'0')} / ${c.en}`;
-    $('classNote').textContent=c.note;
+    $('classNote').textContent=state.profile==='friends'?'С друзьями: '+rows.find(r=>r.cls===c.id).teamRole+'. Воин берёт повышенную агрессию; союзники сохраняют мобильность и усиливают урон. Если защитника нет, ориентируйтесь на соло-комплекты.':c.note+' · Соло: самостоятельная выживаемость и урон.';
     $('legacyNotice').hidden=true;
     $('profile').value=state.profile;
     document.querySelectorAll('[data-phase]').forEach(el=>el.setAttribute('aria-pressed',String(el.dataset.phase===state.phase)));
     const query=$('search').value.trim().toLocaleLowerCase('ru');
     const exactStage=query && rows.some(row=>row.cls===state.cls && row.stage.toLocaleLowerCase('ru')===query);
-    const selected=rows.filter(row=>row.cls===state.cls && (query || row.phase===state.phase) && (!query || (exactStage ? row.stage.toLocaleLowerCase('ru')===query : [row.stage,...row.cells,...row.notes,...[...row.weapons,...row.armor,...row.accessories,...row.wings,...(row.accessoryAlternatives || []).map(a=>a.item)].map(k=>items[k].how)].join(' ').toLocaleLowerCase('ru').includes(query))) && (!$('reachedOnly').checked || reached(row)));
+    const selected=rows.filter(row=>row.cls===state.cls && (query || row.phase===state.phase) && (!query || (exactStage ? row.stage.toLocaleLowerCase('ru')===query : [row.stage,...row.cells,...row.notes,...[...row.weapons,...row.armor,...row.accessories,...row.wings,...(row.supportWeapons || []),...(row.accessoryAlternatives || []).map(a=>a.item)].map(k=>items[k].how)].join(' ').toLocaleLowerCase('ru').includes(query))) && (!$('reachedOnly').checked || reached(row)));
     const target=$('loadouts');target.replaceChildren();
     selected.forEach((row,index)=>target.append(renderCard(row,index)));
     if(!selected.length) {
