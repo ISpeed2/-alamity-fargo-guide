@@ -114,6 +114,7 @@
       weapon:'Посохи миньонов и турелей — «Безжалостный» для урона, если доступен. «Мифический» — альтернатива с меньшим расходом маны при призыве; его скорость использования не ускоряет атаки уже призванных миньонов. Хлысты перековываются отдельно — обычно на «Легендарный», если он доступен. Для исключений сверяться со страницей конкретного оружия.'
     }
   };
+  const weaponReforgeShort={melee:'«Легендарный»; для исключений — «Божественный» / «Демонический»',ranged:'«Нереальный»; для исключений — «Божественный» / «Демонический»',magic:'«Мифический»; для исключений — «Божественный» / «Демонический»',rogue:'«Безупречный»',summon:'посохи — «Безжалостный», хлысты — «Легендарный»'};
   function classReforge(cls) {
     const section=element('div',undefined,'reforge-class');const advice=reforgeAdvice[cls];
     section.append(element('h4',classes.find(c=>c.id===cls).name));
@@ -153,6 +154,7 @@
     const ordinary=row.accessories.filter(k=>!row.expertAccessories.includes(k) && k!==pactItem);
     if(pactItem && row.pactBonus)ordinary.push(row.pactBonus);
     body.append(cell('01 / ОРУЖИЕ',row.weapons),cell(row.armor.length>1?'02 / БРОНЯ — ВЫБЕРИ ОДИН КОМПЛЕКТ':'02 / БРОНЯ',row.armor),cell(`03 / ОБЫЧНЫЕ АКСЕССУАРЫ · ${ordinary.length}/${row.normalAccessorySlots}`,ordinary));
+    body.children[0].append(element('p','Перековка оружия: '+weaponReforgeShort[row.cls]+'. Только если предмет допускает модификатор; подробности — в пункте о гоблине. Выбор оружейного модификатора общий для соло и команды.','item-prerequisites weapon-reforge'));
     if(row.supportWeapons?.length) {
       const support=cell('ДОПОЛНИТЕЛЬНО / ПОДДЕРЖКА КОМАНДЫ',row.supportWeapons);
       support.append(element('p',row.supportNote,'item-prerequisites'));body.children[0].append(support);
@@ -206,7 +208,7 @@
     document.querySelectorAll('[data-phase]').forEach(el=>el.setAttribute('aria-pressed',String(el.dataset.phase===state.phase)));
     const query=$('search').value.trim().toLocaleLowerCase('ru');
     const exactStage=query && rows.some(row=>row.cls===state.cls && row.stage.toLocaleLowerCase('ru')===query);
-    const selected=rows.filter(row=>row.cls===state.cls && (query || row.phase===state.phase) && (!query || (exactStage ? row.stage.toLocaleLowerCase('ru')===query : [row.stage,...row.cells,...row.notes,...[...row.weapons,...row.armor,...row.accessories,...row.wings,...(row.supportWeapons || []),...(row.accessoryAlternatives || []).map(a=>a.item)].map(k=>items[k].how)].join(' ').toLocaleLowerCase('ru').includes(query))) && (!$('reachedOnly').checked || reached(row)));
+    const selected=rows.filter(row=>row.cls===state.cls && (query || row.phase===state.phase) && (!query || (exactStage ? row.stage.toLocaleLowerCase('ru')===query : [row.stage,...row.cells,...row.notes,...[...row.weapons,...row.armor,...row.accessories,...row.wings,...(row.supportWeapons || []),...(row.accessoryAlternatives || []).map(a=>a.item)].map(k=>items[k].name+' '+items[k].how)].join(' ').toLocaleLowerCase('ru').includes(query))) && (!$('reachedOnly').checked || reached(row)));
     const target=$('loadouts');target.replaceChildren();
     selected.forEach((row,index)=>target.append(renderCard(row,index)));
     if(!selected.length) {
