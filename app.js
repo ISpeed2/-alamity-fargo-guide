@@ -141,7 +141,48 @@
     content.append(link('Модификаторы Каламити ↗','https://calamitymod.wiki.gg/wiki/Modifiers'));
     detail.append(content);return detail;
   }
-  function renderCard(row,index) {
+  function wornGear(row) {
+    const pact=state.upgrades[state.profile].includes('mutants-pact')?row.pactItem:null;
+    const normal=row.accessories.filter(k=>!row.expertAccessories.includes(k) && k!==pact);
+    if(pact && row.pactBonus)normal.push(row.pactBonus);
+    return {weapons:row.weapons,armor:row.armor,accessories:normal,wings:row.wings,expert:row.expertAccessories,pact:pact?[pact]:[],support:row.supportWeapons || []};
+  }
+  function nextStep(row,next) {
+    if(!next)return null;
+    const before=wornGear(row),after=wornGear(next);
+    const labels={weapons:'Оружие — варианты',armor:'Броня',accessories:'Обычные аксессуары',wings:'Отдельный слот крыльев',expert:'Слот эксперта',pact:'Слот Договора',support:'Поддержка команды'};
+    const changes=Object.keys(labels).map(key=>({key,add:after[key].filter(k=>!before[key].includes(k)),remove:before[key].filter(k=>!after[key].includes(k))})).filter(change=>change.add.length || change.remove.length);
+    const detail=element('details',undefined,'next-step');
+    detail.append(element('summary',(row.target==='start'?'Следующий этап: ':'После победы · следующий этап: ')+next.stage));
+    const content=element('div',undefined,'next-step-content');
+    content.append(element('p',row.target==='start'?'Изменения относительно стартового комплекта.':'Сначала пройти «'+row.stage+'». Ниже — изменения для следующего этапа, а не снаряжение для первого боя с текущим боссом.','item-prerequisites'));
+    if(!changes.length)content.append(element('p','Основной комплект сохраняется. Перед следующим боем подготовить арену и расходники.'));
+    for(const change of changes) {
+      const block=element('div',undefined,'gear-change');block.append(element('strong',labels[change.key]));
+      if(change.add.length)block.append(element('p','Добавить / выбрать: '+change.add.map(k=>items[k].name).join('; '),'gear-added'));
+      if(change.remove.length)block.append(element('p','Убрать из основного набора: '+change.remove.map(k=>items[k].name).join('; '),'gear-removed'));
+      content.append(block);
+    }
+    content.append(element('p','Оружие перечислено как варианты. Полные рецепты и получение — в следующем комплекте. Перенос между слотами учитывает отметку Договора в текущем режиме.','item-prerequisites'));
+    const button=element('button','Открыть комплект: '+next.stage,'secondary next-stage-button');button.type='button';
+    button.addEventListener('click',()=>{
+      state.phase=next.phase;$('search').value=next.stage;$('reachedOnly').checked=false;save();render();
+      const card=$(next.id);card.tabIndex=-1;card.focus({preventScroll:true});card.scrollIntoView?.({behavior:scrollBehavior(),block:'start'});
+    });content.append(button);detail.append(content);return detail;
+  }
+  function lootFallbacks(row) {
+    if(!row.lootFallbacks?.length)return null;
+    const detail=element('details',undefined,'loot-fallbacks');detail.append(element('summary','Если не выпало или не нашлось ('+row.lootFallbacks.length+')'));
+    const content=element('div',undefined,'fallback-content');
+    content.append(element('p','Необязательные замены для этого этапа. Выбирается один вариант; дополнительные слоты они не занимают. Запасной вариант может потребовать свой фарм и не обещает равного урона.','item-prerequisites'));
+    for(const choice of row.lootFallbacks) {
+      const block=element('section',undefined,'loot-fallback');
+      block.append(element('h4',choice.reason),element('p','Вместо «'+items[choice.replace].name+'» → «'+items[choice.item].name+'»','fallback-pair'),element('p',choice.tradeoff));
+      block.append(itemDetails(choice.item));content.append(block);
+    }
+    detail.append(content);return detail;
+  }
+  function renderCard(row,index,next) {
     const card=element('article',undefined,'loadout');card.id=row.id;
     const head=element('div',undefined,'loadout-head');
     const title=element('div',undefined,'stage-title');title.append(element('h3',row.stage));
@@ -195,6 +236,8 @@
       kit.append(element('p',choice.note,'item-prerequisites'));
       const pair=element('div',undefined,'kit-alternative-body');pair.append(cell('ЗАМЕНА БРОНИ',choice.armor),cell('ВМЕСТО «'+items[choice.replace].name+'»',[choice.item]));kit.append(pair);card.append(kit);
     }
+    const fallback=lootFallbacks(row);if(fallback)card.append(fallback);
+    const upcoming=nextStep(row,next);if(upcoming)card.append(upcoming);
     card.append(foot);return card;
   }
   function render() {
@@ -209,9 +252,11 @@
     document.querySelectorAll('[data-phase]').forEach(el=>el.setAttribute('aria-pressed',String(el.dataset.phase===state.phase)));
     const query=$('search').value.trim().toLocaleLowerCase('ru');
     const exactStage=query && rows.some(row=>row.cls===state.cls && row.stage.toLocaleLowerCase('ru')===query);
-    const selected=rows.filter(row=>row.cls===state.cls && (query || row.phase===state.phase) && (!query || (exactStage ? row.stage.toLocaleLowerCase('ru')===query : [row.stage,...row.cells,...row.notes,...[...row.weapons,...row.armor,...row.accessories,...row.wings,...(row.supportWeapons || []),...(row.accessoryAlternatives || []).map(a=>a.item)].map(k=>items[k].name+' '+items[k].how)].join(' ').toLocaleLowerCase('ru').includes(query))) && (!$('reachedOnly').checked || reached(row)));
+    const selected=rows.filter(row=>row.cls===state.cls && (query || row.phase===state.phase) && (!query || (exactStage ? row.stage.toLocaleLowerCase('ru')===query : [row.stage,...row.cells,...row.notes,...[...row.weapons,...row.armor,...row.accessories,...row.wings,...(row.supportWeapons || []),...(row.accessoryAlternatives || []).map(a=>a.item),...(row.lootFallbacks || []).map(a=>a.item)].map(k=>items[k].name+' '+items[k].how)].join(' ').toLocaleLowerCase('ru').includes(query))) && (!$('reachedOnly').checked || reached(row)));
     const target=$('loadouts');target.replaceChildren();
-    selected.forEach((row,index)=>target.append(renderCard(row,index)));
+    const route=rows.filter(row=>row.cls===state.cls);
+    const following=new Map(route.map((row,index)=>[row.id,route[index+1]]));
+    selected.forEach((row,index)=>target.append(renderCard(row,index,following.get(row.id))));
     if(!selected.length) {
       const empty=element('div',undefined,'empty');empty.append(element('h3','Комплекты не найдены'),element('p','Измени поиск или отключи фильтр доступных по прогрессу комплектов.'));target.append(empty);
     }
