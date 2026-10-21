@@ -4,8 +4,8 @@
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#121916"><meta name="description" content="Гайд по пяти классам Terraria: Calamity + Fargo’s. Мастер + Мазохист: комплекты до каждого босса, рецепты и памятка по этапам.">
 <title>Calamity × Fargo’s — пять классов</title>
-<link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css?v=8a7e03ad381f">
-<script src="data.js?v=4480165e3195" defer></script><script src="app.js?v=5fe1601067af" defer></script>
+<link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css?v=50a14012e43e">
+<script src="data.js?v=2560d3bd574d" defer></script><script src="app.js?v=0ed9d0fb4f34" defer></script>
 </head>
 <body>
 <a class="skip" href="#loadouts">К комплектам</a>
@@ -32,6 +32,7 @@
 <div class="release-bar"><span id="guideVersion"></span><a href="#updates">История обновлений</a></div>
 </header>
 <section id="guideControls" class="guide-controls" aria-label="Фильтры гайда">
+<div class="play-mode"><span id="playModeLabel">Как играете?</span><div role="group" aria-labelledby="playModeLabel"><button type="button" class="secondary" data-profile="solo" aria-pressed="true">Соло</button><button type="button" class="secondary" data-profile="friends" aria-pressed="false" aria-controls="partyControls">С друзьями</button></div><p id="playModeHint">Выберите «С друзьями», чтобы настроить классы и роли команды.</p></div>
 <div class="section-top"><div><div class="eyebrow" id="classKicker">КЛАСС 05 / ПРИЗЫВАТЕЛЬ</div><h2 id="classTitle">Призыватель</h2></div><span class="class-note" id="classNote"></span></div>
 <div id="partyControls" class="party-controls" hidden><label for="partyMode">Состав команды</label><select id="partyMode"><option value="tank">Один защитник + союзники</option><option value="damage">Все играют через урон</option><option value="balanced">Все сбалансированно</option><option value="custom">Свои роли</option></select><div id="partyRoster" class="party-roster" aria-label="Игроки команды"></div><button id="addPartyMember" type="button" class="secondary">Добавить игрока</button><p id="partySummary" role="status"></p><details class="party-analysis"><summary>Подсказки по этому составу</summary><div id="partyHint"></div></details></div>
 <div id="phases" class="phase-tabs" role="group" aria-label="Этап игры"><button data-phase="pre" aria-pressed="true">01 <span>До хардмода</span></button><button data-phase="hard" aria-pressed="false">02 <span>Хардмод</span></button><button data-phase="post" aria-pressed="false">03 <span>После Лунного лорда</span></button></div>

@@ -309,6 +309,8 @@
     renderParty();
     $('legacyNotice').hidden=true;
     $('profile').value=state.profile;
+    document.querySelectorAll('[data-profile]').forEach(el=>el.setAttribute('aria-pressed',String(el.dataset.profile===state.profile)));
+    $('playModeHint').textContent=state.profile==='friends'?'Ниже выберите классы и роли игроков — комплекты учтут состав команды.':'Выберите «С друзьями», чтобы настроить классы и роли команды.';
     document.querySelectorAll('[data-phase]').forEach(el=>el.setAttribute('aria-pressed',String(el.dataset.phase===state.phase)));
     const query=$('search').value.trim().toLocaleLowerCase('ru');
     const exactStage=query && rows.some(row=>row.cls===state.cls && row.stage.toLocaleLowerCase('ru')===query);
@@ -407,7 +409,9 @@
     });
   }
   $('phases').addEventListener('click',event=>{const button=event.target.closest('button[data-phase]');if(!button)return;state.phase=button.dataset.phase;$('search').value='';save();render();});
-  $('profile').addEventListener('change',()=>{state.profile=$('profile').value;save();render();renderChecklist();renderJourney();});
+  function setProfile(profile){state.profile=profile;save();render();renderChecklist();renderJourney();}
+  $('profile').addEventListener('change',()=>setProfile($('profile').value));
+  document.querySelectorAll('[data-profile]').forEach(button=>button.addEventListener('click',()=>setProfile(button.dataset.profile)));
   $('partyMode').addEventListener('change',()=>{applyPartyMode($('partyMode').value);save();render();renderJourney();});
   $('addPartyMember').addEventListener('click',()=>{if(state.party.members.length>=16)return;let n=1;while(state.party.members.some(m=>m.id==='p'+n))n++;state.party.members.push({id:'p'+n,cls:state.cls,role:'balanced'});state.partyMode='custom';save();render();});
   $('closeError').addEventListener('click',()=>$('errorDialog').close());
