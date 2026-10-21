@@ -1,6 +1,6 @@
 'use strict';
 (() => {
-  const {rows:soloRows, friendRows, friendDpsRows, bosses, items, pack, journey, release} = window.GUIDE;
+  const {rows:soloRows, friendRows, friendDpsRows, friendDefenderRows, friendAllyRows, friendBalancedRows, bosses, items, pack, journey, release} = window.GUIDE;
   const classes = [
     {id:'melee',name:'Воин',en:'ВОИН',icon:'⚔',note:'Дальний удар и выживаемость'},
     {id:'ranged',name:'Стрелок',en:'СТРЕЛОК',icon:'➶',note:'Оружие, патроны и пробитие'},
@@ -11,7 +11,16 @@
   const phaseNames = {pre:'До хардмода',hard:'Хардмод',post:'После Лунного лорда'};
   const $ = id => document.getElementById(id);
   const storageKey = 'calamity-fargo-guide-v1';
-  const state = {cls:'summon',phase:'pre',profile:'solo',partyMode:'tank',profiles:{solo:[],friends:[]},upgrades:{solo:[],friends:[]}};
+  const roleNames={damage:'Урон',balanced:'Сбалансированно',defender:'Защитник'};
+  const partyModes=['tank','damage','balanced','custom'];
+  const defaultParty=mode=>({members:[{id:'p1',cls:'melee',role:mode==='tank'?'defender':mode==='balanced'?'balanced':'damage'},{id:'p2',cls:'magic',role:mode==='balanced'?'balanced':'damage'},{id:'p3',cls:'rogue',role:mode==='balanced'?'balanced':'damage'}],activeId:'p1'});
+  function cleanParty(party){
+    if(!party || !Array.isArray(party.members) || party.members.length<2 || party.members.length>16)return null;
+    const ids=new Set();
+    for(const member of party.members){if(!member || typeof member.id!=='string' || !/^[a-z0-9_-]{1,40}$/i.test(member.id) || ids.has(member.id) || !classes.some(c=>c.id===member.cls) || !Object.hasOwn(roleNames,member.role))return null;ids.add(member.id);}
+    return {members:party.members.map(m=>({id:m.id,cls:m.cls,role:m.role})),activeId:ids.has(party.activeId)?party.activeId:null};
+  }
+  const state = {cls:'summon',phase:'pre',profile:'solo',partyMode:'tank',party:defaultParty('tank'),profiles:{solo:[],friends:[]},upgrades:{solo:[],friends:[]}};
   let storageAvailable = true;
   const bossIds = new Set(bosses.map(b => b.id));
   const upgradeIds = new Set(journey.flatMap(s=>s.tasks.map(t=>t.id)));
@@ -25,7 +34,8 @@
       if (classes.some(c=>c.id===saved.cls)) state.cls=saved.cls;
       if (phaseNames[saved.phase]) state.phase=saved.phase;
       if (['solo','friends'].includes(saved.profile)) state.profile=saved.profile;
-      if (['tank','damage'].includes(saved.partyMode)) state.partyMode=saved.partyMode;
+      if (partyModes.includes(saved.partyMode)) state.partyMode=saved.partyMode;
+      state.party=cleanParty(saved.party)||defaultParty(state.partyMode);
     }
   } catch { storageAvailable=false; }
   function save() {
@@ -40,6 +50,50 @@
   }
   function link(label,url) {
     const el=element('a',label); el.href=url; el.target='_blank'; el.rel='noopener noreferrer'; return el;
+  }
+  function viewedPlayer(){return state.party.members.find(m=>m.id===state.party.activeId && m.cls===state.cls)||state.party.members.find(m=>m.cls===state.cls);}
+  function viewedRole(cls=state.cls){return (state.party.members.find(m=>m.id===state.party.activeId && m.cls===cls)||state.party.members.find(m=>m.cls===cls))?.role || 'balanced';}
+  function hasDefender(){return state.party.members.some(m=>m.role==='defender');}
+  function activeRows(){if(state.profile==='solo')return soloRows;const role=viewedRole();return role==='defender'?friendDefenderRows:role==='balanced'?friendBalancedRows:hasDefender()?friendAllyRows:friendDpsRows;}
+  function applyPartyMode(mode){
+    state.partyMode=mode;
+    if(mode==='custom')return;
+    const defender=state.party.members.find(m=>m.role==='defender')?.id || state.party.members[0].id;
+    for(const member of state.party.members)member.role=mode==='balanced'?'balanced':mode==='tank' && member.id===defender?'defender':'damage';
+  }
+  function renderParty(){
+    $('partyControls').hidden=state.profile!=='friends';$('partyMode').value=state.partyMode;
+    const roster=$('partyRoster');roster.replaceChildren();
+    state.party.members.forEach((member,index)=>{
+      const block=element('fieldset',undefined,'party-member');block.append(element('legend','Игрок '+(index+1)));
+      const label=element('label','Класс');label.htmlFor='member-class-'+member.id;
+      const select=element('select');select.id=label.htmlFor;
+      for(const c of classes){const option=element('option',c.name);option.value=c.id;select.append(option);}select.value=member.cls;
+      select.addEventListener('change',()=>{member.cls=select.value;state.partyMode='custom';if(state.party.activeId===member.id)state.cls=member.cls;save();render();});
+      const roleLabel=element('label','Роль');roleLabel.htmlFor='member-role-'+member.id;
+      const role=element('select');role.id=roleLabel.htmlFor;
+      for(const [key,name] of Object.entries(roleNames)){const option=element('option',name);option.value=key;role.append(option);}role.value=member.role;
+      role.addEventListener('change',()=>{member.role=role.value;state.partyMode='custom';save();render();});
+      const view=element('button',viewedPlayer()?.id===member.id?'Комплект открыт':'Смотреть комплект','secondary');view.type='button';view.setAttribute('aria-pressed',String(viewedPlayer()?.id===member.id));
+      view.addEventListener('click',()=>{state.party.activeId=member.id;state.cls=member.cls;save();render();});
+      const remove=element('button','Убрать','text-button');remove.type='button';remove.setAttribute('aria-label','Убрать игрока '+(index+1));remove.disabled=state.party.members.length<=2;
+      remove.addEventListener('click',()=>{state.party.members=state.party.members.filter(m=>m.id!==member.id);if(state.party.activeId===member.id){state.party.activeId=state.party.members[0].id;state.cls=state.party.members[0].cls;}state.partyMode='custom';save();render();});
+      block.append(label,select,roleLabel,role,view,remove);roster.append(block);
+    });
+    $('addPartyMember').disabled=state.party.members.length>=16;
+    const counts=new Map();for(const m of state.party.members)counts.set(m.cls,(counts.get(m.cls)||0)+1);
+    const composition=[...counts].map(([key,count])=>classes.find(c=>c.id===key).name+(count>1?' × '+count:'')).join(' · ');
+    const defenders=state.party.members.filter(m=>m.role==='defender');
+    const current=viewedPlayer();const advice=['Игроков: '+state.party.members.length+' · '+composition];if(current)advice.push('Открыт комплект игрока '+(state.party.members.findIndex(m=>m.id===current.id)+1)+' · '+roleNames[current.role]+'.');
+    advice.push(defenders.length?'Защитник может быть любого класса: используются его классовые предметы и универсальные аксессуары агрессии. Общие атаки и смена цели всё равно требуют личного уклонения.':'Выделенного защитника нет. Урон не опирается на снижение агрессии ради передней линии; каждый игрок готовится самостоятельно переживать смену цели.');
+    if(defenders.length>1)advice.push('Несколько защитников: заранее распределите, кто уводит босса и куда отступают остальные. Агрессия не гарантирует постоянную цель.');
+    if(state.party.members.length===2)advice.push('В дуо после гибели союзника остаётся один игрок. Сохраняйте мобильность и запас личной защиты.');
+    if([...counts.values()].some(n=>n>1))advice.push('Одинаковые классы допустимы. Дроп и расходники нужны каждому, а одинаковые командные баффы не суммируются.');
+    if(!viewedPlayer())advice.push('Просматриваемого класса нет в составе: показан сбалансированный комплект. Добавьте игрока этого класса, чтобы назначить ему роль.');
+    const missingDamage=[];if(!counts.has('melee') && !counts.has('rogue'))missingDamage.push('воин или разбойник');for(const key of ['ranged','magic','summon'])if(!counts.has(key))missingDamage.push(classes.find(c=>c.id===key).name);
+    if(missingDamage.length)advice.push('Для классовых фаз Лунного лорда в Мазохисте подготовьте запасное оружие: '+missingDamage.join('; ')+'. Его можно взять из соответствующей карточки перед этим боссом.');
+    advice.push('Кнопка «Смотреть комплект» выбирает конкретного игрока, в том числе среди одинаковых классов. Все варианты команды используют одни отметки прогресса.');
+    $('partySummary').textContent=advice.slice(0,2).join(' ');$('partyHint').replaceChildren(...advice.slice(2).map(text=>element('p',text)));
   }
   function reached(row) {
     const done = new Set(state.profiles[state.profile]);
@@ -57,7 +111,7 @@
       const button=element('button',undefined,'class-button');button.type='button';button.setAttribute('aria-pressed',String(c.id===state.cls));
       const icon=element('span',c.icon,'class-icon');icon.setAttribute('aria-hidden','true');
       button.append(icon,element('span',c.name),element('span','›','class-arrow'));
-      button.addEventListener('click',()=>{state.cls=c.id;save();render();});nav.append(button);
+      button.addEventListener('click',()=>{state.cls=c.id;if(!state.party.members.some(m=>m.id===state.party.activeId && m.cls===c.id))state.party.activeId=state.party.members.find(m=>m.cls===c.id)?.id || null;save();render();});nav.append(button);
     });
   }
   function itemDetails(key) {
@@ -123,7 +177,7 @@
   function classReforge(cls) {
     const section=element('div',undefined,'reforge-class');const advice=reforgeAdvice[cls];
     section.append(element('h4',classes.find(c=>c.id===cls).name));
-    if(state.profile==='friends') section.append(element('p',cls==='melee' && state.partyMode==='tank'?'Командная роль защитника: базовая перековка аксессуаров — «Охранный». Урон добавлять после уверенного выживания под повышенной агрессией.':'Командная роль урона: базовая перековка — «Грозный»; магу при нехватке маны подойдёт «Загадочный», разбойнику для скрытных ударов — «Безмолвный». При частых смертях вернуть часть «Охранных».','team-advice'));
+    if(state.profile==='friends') section.append(element('p',viewedRole(cls)==='balanced'?'Сбалансированная роль: сочетать «Охранный» и классовый урон, увеличивая защиту при частых смертях.':viewedRole(cls)==='defender'?'Командная роль защитника: базовая перековка аксессуаров — «Охранный». Урон добавлять после уверенного выживания под повышенной агрессией.':'Командная роль урона: базовая перековка — «Грозный»; магу при нехватке маны подойдёт «Загадочный», разбойнику для скрытных ударов — «Безмолвный». При частых смертях вернуть часть «Охранных».','team-advice'));
     section.append(element('p','Аксессуары — защита: «Охранный» (+4 защиты) на каждом боевом предмете. Подходит всем классам, когда главная задача — пережить бой.'));
     section.append(element('p','Аксессуары — урон: '+advice.damage),element('p',advice.alternative));
     section.append(element('strong','Перековка оружия'),element('p',advice.weapon));return section;
@@ -131,7 +185,7 @@
   function reforgeRules() {
     const content=element('div',undefined,'reforge-rules');
     content.append(element('p','Каждый надетый боевой аксессуар перековывается отдельно: ботинки, эмблемы, щиты, усиления и крылья, если предмет допускает перековку и его бонус работает в этом слоте. У предмета может быть только один модификатор; броня у гоблина не перековывается.'));
-    content.append(element('p',state.profile==='friends' && state.partyMode==='damage'?'В команде без защитника начать с классовых перековок на урон, сохраняя запас защиты по необходимости. Каждый игрок должен самостоятельно переживать атаки и смену цели.':state.profile==='friends'?'В команде защитник начинает с «Охранных», остальные — с классовых перековок на урон с запасом защиты по необходимости. Повышенная агрессия не отменяет общие атаки и смену цели: любой игрок должен переживать отдельные попадания.':'Для освоения Мастера + Мазохиста можно начать с «Охранного» на всех аксессуарах, затем перевести два предмета на классовый вариант для урона. Если выживаемости хватает, увеличивать долю урона; при частых смертях вернуть защиту. Это отправная точка, а не универсально лучший набор.'));
+    content.append(element('p',state.profile==='friends' && !hasDefender()?'В команде без защитника начать с классовых перековок на урон, сохраняя запас защиты по необходимости. Каждый игрок должен самостоятельно переживать атаки и смену цели.':state.profile==='friends'?'В команде защитник начинает с «Охранных», остальные — с классовых перековок на урон с запасом защиты по необходимости. Повышенная агрессия не отменяет общие атаки и смену цели: любой игрок должен переживать отдельные попадания.':'Для освоения Мастера + Мазохиста можно начать с «Охранного» на всех аксессуарах, затем перевести два предмета на классовый вариант для урона. Если выживаемости хватает, увеличивать долю урона; при частых смертях вернуть защиту. Это отправная точка, а не универсально лучший набор.'));
     content.append(element('p','Не обязательно сразу тратить все монеты на идеальную перековку промежуточной вещи. Модификатор оружия выбирается из тех, которые поддерживает конкретный предмет. Специальные модификаторы через купоны Каламити не считаются обычным случайным результатом гоблина.'));
     return content;
   }
@@ -247,13 +301,12 @@
   }
   function render() {
     renderClasses();updateProgress();
-    const rows=state.profile==='friends'?(state.partyMode==='damage'?friendDpsRows:friendRows):soloRows;
+    const rows=activeRows();
     const c=classes.find(c=>c.id===state.cls);
     $('classTitle').textContent=c.name;
     $('classKicker').textContent=`КЛАСС ${String(classes.indexOf(c)+1).padStart(2,'0')} / ${c.en}`;
     $('classNote').textContent=state.profile==='friends'?'С друзьями: '+rows.find(r=>r.cls===c.id).teamRole:c.note+' · Соло: самостоятельная выживаемость и урон.';
-    $('partyControls').hidden=state.profile!=='friends';$('partyMode').value=state.partyMode;
-    $('partyHint').textContent=state.partyMode==='tank'?'Воин повышает агрессию и защищает союзников. Остальные усиливают урон и поддержку. Общие атаки и смена цели по-прежнему требуют уклонения.':'Выделенного защитника нет. Все классы усиливают урон и сохраняют мобильность; слоты на снижение агрессии ради защитника не добавляются. Прогресс команды остаётся общим для обоих вариантов.';
+    renderParty();
     $('legacyNotice').hidden=true;
     $('profile').value=state.profile;
     document.querySelectorAll('[data-phase]').forEach(el=>el.setAttribute('aria-pressed',String(el.dataset.phase===state.phase)));
@@ -284,23 +337,24 @@
   let reportContext=null;
   function updateReport() {
     if(!reportContext)return;
-    const {row,profile,partyMode}=reportContext;
+    const {row,profile,partyMode,party,role}=reportContext;
     const key=$('reportItem').value;
-    const mode=profile==='solo'?'Соло':partyMode==='tank'?'С друзьями: воин-защитник + союзники':'С друзьями: все через урон';
+    const mode=profile==='solo'?'Соло':'С друзьями: '+(partyMode==='damage'?'все через урон':partyMode==='balanced'?'все сбалансированно':'свои роли')+'; роль: '+roleNames[role];
     const description=$('reportNotes').value.trim();
     const draft=['Ошибка в гайде Calamity × Fargo',
       'Класс: '+classes.find(c=>c.id===row.cls).name,'Этап: '+row.stage,'Режим: '+mode,
-      'Предмет: '+(key?items[key].name:'Вся карточка'),'Версия гайда: '+release.version,
+      'Предмет: '+(key?items[key].name:'Вся карточка'),...(profile==='friends'?['Состав: '+party.members.map((m,i)=>(i+1)+'. '+classes.find(c=>c.id===m.cls).name+' — '+roleNames[m.role]).join('; ')]:[]),'Версия гайда: '+release.version,
       'Сборка: Calamity 2.2.4; Souls 1.7.3.9; Crossmod 1.2.0.28; Мастер + Мазохист.',
       '', 'Что не совпало:',description || '(описать рецепт, условие получения или поведение)',
       '', 'Ожидаемый результат / подтверждение:', '(можно дописать на GitHub)'].join('\n');
     $('reportDraft').value=draft;
     const url=new URL('https://github.com/ISpeed2/-alamity-fargo-guide/issues/new');
     url.searchParams.set('title',row.stage+' / '+classes.find(c=>c.id===row.cls).name+(key?' / '+items[key].name:''));url.searchParams.set('body',draft);
+    if(url.href.length>7500){url.searchParams.delete('body');$('reportStatus').textContent='Длинный черновик: скопируйте текст и вставьте его в форму на GitHub.';}else $('reportStatus').textContent='';
     $('reportGithub').href=url.href;
   }
   function openReport(row) {
-    reportContext={row,profile:state.profile,partyMode:state.partyMode};
+    reportContext={row,profile:state.profile,partyMode:state.partyMode,role:viewedRole(),party:JSON.parse(JSON.stringify(state.party))};
     const select=$('reportItem');select.replaceChildren(element('option','Вся карточка'));select.options[0].value='';
     const keys=[...new Set([...row.weapons,...row.armor,...row.accessories,...row.wings,...(row.supportWeapons || []),...(row.accessoryAlternatives || []).map(a=>a.item),...(row.lootFallbacks || []).map(a=>a.item),...(row.pactBonus?[row.pactBonus]:[])])];
     for(const key of keys){const option=element('option',items[key].name);option.value=key;select.append(option);}
@@ -354,7 +408,8 @@
   }
   $('phases').addEventListener('click',event=>{const button=event.target.closest('button[data-phase]');if(!button)return;state.phase=button.dataset.phase;$('search').value='';save();render();});
   $('profile').addEventListener('change',()=>{state.profile=$('profile').value;save();render();renderChecklist();renderJourney();});
-  $('partyMode').addEventListener('change',()=>{state.partyMode=$('partyMode').value;save();render();renderJourney();});
+  $('partyMode').addEventListener('change',()=>{applyPartyMode($('partyMode').value);save();render();renderJourney();});
+  $('addPartyMember').addEventListener('click',()=>{if(state.party.members.length>=16)return;let n=1;while(state.party.members.some(m=>m.id==='p'+n))n++;state.party.members.push({id:'p'+n,cls:state.cls,role:'balanced'});state.partyMode='custom';save();render();});
   $('closeError').addEventListener('click',()=>$('errorDialog').close());
   $('reportItem').addEventListener('change',updateReport);$('reportNotes').addEventListener('input',updateReport);
   $('copyReport').addEventListener('click',async()=>{try{await navigator.clipboard.writeText($('reportDraft').value);$('reportStatus').textContent='Текст скопирован.';}catch{$('reportDraft').focus();$('reportDraft').select();$('reportStatus').textContent='Текст выделен. Скопируйте его сочетанием клавиш или через меню браузера.';}});
@@ -374,7 +429,7 @@
   $('checklistDialog').addEventListener('click',e=>{if(e.target===$('checklistDialog')){const rect=e.target.getBoundingClientRect();if(e.clientX<rect.left||e.clientX>rect.right||e.clientY<rect.top||e.clientY>rect.bottom)e.target.close();}});
   $('resetProgress').addEventListener('click',()=>{if(window.confirm(`Сбросить боссов и отметки памятки профиля «${state.profile==='solo'?'Соло':'С друзьями'}»?`)){state.profiles[state.profile]=[];state.upgrades[state.profile]=[];save();render();renderChecklist();renderJourney();$('storageMessage').textContent='Прогресс этого профиля сброшен.';}});
   $('exportProgress').addEventListener('click',()=>{
-    const blob=new Blob([JSON.stringify({version:1,profiles:state.profiles,upgrades:state.upgrades,partyMode:state.partyMode},null,2)],{type:'application/json'});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='calamity-fargo-progress.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);$('storageMessage').textContent='Файл содержит боссов, памятку обоих профилей и состав команды. Его можно передать друзьям.';
+    const blob=new Blob([JSON.stringify({version:1,profiles:state.profiles,upgrades:state.upgrades,partyMode:state.partyMode,party:state.party},null,2)],{type:'application/json'});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='calamity-fargo-progress.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);$('storageMessage').textContent='Файл содержит боссов, памятку обоих профилей и состав команды. Его можно передать друзьям.';
   });
   $('importProgress').addEventListener('change',async e=>{
     const file=e.target.files[0];if(!file)return;
@@ -383,9 +438,10 @@
       const data=JSON.parse(await file.text());
       if(data.version!==1||!data.profiles||!['solo','friends'].every(key=>Array.isArray(data.profiles[key])&&data.profiles[key].every(id=>bossIds.has(id))))throw Error('Это не файл прогресса этого гайда.');
       if(data.upgrades!==undefined && (!data.upgrades || !['solo','friends'].every(key=>Array.isArray(data.upgrades[key])&&data.upgrades[key].every(id=>upgradeIds.has(id)))))throw Error('Некорректные отметки памятки.');
-      if(data.partyMode!==undefined && !['tank','damage'].includes(data.partyMode))throw Error('Некорректный состав команды.');
+      if(data.partyMode!==undefined && !partyModes.includes(data.partyMode))throw Error('Некорректный состав команды.');
+      if(data.party!==undefined && !cleanParty(data.party))throw Error('Некорректные игроки или роли команды.');
       if(!window.confirm('Заменить прогресс обоих профилей данными из файла?'))return;
-      for(const key of ['solo','friends']){state.profiles[key]=cleanList(data.profiles[key]);if(data.upgrades)state.upgrades[key]=cleanUpgrades(data.upgrades[key]);}if(data.partyMode)state.partyMode=data.partyMode;save();render();renderChecklist();renderJourney();$('storageMessage').textContent=data.upgrades?'Оба профиля и памятки загружены.':'Боссы загружены. Старый файл не содержит памятку: её отметки сохранены.';
+      for(const key of ['solo','friends']){state.profiles[key]=cleanList(data.profiles[key]);if(data.upgrades)state.upgrades[key]=cleanUpgrades(data.upgrades[key]);}if(data.party){state.party=cleanParty(data.party);state.partyMode=data.partyMode || 'custom';const active=state.party.members.find(m=>m.id===state.party.activeId);if(active)state.cls=active.cls;}else if(data.partyMode)applyPartyMode(data.partyMode);save();render();renderChecklist();renderJourney();$('storageMessage').textContent=data.upgrades?'Оба профиля и памятки загружены.':'Боссы загружены. Старый файл не содержит памятку: её отметки сохранены.';
     }catch(error){$('storageMessage').textContent='Не удалось загрузить прогресс: '+error.message;}
     finally{e.target.value='';}
   });
