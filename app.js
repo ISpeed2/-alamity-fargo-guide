@@ -13,7 +13,7 @@
   const storageKey = 'calamity-fargo-guide-v1';
   const roleNames={damage:'Урон',balanced:'Сбалансированно',defender:'Защитник'};
   const partyModes=['tank','damage','balanced','custom'];
-  const defaultParty=mode=>({members:[{id:'p1',cls:'melee',role:mode==='tank'?'defender':mode==='balanced'?'balanced':'damage'},{id:'p2',cls:'magic',role:mode==='balanced'?'balanced':'damage'},{id:'p3',cls:'rogue',role:mode==='balanced'?'balanced':'damage'}],activeId:'p1'});
+  const defaultParty=mode=>({members:[{id:'p1',cls:'melee',role:mode==='tank'?'defender':mode==='balanced'?'balanced':'damage'},{id:'p2',cls:'ranged',role:mode==='balanced'?'balanced':'damage'},{id:'p3',cls:'magic',role:mode==='balanced'?'balanced':'damage'}],activeId:'p1'});
   function cleanParty(party){
     if(!party || !Array.isArray(party.members) || party.members.length<2 || party.members.length>16)return null;
     const ids=new Set();
