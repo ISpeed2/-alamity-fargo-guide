@@ -34203,9 +34203,10 @@ window.GUIDE = {
       "requires": [],
       "how": "Найти в сундуке на парящем острове. В генерации этой сборки проверь небесные обсерватории на островах; конкретный сундук может содержать другой предмет.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Starfury",
+      "url": "https://terraria.wiki.gg/wiki/Starfury",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "EnchantedSword": {
       "id": "EnchantedSword",
@@ -34213,9 +34214,10 @@ window.GUIDE = {
       "requires": [],
       "how": "Найти в святилище зачарованного меча; если мир не дал меч, используй Звёздную ярость.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Enchanted%20Sword",
+      "url": "https://terraria.wiki.gg/wiki/Enchanted_Sword",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "FieryGreatsword": {
       "id": "FieryGreatsword",
@@ -34225,9 +34227,10 @@ window.GUIDE = {
       ],
       "how": "Скрафтить из адских слитков на наковальне. Добыть адскую руду киркой из материалов босса зла; переплавить с обсидианом в адской печи.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Volcano",
+      "url": "https://terraria.wiki.gg/wiki/Volcano",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "NightsEdge": {
       "id": "NightsEdge",
@@ -34239,7 +34242,7 @@ window.GUIDE = {
       ],
       "how": "Собрать Световую погибель или Кровавый мясорез, Мурамасу, Клинок травы и Вулкан; крафт на алтаре. Ванильную Мурамасу ищи в запертых золотых сундуках Темницы после Скелетрона; нужен золотой ключ. Не путай её с Мурасамой из адской лаборатории. Изменение основной сборки: дополнительно нужны десять очищенного геля с Бога слизней. До его первого убийства этот меч не предлагается.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes#Weapons:~:text=Night%27s%20Edge",
+      "url": "https://terraria.wiki.gg/wiki/Night%27s_Edge",
       "recipe": {
         "ingredients": [
           [
@@ -34268,7 +34271,8 @@ window.GUIDE = {
         "text": "Световая погибель или Кровавый мясорез × 1; Мурамаса × 1; Травяной клинок × 1; Вулкан × 1; Очищенный гель × 10",
         "station": "демонический или багряный алтарь"
       },
-      "wikiLabel": "Изменённый рецепт в вики основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "IceSickle": {
       "id": "IceSickle",
@@ -34278,9 +34282,10 @@ window.GUIDE = {
       ],
       "how": "Фармить ледяных врагов в подземном снежном биоме хардмода.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Ice%20Sickle",
+      "url": "https://terraria.wiki.gg/wiki/Ice_Sickle",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "TrueExcalibur": {
       "id": "TrueExcalibur",
@@ -34292,7 +34297,7 @@ window.GUIDE = {
       ],
       "how": "Улучшить Экскалибур двенадцатью хлорофитовыми слитками на хардмодной наковальне. Основная сборка уменьшает число слитков с двадцати четырёх до двенадцати.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes#Weapons:~:text=True%20Excalibur",
+      "url": "https://terraria.wiki.gg/wiki/True_Excalibur",
       "recipe": {
         "ingredients": [
           [
@@ -34309,7 +34314,8 @@ window.GUIDE = {
         "text": "Экскалибур × 1; Хлорофитовый слиток × 12",
         "station": "мифриловая или орихалковая наковальня"
       },
-      "wikiLabel": "Изменённый рецепт в вики основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "TerraBlade": {
       "id": "TerraBlade",
@@ -34326,7 +34332,7 @@ window.GUIDE = {
       ],
       "how": "Собрать Истинный Экскалибур, Истинное лезвие ночи и Сломанный меч героя. Последний фармится с Мотрона в Солнечном затмении; крафт на хардмод-наковальне. Основная сборка дополнительно требует двенадцать живых осколков с Плантеры.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes#Weapons:~:text=Terra%20Blade",
+      "url": "https://terraria.wiki.gg/wiki/Terra_Blade",
       "recipe": {
         "ingredients": [
           [
@@ -34351,7 +34357,8 @@ window.GUIDE = {
         "text": "Истинный Экскалибур × 1; Истинная грань ночи × 1; Сломанный меч героя × 1; Живой осколок × 12",
         "station": "мифриловая или орихалковая наковальня"
       },
-      "wikiLabel": "Изменённый рецепт в вики основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "InfluxWaver": {
       "id": "InfluxWaver",
@@ -34362,9 +34369,10 @@ window.GUIDE = {
       ],
       "how": "Дроп марсианской тарелки в Марсианском безумии.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Influx%20Waver",
+      "url": "https://terraria.wiki.gg/wiki/Influx_Waver",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "SolarEruption": {
       "id": "SolarEruption",
@@ -34375,9 +34383,10 @@ window.GUIDE = {
       ],
       "how": "Скрафтить из солнечных фрагментов на Древнем манипуляторе. Люминит не нужен.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Solar%20Eruption",
+      "url": "https://terraria.wiki.gg/wiki/Solar_Eruption",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "PlatinumBow": {
       "id": "PlatinumBow",
@@ -34385,9 +34394,10 @@ window.GUIDE = {
       "requires": [],
       "how": "Скрафтить из платиновых слитков на наковальне. В мире с золотом используй золотой лук.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Platinum%20Bow",
+      "url": "https://terraria.wiki.gg/wiki/Platinum_Bow",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "Minishark": {
       "id": "Minishark",
@@ -34395,9 +34405,10 @@ window.GUIDE = {
       "requires": [],
       "how": "Купить у Оружейника. Для его заселения получи огнестрельное оружие и патроны, например мушкет/гробовщик из сферы/сердца.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Minishark",
+      "url": "https://terraria.wiki.gg/wiki/Minishark",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "MoltenFury": {
       "id": "MoltenFury",
@@ -34407,9 +34418,10 @@ window.GUIDE = {
       ],
       "how": "Скрафтить из адских слитков после добычи адской руды и обсидиана.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Molten%20Fury",
+      "url": "https://terraria.wiki.gg/wiki/Molten_Fury",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "PhoenixBlaster": {
       "id": "PhoenixBlaster",
@@ -34420,9 +34432,10 @@ window.GUIDE = {
       ],
       "how": "Найти Пистолет в золотых сундуках Темницы и улучшить адскими слитками на наковальне.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Phoenix%20Blaster",
+      "url": "https://terraria.wiki.gg/wiki/Phoenix_Blaster",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "DaedalusStormbow": {
       "id": "DaedalusStormbow",
@@ -34432,9 +34445,10 @@ window.GUIDE = {
       ],
       "how": "Дроп освященного мимика в хардмоде. Для отдельного боя с мимиком используй прежнее оружие; этот лук нужен уже после его фарма.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Daedalus%20Stormbow",
+      "url": "https://terraria.wiki.gg/wiki/Daedalus_Stormbow",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "Shotgun": {
       "id": "Shotgun",
@@ -34444,9 +34458,10 @@ window.GUIDE = {
       ],
       "how": "Купить у Оружейника в хардмоде.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Shotgun",
+      "url": "https://terraria.wiki.gg/wiki/Shotgun",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "Megashark": {
       "id": "Megashark",
@@ -34457,9 +34472,10 @@ window.GUIDE = {
       ],
       "how": "Скрафтить Миниакулу, Нелегальные части оружия, плавники акулы и эссенции могущества на мифриловой/орихалковой наковальне. Уничтожитель обязателен.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Megashark",
+      "url": "https://terraria.wiki.gg/wiki/Megashark",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "ChlorophyteShotbow": {
       "id": "ChlorophyteShotbow",
@@ -34471,9 +34487,10 @@ window.GUIDE = {
       ],
       "how": "Добыть хлорофит киркой на 200% и скрафтить самострел из хлорофитовых слитков на хардмод-наковальне.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Chlorophyte%20Shotbow",
+      "url": "https://terraria.wiki.gg/wiki/Chlorophyte_Shotbow",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "Xenopopper": {
       "id": "Xenopopper",
@@ -34484,9 +34501,10 @@ window.GUIDE = {
       ],
       "how": "Дроп марсианской тарелки.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Xenopopper",
+      "url": "https://terraria.wiki.gg/wiki/Xenopopper",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "VortexBeater": {
       "id": "VortexBeater",
@@ -34497,9 +34515,10 @@ window.GUIDE = {
       ],
       "how": "Крафт из фрагментов вихря на Древнем манипуляторе, до Лунного лорда.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Vortex%20Beater",
+      "url": "https://terraria.wiki.gg/wiki/Vortex_Beater",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "Phantasm": {
       "id": "Phantasm",
@@ -34510,9 +34529,10 @@ window.GUIDE = {
       ],
       "how": "Крафт из фрагментов вихря на Древнем манипуляторе, до Лунного лорда.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Phantasm",
+      "url": "https://terraria.wiki.gg/wiki/Phantasm",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "DiamondStaff": {
       "id": "DiamondStaff",
@@ -34520,9 +34540,10 @@ window.GUIDE = {
       "requires": [],
       "how": "Скрафтить из платины и алмазов на наковальне. Если в мире золото, можно сделать рубиновый посох.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Diamond%20Staff",
+      "url": "https://terraria.wiki.gg/wiki/Diamond_Staff",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "Flamelash": {
       "id": "Flamelash",
@@ -34532,9 +34553,10 @@ window.GUIDE = {
       ],
       "how": "Найти в теневом сундуке Ада. Для него нужен теневой ключ; в изменённой Темнице этой сборки ключ находится в отдельном сундуке тюремной комнаты. Это другое условие, чем у древних сундуков Бездны.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Flamelash",
+      "url": "https://terraria.wiki.gg/wiki/Flamelash",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "CrystalSerpent": {
       "id": "CrystalSerpent",
@@ -34544,9 +34566,10 @@ window.GUIDE = {
       ],
       "how": "Выловить в Освящении в хардмоде.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Crystal%20Serpent",
+      "url": "https://terraria.wiki.gg/wiki/Crystal_Serpent",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "MeteorStaff": {
       "id": "MeteorStaff",
@@ -34557,7 +34580,7 @@ window.GUIDE = {
       ],
       "how": "Скрафтить из двадцати метеоритных слитков, десяти пикси-пыли и десяти эссенций света. Основная сборка переносит рецепт на обычную железную или свинцовую наковальню. Таблица сохраняет этот вариант после первого меха.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes#Weapons:~:text=Meteor%20Staff",
+      "url": "https://terraria.wiki.gg/wiki/Meteor_Staff",
       "recipe": {
         "ingredients": [
           [
@@ -34578,7 +34601,8 @@ window.GUIDE = {
         "text": "Метеоритный слиток × 20; Пыльца пикси × 10; Эссенция света × 10",
         "station": "железная или свинцовая наковальня"
       },
-      "wikiLabel": "Изменённый рецепт в вики основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "VenomStaff": {
       "id": "VenomStaff",
@@ -34591,9 +34615,10 @@ window.GUIDE = {
       ],
       "how": "Улучшить Отравляющий посох четырнадцатью хлорофитовыми слитками на хардмодной наковальне. Исходный посох выбивается с чёрных отшельников в паучьих гнёздах хардмода; готовый Ядовитый посох с них не падает.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Venom%20Staff",
+      "url": "https://terraria.wiki.gg/wiki/Venom_Staff",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "Razorpine": {
       "id": "Razorpine",
@@ -34604,9 +34629,10 @@ window.GUIDE = {
       ],
       "how": "Дроп злой ели во время Морозной луны.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Razorpine",
+      "url": "https://terraria.wiki.gg/wiki/Razorpine",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "NebulaBlaze": {
       "id": "NebulaBlaze",
@@ -34617,9 +34643,10 @@ window.GUIDE = {
       ],
       "how": "Крафт из фрагментов туманности на Древнем манипуляторе; люминит не требуется.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Nebula%20Blaze",
+      "url": "https://terraria.wiki.gg/wiki/Nebula_Blaze",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "LastPrism": {
       "id": "LastPrism",
@@ -34629,9 +34656,10 @@ window.GUIDE = {
       ],
       "how": "Дроп Лунного лорда после первой победы.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Last%20Prism",
+      "url": "https://terraria.wiki.gg/wiki/Last_Prism",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "BlandWhip": {
       "id": "BlandWhip",
@@ -34639,9 +34667,10 @@ window.GUIDE = {
       "requires": [],
       "how": "Купить у Зоолога при заполнении 10% бестиария.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Leather%20Whip",
+      "url": "https://terraria.wiki.gg/wiki/Leather_Whip",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "ThornWhip": {
       "id": "ThornWhip",
@@ -34649,9 +34678,10 @@ window.GUIDE = {
       "requires": [],
       "how": "Скрафтить из жал, лоз и спор джунглей на наковальне.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Snapthorn",
+      "url": "https://terraria.wiki.gg/wiki/Snapthorn",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "HornetStaff": {
       "id": "HornetStaff",
@@ -34661,9 +34691,10 @@ window.GUIDE = {
       ],
       "how": "Крафт из пчелиного воска на наковальне.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Hornet%20Staff",
+      "url": "https://terraria.wiki.gg/wiki/Hornet_Staff",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "BoneWhip": {
       "id": "BoneWhip",
@@ -34673,9 +34704,10 @@ window.GUIDE = {
       ],
       "how": "Крафт из костей и паутины на верстаке.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Spinal%20Tap",
+      "url": "https://terraria.wiki.gg/wiki/Spinal_Tap",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "SpiderStaff": {
       "id": "SpiderStaff",
@@ -34685,9 +34717,10 @@ window.GUIDE = {
       ],
       "how": "Крафт из паучьих клыков, добытых с чёрных отшельников в хардмоде.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Spider%20Staff",
+      "url": "https://terraria.wiki.gg/wiki/Spider_Staff",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "FireWhip": {
       "id": "FireWhip",
@@ -34697,9 +34730,10 @@ window.GUIDE = {
       ],
       "how": "Дроп Стены плоти после первой победы.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Firecracker",
+      "url": "https://terraria.wiki.gg/wiki/Firecracker",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "SwordWhip": {
       "id": "SwordWhip",
@@ -34711,9 +34745,10 @@ window.GUIDE = {
       ],
       "how": "Крафт из святых слитков на хардмод-наковальне.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Durendal",
+      "url": "https://terraria.wiki.gg/wiki/Durendal",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "MaceWhip": {
       "id": "MaceWhip",
@@ -34723,9 +34758,10 @@ window.GUIDE = {
       ],
       "how": "Дроп врагов усиленной Темницы после Плантеры.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Morning%20Star",
+      "url": "https://terraria.wiki.gg/wiki/Morning_Star",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "XenoStaff": {
       "id": "XenoStaff",
@@ -34736,9 +34772,10 @@ window.GUIDE = {
       ],
       "how": "Дроп марсианской тарелки.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Xeno%20Staff",
+      "url": "https://terraria.wiki.gg/wiki/Xeno_Staff",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "ScytheWhip": {
       "id": "ScytheWhip",
@@ -34749,9 +34786,10 @@ window.GUIDE = {
       ],
       "how": "Выбить с Тыквенного короля в Тыквенную луну. Тёмная жатва — вариант хлыста до Императрицы света; ударом можно обновить его эффект, затем переключиться на другой хлыст.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Dark%20Harvest",
+      "url": "https://terraria.wiki.gg/wiki/Dark_Harvest",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "RainbowWhip": {
       "id": "RainbowWhip",
@@ -34762,9 +34800,10 @@ window.GUIDE = {
       ],
       "how": "Дроп Императрицы света; дневная победа для самого хлыста не нужна.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Kaleidoscope",
+      "url": "https://terraria.wiki.gg/wiki/Kaleidoscope",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "StardustDragonStaff": {
       "id": "StardustDragonStaff",
@@ -34775,9 +34814,10 @@ window.GUIDE = {
       ],
       "how": "Крафт из фрагментов звёздной пыли на Древнем манипуляторе.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Stardust%20Dragon%20Staff",
+      "url": "https://terraria.wiki.gg/wiki/Stardust_Dragon_Staff",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "StardustCellStaff": {
       "id": "StardustCellStaff",
@@ -34788,9 +34828,10 @@ window.GUIDE = {
       ],
       "how": "Крафт из фрагментов звёздной пыли на Древнем манипуляторе.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Stardust%20Cell%20Staff",
+      "url": "https://terraria.wiki.gg/wiki/Stardust_Cell_Staff",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "HermesBoots": {
       "id": "HermesBoots",
@@ -34798,9 +34839,10 @@ window.GUIDE = {
       "requires": [],
       "how": "Найти в подземном сундуке. Можно заменить аналогом с тем же ускорением.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Hermes%20Boots",
+      "url": "https://terraria.wiki.gg/wiki/Hermes_Boots",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "CloudinaBottle": {
       "id": "CloudinaBottle",
@@ -34808,9 +34850,10 @@ window.GUIDE = {
       "requires": [],
       "how": "Найти в подземном сундуке; даёт дополнительный прыжок.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Cloud%20in%20a%20Bottle",
+      "url": "https://terraria.wiki.gg/wiki/Cloud_in_a_Bottle",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "BandofRegeneration": {
       "id": "BandofRegeneration",
@@ -34818,9 +34861,10 @@ window.GUIDE = {
       "requires": [],
       "how": "Найти в подземном сундуке; пассивная регенерация.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Band%20of%20Regeneration",
+      "url": "https://terraria.wiki.gg/wiki/Band_of_Regeneration",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "SharkToothNecklace": {
       "id": "SharkToothNecklace",
@@ -34828,9 +34872,10 @@ window.GUIDE = {
       "requires": [],
       "how": "Фармить Кровавую луну; дроп кровавых зомби и капельниц.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Shark%20Tooth%20Necklace",
+      "url": "https://terraria.wiki.gg/wiki/Shark_Tooth_Necklace",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "FeralClaws": {
       "id": "FeralClaws",
@@ -34838,9 +34883,10 @@ window.GUIDE = {
       "requires": [],
       "how": "Найти в сундуках джунглей или выловить в ящиках джунглей.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Feral%20Claws",
+      "url": "https://terraria.wiki.gg/wiki/Feral_Claws",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "NaturesGift": {
       "id": "NaturesGift",
@@ -34848,9 +34894,10 @@ window.GUIDE = {
       "requires": [],
       "how": "Срезать редкий синий цветок в подземных джунглях.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Nature%27s%20Gift",
+      "url": "https://terraria.wiki.gg/wiki/Nature%27s_Gift",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "EoCShield": {
       "id": "EoCShield",
@@ -34860,9 +34907,10 @@ window.GUIDE = {
       ],
       "how": "Дроп из мешка Глаза Ктулху. Не требуется для его первого убийства.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Shield%20of%20Cthulhu",
+      "url": "https://terraria.wiki.gg/wiki/Shield_of_Cthulhu",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "LightningBoots": {
       "id": "LightningBoots",
@@ -34873,9 +34921,10 @@ window.GUIDE = {
       ],
       "how": "Собрать Спектральные ботинки, Аглет и Браслет ветра в мастерской инженера. Ракетные ботинки продаёт спасённый Гоблин-инженер.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Lightning%20Boots",
+      "url": "https://terraria.wiki.gg/wiki/Lightning_Boots",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "CharmofMyths": {
       "id": "CharmofMyths",
@@ -34885,9 +34934,10 @@ window.GUIDE = {
       ],
       "how": "Объединить Философский камень с хардмод-мимика и Браслет регенерации в мастерской инженера.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Charm%20of%20Myths",
+      "url": "https://terraria.wiki.gg/wiki/Charm_of_Myths",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "StarVeil": {
       "id": "StarVeil",
@@ -34897,9 +34947,10 @@ window.GUIDE = {
       ],
       "how": "Объединить Звёздный плащ и Ожерелье с крестом с хардмод-мимиков в мастерской инженера.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Star%20Veil",
+      "url": "https://terraria.wiki.gg/wiki/Star_Veil",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "WarriorEmblem": {
       "id": "WarriorEmblem",
@@ -34909,9 +34960,10 @@ window.GUIDE = {
       ],
       "how": "Дроп Стены плоти; классовая эмблема воина.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Warrior%20Emblem",
+      "url": "https://terraria.wiki.gg/wiki/Warrior_Emblem",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "RangerEmblem": {
       "id": "RangerEmblem",
@@ -34921,9 +34973,10 @@ window.GUIDE = {
       ],
       "how": "Дроп Стены плоти; классовая эмблема стрелка.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Ranger%20Emblem",
+      "url": "https://terraria.wiki.gg/wiki/Ranger_Emblem",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "SorcererEmblem": {
       "id": "SorcererEmblem",
@@ -34933,9 +34986,10 @@ window.GUIDE = {
       ],
       "how": "Дроп Стены плоти; классовая эмблема мага.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Sorcerer%20Emblem",
+      "url": "https://terraria.wiki.gg/wiki/Sorcerer_Emblem",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "SummonerEmblem": {
       "id": "SummonerEmblem",
@@ -34945,9 +34999,10 @@ window.GUIDE = {
       ],
       "how": "Дроп Стены плоти; классовая эмблема призывателя.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Summoner%20Emblem",
+      "url": "https://terraria.wiki.gg/wiki/Summoner_Emblem",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "ManaFlower": {
       "id": "ManaFlower",
@@ -34958,9 +35013,10 @@ window.GUIDE = {
       ],
       "how": "Скрафтить Дар природы и зелье маны в мастерской инженера. В этом маршруте используется после Армии гоблинов.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Mana%20Flower",
+      "url": "https://terraria.wiki.gg/wiki/Mana_Flower",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "ManaCloak": {
       "id": "ManaCloak",
@@ -34972,7 +35028,7 @@ window.GUIDE = {
       ],
       "how": "Улучшить Цветок маны Звёздным плащом из хардмодных мимиков в мастерской инженера. Сохраняет автоматическое использование зелий маны и добавляет эффект звёзд при получении урона. Не отменяет манную болезнь.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Mana%20Cloak",
+      "url": "https://terraria.wiki.gg/wiki/Mana_Cloak",
       "recipe": {
         "ingredients": [
           [
@@ -34989,7 +35045,8 @@ window.GUIDE = {
         "text": "Цветок маны × 1; Звёздный плащ × 1",
         "station": "мастерская инженера"
       },
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "FleshKnuckles": {
       "id": "FleshKnuckles",
@@ -35001,7 +35058,7 @@ window.GUIDE = {
       ],
       "how": "Выбить с багряного мимика в хардмоде. В основной сборке можно также обменять Гнилые останки на Кастеты из плоти в мастерской инженера в биоме кладбища. Повышают агрессию на четыреста и дают восемь защиты. Нужен фарм мимика одного из двух злых биомов; сам переход в хардмод предмет не выдаёт.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Flesh%20Knuckles",
+      "url": "https://terraria.wiki.gg/wiki/Flesh_Knuckles",
       "recipe": {
         "ingredients": [
           [
@@ -35015,7 +35072,8 @@ window.GUIDE = {
         "text": "Гнилые останки × 1",
         "station": "мастерская инженера в биоме кладбища"
       },
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "PutridScent": {
       "id": "PutridScent",
@@ -35027,7 +35085,7 @@ window.GUIDE = {
       ],
       "how": "Выбить с мимика Порчи в хардмоде. Основная сборка разрешает обменять Кастеты из плоти на Гнилые останки в мастерской инженера в биоме кладбища. Даёт пять процентов урона, пять процентных пунктов крита и снижает агрессию на четыреста. Не заставляет босса игнорировать игрока.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Putrid%20Scent",
+      "url": "https://terraria.wiki.gg/wiki/Putrid_Scent",
       "recipe": {
         "ingredients": [
           [
@@ -35041,7 +35099,8 @@ window.GUIDE = {
         "text": "Кастеты из плоти × 1",
         "station": "мастерская инженера в биоме кладбища"
       },
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "HeroShield": {
       "id": "HeroShield",
@@ -35054,7 +35113,7 @@ window.GUIDE = {
       ],
       "how": "Объединить Щит паладина из усиленной Темницы и Кастеты из плоти в мастерской инженера. Даёт десять защиты, иммунитет к отбрасыванию и четыреста агрессии. При здоровье выше четверти максимума переносит часть урона ближайших союзников одной команды на владельца; необходимо следить за собственным здоровьем.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Hero%20Shield",
+      "url": "https://terraria.wiki.gg/wiki/Hero_Shield",
       "recipe": {
         "ingredients": [
           [
@@ -35071,7 +35130,8 @@ window.GUIDE = {
         "text": "Щит паладина × 1; Кастеты из плоти × 1",
         "station": "мастерская инженера"
       },
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "ArcaneFlower": {
       "id": "ArcaneFlower",
@@ -35083,7 +35143,7 @@ window.GUIDE = {
       ],
       "how": "Объединить Цветок маны и Гнилые останки в мастерской инженера. Сохраняет автоматическое использование зелий маны, уменьшает её расход и снижает агрессию на четыреста. Эфирный талисман не наследует снижение агрессии: после его изготовления в командной сборке Гнилые останки используется отдельно.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Arcane%20Flower",
+      "url": "https://terraria.wiki.gg/wiki/Arcane_Flower",
       "recipe": {
         "ingredients": [
           [
@@ -35100,7 +35160,8 @@ window.GUIDE = {
         "text": "Цветок маны × 1; Гнилые останки × 1",
         "station": "мастерская инженера"
       },
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "ApprenticeStaffT3": {
       "id": "ApprenticeStaffT3",
@@ -35111,9 +35172,10 @@ window.GUIDE = {
       ],
       "how": "Выбить с Бетси в третьем уровне Армии древних. В команде используется как дополнительный источник проклятия, снижающего защиту цели: обновлять эффект и возвращаться к основному оружию. Учитывать невосприимчивость конкретного босса; наличие посоха не гарантирует работу дебаффа на любой фазе.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Betsy%27s%20Wrath",
+      "url": "https://terraria.wiki.gg/wiki/Betsy%27s_Wrath",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "MagicQuiver": {
       "id": "MagicQuiver",
@@ -35123,9 +35185,10 @@ window.GUIDE = {
       ],
       "how": "Фармить скелетов-лучников в хардмодных пещерах. Для луков; для огнестрельного оружия этот слот можно отдать защите.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Magic%20Quiver",
+      "url": "https://terraria.wiki.gg/wiki/Magic_Quiver",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "FireGauntlet": {
       "id": "FireGauntlet",
@@ -35141,7 +35204,7 @@ window.GUIDE = {
       ],
       "how": "Объединить Механическую перчатку, Магмовый камень и восемь магматитовых слитков в мастерской инженера. Слитки добавлены основной сборкой и требуют добычи магматита после Голема; до его первого убийства используй Механическую перчатку. Магмовый камень и магматитовые слитки — разные компоненты.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_item_recipes#Accessories:~:text=Fire%20Gauntlet",
+      "url": "https://terraria.wiki.gg/wiki/Fire_Gauntlet",
       "recipe": {
         "ingredients": [
           [
@@ -35162,7 +35225,8 @@ window.GUIDE = {
         "text": "Механическая перчатка × 1; Магмовый камень × 1; Магматитовый слиток × 8",
         "station": "мастерская инженера"
       },
-      "wikiLabel": "Изменённый рецепт в вики основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "MechanicalGlove": {
       "id": "MechanicalGlove",
@@ -35177,7 +35241,7 @@ window.GUIDE = {
       ],
       "how": "Объединить Перчатку силы и Эмблему мстителя в мастерской инженера. Для эмблемы нужны эссенции трёх механических боссов. До Голема это доступная замена Огненной рукавице.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Mechanical%20Glove",
+      "url": "https://terraria.wiki.gg/wiki/Mechanical_Glove",
       "recipe": {
         "ingredients": [
           [
@@ -35194,7 +35258,8 @@ window.GUIDE = {
         "text": "Перчатка силы × 1; Эмблема мстителя × 1",
         "station": "мастерская инженера"
       },
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "AvengerEmblem": {
       "id": "AvengerEmblem",
@@ -35207,9 +35272,10 @@ window.GUIDE = {
       ],
       "how": "Скрафтить из классовой эмблемы и эссенций трёх механических боссов в мастерской инженера. Универсальный бонус урона; в комплекте перед Мутантом заменяет защитный аксессуар с отключёнными эффектами.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Avenger%20Emblem",
+      "url": "https://terraria.wiki.gg/wiki/Avenger_Emblem",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "SniperScope": {
       "id": "SniperScope",
@@ -35224,9 +35290,10 @@ window.GUIDE = {
       ],
       "how": "Объединить прицел из усиленной Темницы и эмблему уничтожителя в мастерской инженера. Эмблема уничтожителя требует Глаз Голема; здесь используется только после Голема.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Accessories:~:text=Sniper%20Scope",
+      "url": "https://terraria.wiki.gg/wiki/Sniper_Scope",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "FairyWings": {
       "id": "FairyWings",
@@ -35236,7 +35303,7 @@ window.GUIDE = {
       ],
       "how": "Скрафтить из двадцати эссенций полёта и ста пикси-пыли на обычной железной или свинцовой наковальне. Основная сборка убирает требование хардмодной наковальни, поэтому они доступны сразу после Стены плоти. Это стартовый вариант хардмода: дальше в таблице идут улучшения.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Wings#:~:text=Fairy%20Wings",
+      "url": "https://terraria.wiki.gg/wiki/Fairy_Wings",
       "recipe": {
         "ingredients": [
           [
@@ -35253,7 +35320,8 @@ window.GUIDE = {
         "text": "Эссенция полёта × 20; Пыльца пикси × 100",
         "station": "железная или свинцовая наковальня"
       },
-      "wikiLabel": "Крылья и изменения полёта в вики основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "FishronWings": {
       "id": "FishronWings",
@@ -35263,9 +35331,10 @@ window.GUIDE = {
       ],
       "how": "Дроп Герцога Рыброна после первой победы.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Wings#:~:text=Fishron%20Wings",
+      "url": "https://terraria.wiki.gg/wiki/Fishron_Wings",
       "recipe": null,
-      "wikiLabel": "Крылья и изменения полёта в вики основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "HarpyWings": {
       "id": "HarpyWings",
@@ -35276,7 +35345,7 @@ window.GUIDE = {
       ],
       "how": "Скрафтить из двадцати эссенций полёта и одного гигантского пера гарпии на мифриловой или орихалковой наковальне. Перо фармится с гарпий; в основной сборке крыльям увеличены время полёта и горизонтальная скорость. Это следующий этап после крыльев феи.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Wings#:~:text=Harpy%20Wings",
+      "url": "https://terraria.wiki.gg/wiki/Harpy_Wings",
       "recipe": {
         "ingredients": [
           [
@@ -35293,7 +35362,8 @@ window.GUIDE = {
         "text": "Эссенция полёта × 20; Гигантское перо гарпии × 1",
         "station": "мифриловая или орихалковая наковальня"
       },
-      "wikiLabel": "Крылья и изменения полёта в вики основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "SteampunkWings": {
       "id": "SteampunkWings",
@@ -35303,9 +35373,10 @@ window.GUIDE = {
       ],
       "how": "Купить у Паромеханика после Голема. Улучшение мобильности перед лунными событиями; крылья феи на этом этапе больше не предлагаются.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Wings#:~:text=Steampunk%20Wings",
+      "url": "https://terraria.wiki.gg/wiki/Steampunk_Wings",
       "recipe": null,
-      "wikiLabel": "Крылья и изменения полёта в вики основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "RainbowWings": {
       "id": "RainbowWings",
@@ -35316,9 +35387,10 @@ window.GUIDE = {
       ],
       "how": "Выбить с Императрицы света после первой победы. Отличаются быстрым вертикальным подъёмом: удерживай вверх при полёте. Для самого дропа дневное убийство не обязательно.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Wings#:~:text=Empress%20Wings",
+      "url": "https://terraria.wiki.gg/wiki/Empress_Wings",
       "recipe": null,
-      "wikiLabel": "Крылья и изменения полёта в вики основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "Murasama": {
       "id": "Murasama",
@@ -35330,6 +35402,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: Murasama.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Murasama",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Дополнительный крафт",
@@ -35354,6 +35427,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: SnowstormStaff.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Snowstorm_Staff",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -35394,7 +35468,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/SeashineSword.cs",
         "text": "Осколок жемчуга × 3; Морская призма × 7; Морской камень × 10",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "BrokenBiomeBlade": {
       "id": "BrokenBiomeBlade",
@@ -35433,7 +35508,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/BrokenBiomeBlade.cs",
         "text": "Аэриалитовый слиток × 10; Слиток адского камня × 10; Земля × 50; любой деревянный меч × 1; любой камень × 50",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "BallOFugu": {
       "id": "BallOFugu",
@@ -35444,7 +35520,8 @@ window.GUIDE = {
       "how": "Найти в древнем сундуке Бездны после Скелетрона. В установленной версии открытие привязано к победе над Скелетроном: теневой ключ не требуется. Это находка мира, а не дроп босса. Если этот сундук уже опустошён другим игроком, ищи остальные сундуки.",
       "source": "CalamityMod 2.2.4: BallOFugu.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Ball_O%27_Fugu",
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "FracturedArk": {
       "id": "FracturedArk",
@@ -35474,7 +35551,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/FracturedArk.cs",
         "text": "Зачарованный меч × 1; Очищенный гель × 10; медный или оловянный слиток × 10",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "StormSaber": {
       "id": "StormSaber",
@@ -35485,7 +35563,8 @@ window.GUIDE = {
       "how": "Фармить облачного элементаля в небе во время дождя в хардмоде. Меч с самонаводящимися снарядами — вариант вместо ледяного серпа.",
       "source": "CalamityMod 2.2.4: StormSaber.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Storm_Saber",
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "EntropicClaymore": {
       "id": "EntropicClaymore",
@@ -35508,7 +35587,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/EntropicClaymore.cs",
         "text": "Литой сгусток × 18",
         "station": "Древний манипулятор"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "StormRuler": {
       "id": "StormRuler",
@@ -35541,7 +35621,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/StormRuler.cs",
         "text": "Штормовая сабля × 1; Клинок ветра × 1; Вихревой фрагмент × 6",
         "station": "Древний манипулятор"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "ArkoftheElements": {
       "id": "ArkoftheElements",
@@ -35584,7 +35665,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/ArkoftheElements.cs",
         "text": "Ковчег древних × 1; Люминитовый слиток × 5; Сплав жизни × 5; Солнечный фрагмент × 5",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "StellarContempt": {
       "id": "StellarContempt",
@@ -35627,7 +35709,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/StellarContempt.cs",
         "text": "Молот падшего паладина × 1; Люминитовый слиток × 5; Солнечный фрагмент × 5; Ядро бедствия × 2",
         "station": "Древний манипулятор"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "ArkoftheCosmos": {
       "id": "ArkoftheCosmos",
@@ -35680,7 +35763,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/ArkoftheCosmos.cs",
         "text": "Галаксия × 1; Ковчег элементов × 1; Ауритовый слиток × 5",
         "station": "космическая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "TungstenEnchant": {
       "id": "TungstenEnchant",
@@ -35723,7 +35807,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Enchantments/TungstenEnchant.cs",
         "text": "Вольфрамовый шлем × 1; Вольфрамовая кольчуга × 1; Вольфрамовые поножи × 1; Вольфрамовый меч × 1; Линейка × 1; Катана × 1",
         "station": "демонический или багряный алтарь"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "DemonScythe": {
       "id": "DemonScythe",
@@ -35731,9 +35816,10 @@ window.GUIDE = {
       "requires": [],
       "how": "Выбить книгу у демонов в Аду до боссов. Дальний пронзающий вариант; фарм опасен для стартового персонажа, поэтому алмазный посох остаётся более простым вариантом получения.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Demon%20Scythe",
+      "url": "https://terraria.wiki.gg/wiki/Demon_Scythe",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "RavenStaff": {
       "id": "RavenStaff",
@@ -35744,9 +35830,10 @@ window.GUIDE = {
       ],
       "how": "Выбить с Тыквенного короля в Тыквенную луну после Плантеры. Ворон — альтернатива основному миньону, а не дополнительный бесплатный призыв сверх лимита слотов.",
       "source": "Terraria 1.4.4; изменения сборки",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Weapons:~:text=Raven%20Staff",
+      "url": "https://terraria.wiki.gg/wiki/Raven_Staff",
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "Barinade": {
       "id": "Barinade",
@@ -35758,6 +35845,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: Barinade.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Barinade",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -35808,7 +35896,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Ranged/FlurrystormCannon.cs",
         "text": "Снежковая пушка × 1; Нелегальные части оружия × 1; Аэриалитовый слиток × 10; Кость × 10; Осколок жемчуга × 10",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "FlarewingBow": {
       "id": "FlarewingBow",
@@ -35843,7 +35932,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Ranged/FlarewingBow.cs",
         "text": "Лук адского крыла × 1; Эссенция солнечного света × 5; Живой огонь × 50; Обсидиан × 10",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "MineralMortar": {
       "id": "MineralMortar",
@@ -35871,7 +35961,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Ranged/MineralMortar.cs",
         "text": "Запретный фрагмент × 2; адамантитовый или титановый слиток × 13",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "ClockworkBow": {
       "id": "ClockworkBow",
@@ -35898,7 +35989,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Ranged/ClockworkBow.cs",
         "text": "Люминитовый слиток × 5; Шестерня × 50",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "HyphaeRod": {
       "id": "HyphaeRod",
@@ -35910,6 +36002,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: HyphaeRod.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Hyphae_Rod",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -35946,7 +36039,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Magic/HellwingStaff.cs",
         "text": "Слиток адского камня × 10; Пепельная древесина × 10",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "BlackAnurian": {
       "id": "BlackAnurian",
@@ -35957,7 +36051,8 @@ window.GUIDE = {
       "how": "Найти в древнем сундуке Бездны после Скелетрона. В установленной версии открытие привязано к победе над Скелетроном: теневой ключ не требуется. Это находка мира, а не дроп босса. Если этот сундук уже опустошён другим игроком, ищи остальные сундуки.",
       "source": "CalamityMod 2.2.4: BlackAnurian.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Black_Anurian",
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "MagneticMeltdown": {
       "id": "MagneticMeltdown",
@@ -35985,7 +36080,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Magic/MagneticMeltdown.cs",
         "text": "Магнитная сфера × 1; Искривлённая пустота × 3",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "NebulousCataclysm": {
       "id": "NebulousCataclysm",
@@ -36022,7 +36118,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Magic/NebulousCataclysm.cs",
         "text": "Туманный арканум × 1; Вспышка туманности × 1; Космилитовый слиток × 8; Кошмарное топливо × 20",
         "station": "космическая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "ChronomancersScythe": {
       "id": "ChronomancersScythe",
@@ -36058,7 +36155,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Magic/ChronomancersScythe.cs",
         "text": "Ледяная коса × 1; Будильник × 1; Люминитовый слиток × 10; Эссенция Элеума × 6",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "SludgeSplotch": {
       "id": "SludgeSplotch",
@@ -36084,7 +36182,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/SludgeSplotch.cs",
         "text": "Гибельный гель × 50; материал Пожирателя миров или Мозга Ктулху × 8",
         "station": "вручную, без станции"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "ShinobiBlade": {
       "id": "ShinobiBlade",
@@ -36095,7 +36194,8 @@ window.GUIDE = {
       "how": "Фармить тёмных колдунов в Темнице после Скелетрона. Это дроп обычного врага, а не Скелетрона; в Мастере базовый шанс составляет один к десяти. Вариант скрытных атак перед Богом слизней и Стеной плоти.",
       "source": "CalamityMod 2.2.4: ShinobiBlade.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Shinobi_Blade",
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "EnchantedAxe": {
       "id": "EnchantedAxe",
@@ -36131,7 +36231,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/EnchantedAxe.cs",
         "text": "Железная франциска × 1; Упавшая звезда × 5; Осколок жемчуга × 10; Кость × 30",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "TwistingThunder": {
       "id": "TwistingThunder",
@@ -36166,7 +36267,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/TwistingThunder.cs",
         "text": "Штормовая бритва × 1; Нечестивая эссенция × 15; Бронированный панцирь × 3",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Valediction": {
       "id": "Valediction",
@@ -36177,7 +36279,8 @@ window.GUIDE = {
       "how": "Дроп мини-босса Акулы-жнеца в Бездне после Полтергаста. Вариант перед Пожирателем богов.",
       "source": "CalamityMod 2.2.4: Valediction.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Valediction",
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "EclipsesFall": {
       "id": "EclipsesFall",
@@ -36214,7 +36317,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/EclipsesFall.cs",
         "text": "Вега × 1; Ауритовый слиток × 5; Фрагмент тёмного солнца × 15",
         "station": "космическая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "BrittleStarStaff": {
       "id": "BrittleStarStaff",
@@ -36226,6 +36330,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: BrittleStarStaff.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Brittle_Star_Staff",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -36247,7 +36352,8 @@ window.GUIDE = {
       "how": "Фармить тёмных колдунов в Темнице после Скелетрона. Это дроп обычного врага, а не Скелетрона; в Мастере базовый шанс составляет один к десяти. Альтернатива Посоху селёдки для заполнения слотов миньонов.",
       "source": "CalamityMod 2.2.4: StaffOfNecrosteocytes.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Staff_of_Necrosteocytes",
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "CinderBlossomStaff": {
       "id": "CinderBlossomStaff",
@@ -36277,7 +36383,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Summon/CinderBlossomStaff.cs",
         "text": "Слиток адского камня × 10; Пепельная древесина × 10; Огнецвет × 5",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "EyeOfNight": {
       "id": "EyeOfNight",
@@ -36317,7 +36424,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Summon/EyeOfNight.cs",
         "text": "Гнусный кормилец × 1; Посох некростеоцита × 1; Посох духа белладонны × 1; Посох беса × 1; Очищенный гель × 10",
         "station": "демонический или багряный алтарь"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "VoidConcentrationStaff": {
       "id": "VoidConcentrationStaff",
@@ -36329,6 +36437,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: VoidConcentrationStaff.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Void_Concentration_Staff",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -36373,7 +36482,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/QuiverofNihility.cs",
         "text": "Вихревой фрагмент × 5; Тёмная плазма × 3; магический, расплавленный колчан или колчан преследователя × 1",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "UrchinMace": {
       "id": "UrchinMace",
@@ -36395,7 +36505,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/UrchinMace.cs",
         "text": "Морские останки × 3",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "WindBlade": {
       "id": "WindBlade",
@@ -36417,7 +36528,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/WindBlade.cs",
         "text": "Аэриалитовый слиток × 10",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "GeliticBlade": {
       "id": "GeliticBlade",
@@ -36444,7 +36556,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/GeliticBlade.cs",
         "text": "Очищенный гель × 14; Гибельный гель × 14",
         "station": "затвердитель"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "TrueCausticEdge": {
       "id": "TrueCausticEdge",
@@ -36475,7 +36588,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/TrueCausticEdge.cs",
         "text": "Порочный клинок × 1; Паучий клык × 8; проклятое пламя или ихор × 8",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "MajesticGuard": {
       "id": "MajesticGuard",
@@ -36514,7 +36628,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/MajesticGuard.cs",
         "text": "Золотой меч × 1; Эссенция солнечного света × 3; Эссенция хаоса × 3; Эссенция Элеума × 3; мифриловый или орихалковый слиток × 15",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "DarklightGreatsword": {
       "id": "DarklightGreatsword",
@@ -36547,7 +36662,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/DarklightGreatsword.cs",
         "text": "Крионитовый слиток × 12; Эссенция света × 1; Эссенция ночи × 1",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Brimlash": {
       "id": "Brimlash",
@@ -36575,7 +36691,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/Brimlash.cs",
         "text": "Нечестивое ядро × 8; Пепел бедствия × 8",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "RegulusRiot": {
       "id": "RegulusRiot",
@@ -36587,6 +36704,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: RegulusRiot.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Regulus_Riot",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -36635,7 +36753,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/RadiantStar.cs",
         "text": "Призмаллин × 1; Астральный слиток × 12; Упавшая звезда × 10; Звёздная сажа × 15",
         "station": "Древний манипулятор"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Nebulash": {
       "id": "Nebulash",
@@ -36647,6 +36766,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: Nebulash.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Nebulash",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -36669,6 +36789,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: HolyCollider.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Holy_Collider",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -36713,7 +36834,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/Terratomere.cs",
         "text": "Терра-клинок × 1; Цветонитовый слиток × 18",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "EmpyreanKnives": {
       "id": "EmpyreanKnives",
@@ -36745,7 +36867,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/EmpyreanKnives.cs",
         "text": "Вампирские ножи × 1; Чудовищные ножи × 1; Искривлённая пустота × 3",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "MawOfInfinity": {
       "id": "MawOfInfinity",
@@ -36757,6 +36880,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: MawOfInfinity.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Maw_of_Infinity",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -36802,7 +36926,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/GreatswordofJudgement.cs",
         "text": "Люминитовый слиток × 7; Эфир × 10; Ядро бедствия × 1",
         "station": "Древний манипулятор"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Orderbringer": {
       "id": "Orderbringer",
@@ -36844,7 +36969,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/Orderbringer.cs",
         "text": "Двуручный меч правосудия × 1; Ауритовый слиток × 5; Сплав жизни × 5",
         "station": "космическая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "DragonPow": {
       "id": "DragonPow",
@@ -36907,7 +37033,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/DragonPow.cs",
         "text": "Траурная звезда × 1; Дао мощь × 1; Цветущая мощь × 1; Кистенерон × 1; Шар фугу × 1; Перекати-поле × 1; Ауритовый слиток × 5; Фрагмент души Ярона × 4",
         "station": "космическая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Exoblade": {
       "id": "Exoblade",
@@ -36963,7 +37090,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/Exoblade.cs",
         "text": "Терратомир × 1; Скорость света × 1; Энтропийный клеймор × 1; Меч пламени и мороза × 1; Дивная материя × 1",
         "station": "кузня Дрэйдона"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "DraconicDestruction": {
       "id": "DraconicDestruction",
@@ -37006,7 +37134,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Melee/DraconicDestruction.cs",
         "text": "Тенефазовый слиток × 5; Солнечный фрагмент × 10; Эссенция солнечного света × 3; Эссенция Элеума × 3",
         "station": "кузня Дрэйдона"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Fungicide": {
       "id": "Fungicide",
@@ -37018,6 +37147,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: Fungicide.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Fungicide",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -37050,7 +37180,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Ranged/Galeforce.cs",
         "text": "Аэриалитовый слиток × 10",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Archerfish": {
       "id": "Archerfish",
@@ -37061,7 +37192,8 @@ window.GUIDE = {
       "how": "Найти в древнем сундуке Бездны после Скелетрона. В установленной версии открытие привязано к победе над Скелетроном: теневой ключ не требуется. Это находка мира, а не дроп босса. Если этот сундук уже опустошён другим игроком, ищи остальные сундуки.",
       "source": "CalamityMod 2.2.4: Archerfish.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Archerfish",
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "OverloadedBlaster": {
       "id": "OverloadedBlaster",
@@ -37072,7 +37204,8 @@ window.GUIDE = {
       "how": "Дроп Бога слизней.",
       "source": "CalamityMod 2.2.4: OverloadedBlaster.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Overloaded_Blaster",
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "DarkechoGreatbow": {
       "id": "DarkechoGreatbow",
@@ -37096,7 +37229,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Ranged/DarkechoGreatbow.cs",
         "text": "Крионитовый слиток × 12",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Megalodon": {
       "id": "Megalodon",
@@ -37133,7 +37267,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Ranged/Megalodon.cs",
         "text": "Мега-акула × 1; Брызгун × 1; Клетки глубин × 15; Мох × 10",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Virulence": {
       "id": "Virulence",
@@ -37145,6 +37280,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: Virulence.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Virulence",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -37204,7 +37340,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Ranged/PlanetaryAnnihilation.cs",
         "text": "Весенний болтер × 1; Штормовой лук Дедала × 1; Люминитовый слиток × 5; Сплав жизни × 5; Вихревой фрагмент × 5",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "AngelicShotgun": {
       "id": "AngelicShotgun",
@@ -37236,7 +37373,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Ranged/AngelicShotgun.cs",
         "text": "Солнечная пластина × 75; Божественная жеода × 15; Эссенция солнечного света × 7",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "TelluricGlare": {
       "id": "TelluricGlare",
@@ -37248,6 +37386,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: TelluricGlare.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Telluric_Glare",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -37270,6 +37409,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: FetidEmesis.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Fetid_Emesis",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -37292,6 +37432,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: ThreadOfEradication.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Thread_of_Eradication",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -37340,7 +37481,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Ranged/Starmada.cs",
         "text": "Звёздный флот × 1; Ауритовый слиток × 5; Кластер экзодиума × 25",
         "station": "космическая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "TyrannysEnd": {
       "id": "TyrannysEnd",
@@ -37386,7 +37528,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Ranged/TyrannysEnd.cs",
         "text": "Рубико Прайм × 1; Антиматериальная винтовка × 1; Ауритовый слиток × 5; Сплав жизни × 3",
         "station": "космическая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Photoviscerator": {
       "id": "Photoviscerator",
@@ -37435,7 +37578,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Ranged/Photoviscerator.cs",
         "text": "Хроматическое извержение × 1; Пекло Галлея × 1; Ветер погасшего солнца × 1; Дивная материя × 1",
         "station": "кузня Дрэйдона"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "SomaPrime": {
       "id": "SomaPrime",
@@ -37477,7 +37621,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Ranged/SomaPrime.cs",
         "text": "Погибель королей × 1; Магнум Венеры × 1; Тенефазовый слиток × 5",
         "station": "кузня Дрэйдона"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "CoralSpout": {
       "id": "CoralSpout",
@@ -37503,7 +37648,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Magic/CoralSpout.cs",
         "text": "Морские останки × 2; Коралл × 5",
         "station": "книжный шкаф"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Tradewinds": {
       "id": "Tradewinds",
@@ -37525,7 +37671,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Magic/Tradewinds.cs",
         "text": "Аэриалитовый слиток × 10",
         "station": "книжный шкаф"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "NightsRay": {
       "id": "NightsRay",
@@ -37565,7 +37712,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Magic/NightsRay.cs",
         "text": "Мерзкая колючка × 1; Магическая ракета × 1; Палочка для заморозки × 1; Янтарный посох × 1; Очищенный гель × 10",
         "station": "демонический или багряный алтарь"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "FrigidflashBolt": {
       "id": "FrigidflashBolt",
@@ -37600,7 +37748,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Magic/FrigidflashBolt.cs",
         "text": "Морозная стрела × 1; Огненная стрела × 1; Эссенция хаоса × 5; Эссенция Элеума × 5",
         "station": "книжный шкаф"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Cryophobia": {
       "id": "Cryophobia",
@@ -37614,7 +37763,8 @@ window.GUIDE = {
       "how": "Купить у Архимага после Криогена и победы над всеми тремя механическими боссами. В установленной версии это товар магазина, а не дроп Криогена.",
       "source": "CalamityMod 2.2.4: Cryophobia.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Cryophobia",
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "SHPC": {
       "id": "SHPC",
@@ -37658,7 +37808,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Magic/SHPC.cs",
         "text": "Прототип плазменного привода × 1; Подозрительный лом × 4; Эссенция ужаса × 5; Эссенция могущества × 5; Эссенция прозрения × 5; мифриловый или орихалковый слиток × 10",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "TheSwarmer": {
       "id": "TheSwarmer",
@@ -37691,7 +37842,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Magic/TheSwarmer.cs",
         "text": "Пчеломёт × 1; Осомёт × 1; Фрагмент звёздной пыли × 6",
         "station": "Древний манипулятор"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "UltraLiquidator": {
       "id": "UltraLiquidator",
@@ -37732,7 +37884,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Magic/UltraLiquidator.cs",
         "text": "Инфернальный разлом × 1; Водный скипетр × 1; Люминитовый слиток × 5; Фрагмент туманности × 5",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "PurgeGuzzler": {
       "id": "PurgeGuzzler",
@@ -37744,6 +37897,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: PurgeGuzzler.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Purge_Guzzler",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -37787,7 +37941,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Magic/VenusianTrident.cs",
         "text": "Адский трезубец × 1; Губительная душа × 2; Искривлённая пустота × 1",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "DarkSpark": {
       "id": "DarkSpark",
@@ -37825,7 +37980,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Magic/DarkSpark.cs",
         "text": "Последняя призма × 1; Тёмная плазма × 10; Губительная душа × 20; Божественная жеода × 30",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "HyperdeathRiftScepter": {
       "id": "HyperdeathRiftScepter",
@@ -37837,6 +37993,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: HyperdeathRiftScepter.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Hyperdeath_Rift_Scepter",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -37881,7 +38038,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Magic/VoidVortex.cs",
         "text": "Гальванический максимум × 1; Ауритовый слиток × 5",
         "station": "космическая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "VividClarity": {
       "id": "VividClarity",
@@ -37941,7 +38099,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Magic/VividClarity.cs",
         "text": "Нуклеосинтез × 1; Призрачная ярость × 1; Посох теневой стрелы × 1; Ультраликвидатор × 1; Дивная материя × 1",
         "station": "кузня Дрэйдона"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Apotheosis": {
       "id": "Apotheosis",
@@ -37995,7 +38154,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Magic/Apotheosis.cs",
         "text": "Книга заклинаний × 1; Космический разряд × 1; Марионетка Пожирателя пустоты × 2; Пасть бесконечности × 2; Тенефазовый слиток × 5; Космилитовый слиток × 33; Эссенция восходящего духа × 11",
         "station": "кузня Дрэйдона"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Crystalline": {
       "id": "Crystalline",
@@ -38023,7 +38183,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/Crystalline.cs",
         "text": "Вульфрумовый нож × 1; Алмаз × 3; Упавшая звезда × 3",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "GildedDagger": {
       "id": "GildedDagger",
@@ -38043,7 +38204,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/GildedDagger.cs",
         "text": "Золотой слиток × 12",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "SeafoamBomb": {
       "id": "SeafoamBomb",
@@ -38073,7 +38235,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/SeafoamBomb.cs",
         "text": "Бомба × 25; Морская призма × 10; Осколок жемчуга × 1",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Mycoroot": {
       "id": "Mycoroot",
@@ -38085,6 +38248,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: Mycoroot.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Mycoroot",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -38117,7 +38281,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/Turbulance.cs",
         "text": "Аэриалитовый слиток × 10",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Lionfish": {
       "id": "Lionfish",
@@ -38128,7 +38293,8 @@ window.GUIDE = {
       "how": "Найти в древнем сундуке Бездны после Скелетрона. В установленной версии открытие привязано к победе над Скелетроном: теневой ключ не требуется. Это находка мира, а не дроп босса. Если этот сундук уже опустошён другим игроком, ищи остальные сундуки.",
       "source": "CalamityMod 2.2.4: Lionfish.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Lionfish",
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "GelDart": {
       "id": "GelDart",
@@ -38155,7 +38321,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/GelDart.cs",
         "text": "Очищенный гель × 14; Гибельный гель × 14",
         "station": "затвердитель"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Prismalline": {
       "id": "Prismalline",
@@ -38186,7 +38353,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/Prismalline.cs",
         "text": "Кристаллин × 1; Панцирь моллюска × 5; Морская призма × 5",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "KelvinCatalyst": {
       "id": "KelvinCatalyst",
@@ -38229,7 +38397,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/KelvinCatalyst.cs",
         "text": "Ледяная звезда × 1; Лавина × 1; Лук изморози × 1; Ледокол × 1; Посох снежной бури × 1; Эссенция Элеума × 10",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "SpearofDestiny": {
       "id": "SpearofDestiny",
@@ -38270,7 +38439,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/SpearofDestiny.cs",
         "text": "Проклятый кинжал × 1; Освящённый слиток × 7; Эссенция ужаса × 5; Эссенция могущества × 5; Эссенция прозрения × 5",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Plaguenade": {
       "id": "Plaguenade",
@@ -38297,7 +38467,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/Plaguenade.cs",
         "text": "Пчелоната × 100; Канистра с клетками чумы × 15",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Malachite": {
       "id": "Malachite",
@@ -38309,6 +38480,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: Malachite.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Malachite",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -38331,6 +38503,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: TheSyringe.cs",
       "url": "https://calamitymod.wiki.gg/wiki/The_Syringe",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -38364,7 +38537,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/LunarKunai.cs",
         "text": "Люминитовый слиток × 5",
         "station": "Древний манипулятор"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "ProfanedPartisan": {
       "id": "ProfanedPartisan",
@@ -38393,7 +38567,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/ProfanedPartisan.cs",
         "text": "Копьё палеолита × 1; Нечестивая эссенция × 25",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "TarragonThrowingDart": {
       "id": "TarragonThrowingDart",
@@ -38417,7 +38592,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/TarragonThrowingDart.cs",
         "text": "Цветонитовый слиток × 12",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "MoltenAmputator": {
       "id": "MoltenAmputator",
@@ -38429,6 +38605,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: MoltenAmputator.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Molten_Amputator",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -38451,7 +38628,8 @@ window.GUIDE = {
       "how": "Дроп акулы-жнеца в Бездне после Полтергаста.",
       "source": "CalamityMod 2.2.4: DeepSeaDumbbell.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Deep_Sea_Dumbbell",
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "SealedSingularity": {
       "id": "SealedSingularity",
@@ -38481,7 +38659,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/SealedSingularity.cs",
         "text": "Пылевая буря в банке × 1; Тёмная плазма × 3",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "ExecutionersBlade": {
       "id": "ExecutionersBlade",
@@ -38504,7 +38683,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/ExecutionersBlade.cs",
         "text": "Космилитовый слиток × 10",
         "station": "космическая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "DimensionTearingDisk": {
       "id": "DimensionTearingDisk",
@@ -38516,6 +38696,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: DimensionTearingDisk.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Dimension-Tearing_Disk",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -38563,7 +38744,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/DynamicPursuer.cs",
         "text": "Разрывающий измерения диск × 1; П-ЛЗР: Воздушный наводчик × 1; Ауритовый слиток × 5",
         "station": "космическая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Seraphim": {
       "id": "Seraphim",
@@ -38600,7 +38782,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/Seraphim.cs",
         "text": "Расколотый рассвет × 1; Ауритовый слиток × 5",
         "station": "космическая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Celestus": {
       "id": "Celestus",
@@ -38655,7 +38838,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/Celestus.cs",
         "text": "Отскакивающая радуга × 1; Раскалённый ампутатор × 1; Субдукционный нарезатель × 1; Зачарованный топор × 1; Дивная материя × 1",
         "station": "кузня Дрэйдона"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Supernova": {
       "id": "Supernova",
@@ -38713,7 +38897,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Rogue/Supernova.cs",
         "text": "Запечатанная сингулярность × 1; Звезда разрушения × 1; Крушители целостности × 1; Баллистическая отравленная бомба × 1; Дивная материя × 1",
         "station": "кузня Дрэйдона"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "BelladonnaSpiritStaff": {
       "id": "BelladonnaSpiritStaff",
@@ -38745,7 +38930,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Summon/BelladonnaSpiritStaff.cs",
         "text": "Лоза × 4; Споры джунглей × 5; Жало × 8; Красная древесина × 25",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "SunSpiritStaff": {
       "id": "SunSpiritStaff",
@@ -38773,7 +38959,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Summon/SunSpiritStaff.cs",
         "text": "Янтарь × 5; Жвало муравьиного льва × 3; Пальмовая древесина × 10",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "HerringStaff": {
       "id": "HerringStaff",
@@ -38784,7 +38971,8 @@ window.GUIDE = {
       "how": "Найти в древнем сундуке Бездны после Скелетрона. В установленной версии открытие привязано к победе над Скелетроном: теневой ключ не требуется. Это находка мира, а не дроп босса. Если этот сундук уже опустошён другим игроком, ищи остальные сундуки.",
       "source": "CalamityMod 2.2.4: HerringStaff.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Herring_Staff",
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "SlimePuppetStaff": {
       "id": "SlimePuppetStaff",
@@ -38811,7 +38999,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Summon/SlimePuppetStaff.cs",
         "text": "Очищенный гель × 14; Гибельный гель × 14",
         "station": "затвердитель"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "AncientIceChunk": {
       "id": "AncientIceChunk",
@@ -38823,6 +39012,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: AncientIceChunk.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Ancient_Ice_Chunk",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Дополнительный крафт",
@@ -38856,7 +39046,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Summon/DaedalusGolemStaff.cs",
         "text": "Крионитовый слиток × 12",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "DormantBrimseeker": {
       "id": "DormantBrimseeker",
@@ -38868,6 +39059,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: DormantBrimseeker.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Dormant_Brimseeker",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -38908,7 +39100,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Summon/PlantationStaff.cs",
         "text": "Глаз ночи × 1; Живой осколок × 12",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "ResurrectionButterfly": {
       "id": "ResurrectionButterfly",
@@ -38947,7 +39140,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Summon/ResurrectionButterfly.cs",
         "text": "Сплав жизни × 5; Пыльца бабочки × 2; Шёлк × 40; Эктоплазма × 5",
         "station": "ткацкий станок"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "FuelCellBundle": {
       "id": "FuelCellBundle",
@@ -38959,6 +39153,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: FuelCellBundle.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Fuel_Cell_Bundle",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -39018,7 +39213,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Summon/LegionofCelestia.cs",
         "text": "Посох плантации × 1; Посох кинжалов × 1; Люминитовый слиток × 5; Сплав жизни × 5; Фрагмент звёздной пыли × 5",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "ViridVanguard": {
       "id": "ViridVanguard",
@@ -39055,7 +39251,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Summon/ViridVanguard.cs",
         "text": "Магматическое извержение × 1; Паразитный росток × 1; Цветонитовый слиток × 12",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "EtherealSubjugator": {
       "id": "EtherealSubjugator",
@@ -39067,6 +39264,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: EtherealSubjugator.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Ethereal_Subjugator",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -39089,6 +39287,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: Cosmilamp.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Cosmilamp",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -39111,6 +39310,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: VoidEaterMarionette.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Void_Eater_Marionette",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -39133,6 +39333,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: YharonsKindleStaff.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Yharon%27s_Kindle_Staff",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -39199,7 +39400,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Weapons.Summon/CosmicImmaterializer.cs",
         "text": "Легион Селестии × 1; Эфирный покоритель × 1; Космилампа × 1; Плач кальмара × 1; Дивная материя × 1",
         "station": "кузня Дрэйдона"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Metastasis": {
       "id": "Metastasis",
@@ -39211,7 +39413,8 @@ window.GUIDE = {
       "how": "Эксгумация Марионетки пожирателя пустоты у Каламитас после победы над ней. Нужно 4 слота миньонов.",
       "source": "CalamityMod 2.2.4: Metastasis.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Metastasis",
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "RoverDrive": {
       "id": "RoverDrive",
@@ -39221,6 +39424,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: RoverDrive.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Rover_Drive",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Дополнительный крафт",
@@ -39238,6 +39442,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: WulfrumBattery.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Wulfrum_Battery",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Дополнительный крафт",
@@ -39257,6 +39462,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: VoltaicJelly.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Voltaic_Jelly",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Дополнительный крафт",
@@ -39294,7 +39500,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/CoinofDeceit.cs",
         "text": "медный или оловянный слиток × 12; демонитовый или кримтановый слиток × 8",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "OrnateShield": {
       "id": "OrnateShield",
@@ -39323,7 +39530,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/OrnateShield.cs",
         "text": "Крионитовый слиток × 12; Осколок кристалла × 20",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "AngelTreads": {
       "id": "AngelTreads",
@@ -39372,7 +39580,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/AngelTreads.cs",
         "text": "Ботинки Зефира × 1; Кольцо гарпии × 1; Эссенция солнечного света × 5; Эссенция ужаса × 1; Эссенция могущества × 1; Эссенция прозрения × 1",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "AsgardsValor": {
       "id": "AsgardsValor",
@@ -39408,7 +39617,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/AsgardsValor.cs",
         "text": "Украшенный щит × 1; Освящённый слиток × 5; Ядро бедствия × 1",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "TheCommunity": {
       "id": "TheCommunity",
@@ -39420,6 +39630,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: TheCommunity.cs",
       "url": "https://calamitymod.wiki.gg/wiki/The_Community",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -39498,7 +39709,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/TheAbsorber.cs",
         "text": "Великий желатин × 1; Бароклешня × 1; Гигантский черепаший панцирь × 1; Панцирь моллюска × 5; Литой сгусток × 14",
         "station": "Древний манипулятор"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "ElysianAegis": {
       "id": "ElysianAegis",
@@ -39509,7 +39721,8 @@ window.GUIDE = {
       "how": "Получить после победы над Провиденс. В Каламити 2.2.4 Элизийская эгида и крылья выпадают независимо от выбора Ада или Освящения; старое разделение дропа по биому здесь не применяется.",
       "source": "CalamityMod 2.2.4: ElysianAegis.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Elysian_Aegis",
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "TheSponge": {
       "id": "TheSponge",
@@ -39549,7 +39762,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/TheSponge.cs",
         "text": "Электропривод вездехода × 1; Загадочная электроника × 10; Сомнительная пластина × 20; Космилитовый слиток × 5; Эссенция восходящего духа × 4",
         "station": "космическая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "AsgardianAegis": {
       "id": "AsgardianAegis",
@@ -39593,7 +39807,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/AsgardianAegis.cs",
         "text": "Доблесть Асгарда × 1; Элизийская эгида × 1; Космилитовый слиток × 10; Эссенция восходящего духа × 4",
         "station": "космическая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "RampartofDeities": {
       "id": "RampartofDeities",
@@ -39640,7 +39855,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/RampartofDeities.cs",
         "text": "Замороженный щит × 1; Божественный амулет × 1; Ауритовый слиток × 5; Эссенция восходящего духа × 4",
         "station": "космическая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "ElementalGauntlet": {
       "id": "ElementalGauntlet",
@@ -39674,7 +39890,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/ElementalGauntlet.cs",
         "text": "Огненная рукавица × 1; Эссенция восходящего духа × 4",
         "station": "космическая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "DeadshotBrooch": {
       "id": "DeadshotBrooch",
@@ -39705,7 +39922,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/DeadshotBrooch.cs",
         "text": "Эмблема стрелка × 1; Ядро бедствия × 2",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "SigilofCalamitas": {
       "id": "SigilofCalamitas",
@@ -39741,7 +39959,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/SigilofCalamitas.cs",
         "text": "Неземная эмблема × 1; Магматитовый слиток × 8; Пепел бедствия × 15",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "RogueEmblem": {
       "id": "RogueEmblem",
@@ -39753,6 +39972,7 @@ window.GUIDE = {
       "source": "CalamityMod 2.2.4: RogueEmblem.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Rogue_Emblem",
       "recipe": null,
+      "wikiLabel": "Страница предмета ↗",
       "otherWays": [
         {
           "label": "Из мешка или трофея",
@@ -39795,7 +40015,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/RuinMedallion.cs",
         "text": "Монета обмана × 1; Нечестивое ядро × 4; Эссенция хаоса × 2",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "AbyssalMirror": {
       "id": "AbyssalMirror",
@@ -39834,7 +40055,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/AbyssalMirror.cs",
         "text": "Зеркало миражей × 1; Чернильная бомба × 1; Клетки глубин × 20; Люменил × 15",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "EclipseMirror": {
       "id": "EclipseMirror",
@@ -39874,7 +40096,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/EclipseMirror.cs",
         "text": "Зеркало бездны × 1; Ножны тёмной материи × 1; Фрагмент тёмного солнца × 20",
         "station": "космическая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Nucleogenesis": {
       "id": "Nucleogenesis",
@@ -39919,7 +40142,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/Nucleogenesis.cs",
         "text": "Звёздно-заражённый генератор × 1; Проклятие Статиса × 1; Эссенция восходящего духа × 4",
         "station": "космическая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "SkylineWings": {
       "id": "SkylineWings",
@@ -39945,7 +40169,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories.Wings/SkylineWings.cs",
         "text": "Аэриалитовый слиток × 10; Перо × 5",
         "station": "железная или свинцовая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "MoonWalkers": {
       "id": "MoonWalkers",
@@ -39985,7 +40210,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories.Wings/MoonWalkers.cs",
         "text": "Ботинки Эола × 1; Эссенция полёта × 20; Люминитовый слиток × 10",
         "station": "Древний манипулятор"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "VoidStriders": {
       "id": "VoidStriders",
@@ -40032,7 +40258,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories.Wings/VoidStriders.cs",
         "text": "Луноходы × 1; Бронированный панцирь × 3; Искривлённая пустота × 3; Тёмная плазма × 3",
         "station": "Древний манипулятор"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "SeraphTracers": {
       "id": "SeraphTracers",
@@ -40077,7 +40304,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories.Wings/SeraphTracers.cs",
         "text": "Пустотные скороходы × 1; Ауритовый слиток × 5; Эссенция восходящего духа × 3",
         "station": "космическая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "StatisBlessing": {
       "id": "StatisBlessing",
@@ -40119,7 +40347,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/StatisBlessing.cs",
         "text": "Папирусный скарабей × 1; Ожерелье пигмеев × 1; Эмблема призывателя × 1; Святая вода × 30; Эссенция солнечного света × 5",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "StatisCurse": {
       "id": "StatisCurse",
@@ -40155,7 +40384,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/StatisCurse.cs",
         "text": "Благословение Статиса × 1; Первый теневой огонь × 1; Фрагмент звёздной пыли × 6",
         "station": "Древний манипулятор"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "ManaPolarizer": {
       "id": "ManaPolarizer",
@@ -40167,7 +40397,8 @@ window.GUIDE = {
       "how": "Дроп гигантского моллюска в хардмоде; не относится к дропу Криогена.",
       "source": "CalamityMod 2.2.4: ManaPolarizer.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Mana_Polarizer",
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "AeolusBoots": {
       "id": "AeolusBoots",
@@ -40217,7 +40448,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Masomode/AeolusBoots.cs",
         "text": "Ангельские ботфорты × 1; Ботинки амфибии × 1; Сказочные ботинки × 1; Дюноходные ботинки × 1; Девиантная энергия × 10; Живой осколок × 10",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "AerospecEnchant": {
       "id": "AerospecEnchant",
@@ -40259,7 +40491,8 @@ window.GUIDE = {
         "source": "FargowiltasCrossmod/FargowiltasCrossmod.Content.Calamity.Items.Accessories.Enchantments/AerospecEnchant.cs",
         "text": "Аэрофазовый нагрудник × 1; Аэрофазовые поножи × 1; Турбулентность × 1; Небесная глазурь × 1; Ветер перемен × 1; любой аэрофазовый головной убор × 1",
         "station": "демонический или багряный алтарь"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "StatigelEnchant": {
       "id": "StatigelEnchant",
@@ -40303,7 +40536,8 @@ window.GUIDE = {
         "source": "FargowiltasCrossmod/FargowiltasCrossmod.Content.Calamity.Items.Accessories.Enchantments/StatigelEnchant.cs",
         "text": "Статигелевый доспех × 1; Статигелевые поножи × 1; Клинок шиноби × 1; Перегруженный бластер × 1; Гелевый дротик × 1; любой статигелевый головной убор × 1",
         "station": "демонический или багряный алтарь"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "DaedalusEnchant": {
       "id": "DaedalusEnchant",
@@ -40348,7 +40582,8 @@ window.GUIDE = {
         "source": "FargowiltasCrossmod/FargowiltasCrossmod.Content.Calamity.Items.Accessories.Enchantments/DaedalusEnchant.cs",
         "text": "Нагрудник Дедала × 1; Поножи Дедала × 1; Большой лук тёмного эха × 1; Душа Криогена × 1; Древняя ледяная глыба × 1; любой головной убор Дедала × 1",
         "station": "хрустальный шар"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "BerserkerSoul": {
       "id": "BerserkerSoul",
@@ -40439,7 +40674,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Souls/BerserkerSoul.cs",
         "text": "Эссенция варвара × 1; Жалящее ожерелье × 1; Сумка для йо-йо × 1; Неземная ракушка × 1; Элементальная рукавица × 1; Знак храбрости × 1; Осквернённый двуручный меч × 1; Дар Нептуна × 1; Дьявольское опустошение × 1; Вершитель правосудия × 1; Драконий бах × 1; Мерзкая энергия × 10",
         "station": "Космическое горнило"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "SnipersSoul": {
       "id": "SnipersSoul",
@@ -40522,7 +40758,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Souls/SnipersSoul.cs",
         "text": "Разведывательный прицел × 1; Эссенция стрелка × 1; Подсумок сокрушителя измерений × 1; Колчан небытия × 1; Морской дракон × 1; Жемчужный бог × 1; Звездопокалипсис × 1; Конец тирании × 1; Драталиорн × 1; Мерзкая энергия × 10",
         "station": "Космическое горнило"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "ArchWizardsSoul": {
       "id": "ArchWizardsSoul",
@@ -40597,7 +40834,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Souls/ArchWizardsSoul.cs",
         "text": "Неземные наручники × 1; Эссенция подмастерья × 1; Эфирный талисман × 1; Шёпот эфира × 1; Тёмная искра × 1; Омикрон × 1; Горизонт событий × 1; Пустотный вихрь × 1; Мерзкая энергия × 10",
         "station": "Космическое горнило"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "ConjuristsSoul": {
       "id": "ConjuristsSoul",
@@ -40687,7 +40925,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Souls/ConjuristsSoul.cs",
         "text": "Пояс монаха × 1; Щит оруженосца × 1; Баклер охотницы × 1; Шарф подмастерья × 1; Эссенция оккультиста × 1; Нуклеогенез × 1; Эфирный покоритель × 1; Мертвенная падаль × 1; Посох вороньего предвестника × 1; Одержимость саросом × 1; Воспламеняющий посох Ярона × 1; Мерзкая энергия × 10",
         "station": "Космическое горнило"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "VagabondsSoul": {
       "id": "VagabondsSoul",
@@ -40764,7 +41003,8 @@ window.GUIDE = {
         "source": "FargowiltasCrossmod/FargowiltasCrossmod.Content.Calamity.Items.Accessories.Souls/VagabondsSoul.cs",
         "text": "Эссенция бандита × 1; Зеркало затмения × 1; Нанотехнология × 1; Прощание × 1; Божья паранойя × 1; Разрывающий измерения диск × 1; Гневокрыл × 1; Серафим × 1; Мерзкая энергия × 10",
         "station": "Космическое горнило"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "EtherealTalisman": {
       "id": "EtherealTalisman",
@@ -40802,7 +41042,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories/EtherealTalisman.cs",
         "text": "Печать Каламитас × 1; Эссенция восходящего духа × 4; Цветок маны или Цветок-магнит или Чародейский цветок или Плащ маны × 1",
         "station": "космическая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "Affliction": {
       "id": "Affliction",
@@ -40813,7 +41054,8 @@ window.GUIDE = {
       "how": "Дроп Полтергаста, в том числе из его мешка. Даёт десять процентов урона и максимального здоровья, девять защиты, семь процентов сопротивления урону и регенерацию. Бафф распространяется на членов одной команды; несколько одинаковых баффов не суммируются.",
       "source": "CalamityMod 2.2.4: Affliction.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Affliction",
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "NebulousCore": {
       "id": "NebulousCore",
@@ -40824,7 +41066,8 @@ window.GUIDE = {
       "how": "Дроп Пожирателя богов, в том числе из его мешка. Даёт двенадцать процентов общего урона и создаёт дополнительные звёзды. Имеет отдельную механику возрождения с перезарядкой девяносто секунд; возрождение не считается гарантированным обходом принудительно смертельных атак.",
       "source": "CalamityMod 2.2.4: NebulousCore.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Nebulous_Core",
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "ShatteredCommunity": {
       "id": "ShatteredCommunity",
@@ -40836,7 +41079,8 @@ window.GUIDE = {
       "how": "После победы над Верховной ведьмой Каламитас дождаться заселения Каламитас и применить эксгумацию к Сообществу в её меню зачарований. Это преобразование предмета за монеты, не рецепт на станции. Даёт постоянные боевые бонусы и развивает усиление ярости уроном, нанесённым во время ярости, до двадцати пяти уровней. Максимальный бонус не выдаётся сразу. С обычным Сообществом одновременно не надевается; исходный вариант оставлен альтернативой для сравнения без прокачки ярости.",
       "source": "CalamityMod 2.2.4: ShatteredCommunity.cs",
       "url": "https://calamitymod.wiki.gg/wiki/Shattered_Community",
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "BarbariansEssence": {
       "id": "BarbariansEssence",
@@ -40895,7 +41139,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Essences/BarbariansEssence.cs",
         "text": "Рука зомби × 1; Нож на цепи × 1; Ледяной клинок × 1; Амазонка × 1; Боевой гаечный ключ × 1; Террагрим × 1; Тримаранг × 1; Эмблема воина × 1; Освящённый слиток × 5",
         "station": "мастерская инженера"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "SharpshootersEssence": {
       "id": "SharpshootersEssence",
@@ -40956,7 +41201,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Essences/SharpshootersEssence.cs",
         "text": "Пейнтбольное ружьё × 1; Снежковая пушка × 1; Лук кровавого дождя × 1; Гарпун × 1; Бластер феникса × 1; Опчеленительный лук × 1; Лук адского крыла × 1; Эмблема стрелка × 1; Освящённый слиток × 5",
         "station": "мастерская инженера"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "ApprenticesEssence": {
       "id": "ApprenticesEssence",
@@ -41016,7 +41262,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Essences/ApprenticesEssence.cs",
         "text": "Палочка для заморозки × 1; Серый запинатор × 1; Ветродуй × 1; Водяной выстрел × 1; Огнеплеть × 1; Демоническая коса × 1; Эмблема мага × 1; Освящённый слиток × 5; Гнусный шип или Багровый жезл × 1",
         "station": "мастерская инженера"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "OccultistsEssence": {
       "id": "OccultistsEssence",
@@ -41076,7 +41323,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Essences/OccultistsEssence.cs",
         "text": "Посох зяблика × 1; Посох слизня × 1; Посох лягушки-вампира × 1; Гончиус Стрелятиус × 1; Посох шершня × 1; Шипохват × 1; Посох беса × 1; Эмблема призывателя × 1; Освящённый слиток × 5",
         "station": "мастерская инженера"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "OutlawsEssence": {
       "id": "OutlawsEssence",
@@ -41138,7 +41386,8 @@ window.GUIDE = {
         "source": "FargowiltasCrossmod/FargowiltasCrossmod.Content.Calamity.Items.Accessories.Essences/OutlawsEssence.cs",
         "text": "Отскакивающее глазное яблоко × 1; Заражённый когтеранг × 1; Метеоритный кулак × 1; Споровый нож × 1; Затвердевшие соты × 1; Инфернальный крис × 1; Эмблема разбойника × 1; Освящённый слиток × 5; Позолоченный или Сверкающий кинжал × 1",
         "station": "мастерская инженера"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "SpectreEnchant": {
       "id": "SpectreEnchant",
@@ -41177,7 +41426,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Enchantments/SpectreEnchant.cs",
         "text": "Ископаемое усиление × 1; Спектральное одеяние × 1; Спектральные штаны × 1; Спектральный посох × 1; спектральная маска или капюшон × 1",
         "station": "хрустальный шар"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "HallowEnchant": {
       "id": "HallowEnchant",
@@ -41222,7 +41472,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Enchantments/HallowEnchant.cs",
         "text": "Освящённые латы × 1; Освящённые поножи × 1; Волшебный колокольчик × 1; Освящённое турнирное копьё × 1; Щит Сержанта Единства × 1; любой святой головной убор × 1",
         "station": "хрустальный шар"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "BeetleEnchant": {
       "id": "BeetleEnchant",
@@ -41269,7 +41520,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Enchantments/BeetleEnchant.cs",
         "text": "Жучий шлем × 1; Жучьи поножи × 1; Жучьи крылья × 1; Пчелиные крылья × 1; Крылья бабочки × 1; жучья кольчуга или панцирь × 1",
         "station": "хрустальный шар"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "OrichalcumEnchant": {
       "id": "OrichalcumEnchant",
@@ -41313,7 +41565,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Enchantments/OrichalcumEnchant.cs",
         "text": "Орихалковый нагрудник × 1; Орихалковые поножи × 1; Цветок огня × 1; Цветок мороза × 1; Проклятые огни × 1; любой орихалковый головной убор × 1",
         "station": "хрустальный шар"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "MythrilEnchant": {
       "id": "MythrilEnchant",
@@ -41356,7 +41609,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Enchantments/MythrilEnchant.cs",
         "text": "Мифриловая кольчуга × 1; Мифриловые поножи × 1; Заводная штурмовая винтовка × 1; Гатлигатор × 1; Ониксовый бластер × 1; любой мифриловый головной убор × 1",
         "station": "хрустальный шар"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "AdamantiteEnchant": {
       "id": "AdamantiteEnchant",
@@ -41401,7 +41655,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Enchantments/AdamantiteEnchant.cs",
         "text": "Адамантитовый нагрудник × 1; Адамантитовые поножи × 1; Обрез × 1; Четырёхствольный дробовик × 1; Протазан тьмы × 1; любой адамантитовый головной убор × 1",
         "station": "хрустальный шар"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "TikiEnchant": {
       "id": "TikiEnchant",
@@ -41444,7 +41699,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Enchantments/TikiEnchant.cs",
         "text": "Маска тики × 1; Рубашка тики × 1; Штаны тики × 1; Духовое ружьё × 1; Посох пигмея × 1; Пиратский посох × 1",
         "station": "хрустальный шар"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "SpookyEnchant": {
       "id": "SpookyEnchant",
@@ -41488,7 +41744,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Enchantments/SpookyEnchant.cs",
         "text": "Жуткий шлем × 1; Жуткий нагрудник × 1; Жуткие поножи × 1; Бензопила мясника × 1; Коса смерти × 1; Посох ворона × 1",
         "station": "хрустальный шар"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "StarlightWings": {
       "id": "StarlightWings",
@@ -41517,7 +41774,8 @@ window.GUIDE = {
         "source": "CalamityMod/CalamityMod.Items.Accessories.Wings/StarlightWings.cs",
         "text": "Эссенция полёта × 20; Крионитовый слиток × 10",
         "station": "мифриловая или орихалковая наковальня"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "SolarEnchant": {
       "id": "SolarEnchant",
@@ -41561,7 +41819,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Enchantments/SolarEnchant.cs",
         "text": "Шлем солнечной вспышки × 1; Нагрудник солнечной вспышки × 1; Поножи солнечной вспышки × 1; Рассвет × 1; Солнечный выброс × 1; Звёздный гнев × 1",
         "station": "Древний манипулятор"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "VortexEnchant": {
       "id": "VortexEnchant",
@@ -41605,7 +41864,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Enchantments/VortexEnchant.cs",
         "text": "Вихревой шлем × 1; Вихревой нагрудник × 1; Вихревые ботинки × 1; Вихревой миксер × 1; Фантазм × 1; К.П.Д. × 1",
         "station": "Древний манипулятор"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "NebulaEnchant": {
       "id": "NebulaEnchant",
@@ -41649,7 +41909,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Enchantments/NebulaEnchant.cs",
         "text": "Шлем туманности × 1; Нагрудник туманности × 1; Ботинки туманности × 1; Туманный арканум × 1; Вспышка туманности × 1; Лунная вспышка × 1",
         "station": "Древний манипулятор"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "StardustEnchant": {
       "id": "StardustEnchant",
@@ -41693,7 +41954,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Enchantments/StardustEnchant.cs",
         "text": "Шлем звёздной пыли × 1; Нагрудник звёздной пыли × 1; Ботинки звёздной пыли × 1; Посох клетки звёздной пыли × 1; Посох дракона звёздной пыли × 1; Радужный кристальный посох × 1",
         "station": "Древний манипулятор"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "ShroomiteEnchant": {
       "id": "ShroomiteEnchant",
@@ -41739,7 +42001,8 @@ window.GUIDE = {
         "source": "FargowiltasSouls/FargowiltasSouls.Content.Items.Accessories.Enchantments/ShroomiteEnchant.cs",
         "text": "Грибнитовый нагрудник × 1; Грибнитовые поножи × 1; Грибное копьё × 1; Узи × 1; Боевой дробовик × 1; любой грибнитовый головной убор × 1",
         "station": "хрустальный шар"
-      }
+      },
+      "wikiLabel": "Страница предмета ↗"
     },
     "platinum": {
       "id": "platinum",
@@ -41747,10 +42010,11 @@ window.GUIDE = {
       "requires": [],
       "how": "Крафт из платиновых слитков; в золотом мире допустим полный золотой комплект. Состав комплекта: Платиновый шлем, Платиновая кольчуга, Платиновые поножи.",
       "source": "Terraria — все части комплекта",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Armor:~:text=Platinum%20armor",
+      "url": "https://terraria.wiki.gg/wiki/Platinum_armor",
       "recipes": [],
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "jungle": {
       "id": "jungle",
@@ -41758,10 +42022,11 @@ window.GUIDE = {
       "requires": [],
       "how": "Крафт из материалов подземных джунглей на наковальне. Состав комплекта: Шляпа джунглей, Рубашка джунглей, Штаны джунглей.",
       "source": "Terraria — все части комплекта",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Armor:~:text=Jungle%20armor",
+      "url": "https://terraria.wiki.gg/wiki/Jungle_armor",
       "recipes": [],
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "wulfrum": {
       "id": "wulfrum",
@@ -41823,7 +42088,8 @@ window.GUIDE = {
           "station": "железная или свинцовая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "desert-rogue": {
       "id": "desert-rogue",
@@ -41885,7 +42151,8 @@ window.GUIDE = {
           "station": "ткацкий станок"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "snow-ranged": {
       "id": "snow-ranged",
@@ -41959,7 +42226,8 @@ window.GUIDE = {
           "station": "железная или свинцовая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "sulphurous-rogue": {
       "id": "sulphurous-rogue",
@@ -42023,7 +42291,8 @@ window.GUIDE = {
           "station": "железная или свинцовая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "molten": {
       "id": "molten",
@@ -42033,10 +42302,11 @@ window.GUIDE = {
       ],
       "how": "Добыть адскую руду, переплавить с обсидианом в адской печи, собрать комплект на наковальне. Состав комплекта: Раскалённый шлем, Раскалённый нагрудник, Раскалённые ботинки.",
       "source": "Terraria — все части комплекта",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Armor:~:text=Molten%20armor",
+      "url": "https://terraria.wiki.gg/wiki/Molten_armor",
       "recipes": [],
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "necro": {
       "id": "necro",
@@ -42046,10 +42316,11 @@ window.GUIDE = {
       ],
       "how": "Крафт из костей и паутины после доступа к Темнице. Состав комплекта: Некрошлем, Некронагрудник, Некропоножи.",
       "source": "Terraria — все части комплекта",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Armor:~:text=Necro%20armor",
+      "url": "https://terraria.wiki.gg/wiki/Necro_armor",
       "recipes": [],
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "spider": {
       "id": "spider",
@@ -42059,10 +42330,11 @@ window.GUIDE = {
       ],
       "how": "Крафт из клыков чёрных отшельников хардмода. Состав комплекта: Паучья маска, Паучий нагрудник, Паучьи поножи.",
       "source": "Terraria — все части комплекта",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Armor:~:text=Spider%20armor",
+      "url": "https://terraria.wiki.gg/wiki/Spider_armor",
       "recipes": [],
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "turtle": {
       "id": "turtle",
@@ -42074,7 +42346,7 @@ window.GUIDE = {
       ],
       "how": "В этой сборке черепашья броня улучшается из хлорофитовой, а не крафтится напрямую из слитков: это изменение мода переработки мира. Для шлема выбрана хлорофитовая маска; нужны также хлорофитовые нагрудник и поножи. На три части расходуется шесть, двенадцать и девять черепашьих панцирей соответственно. Станция — мифриловая или орихалковая наковальня.",
       "source": "Terraria — все части комплекта",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Armor:~:text=Turtle%20armor",
+      "url": "https://terraria.wiki.gg/wiki/Turtle_armor",
       "recipes": [
         {
           "part": "Черепаший шлем",
@@ -42129,7 +42401,8 @@ window.GUIDE = {
         }
       ],
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "shroomite": {
       "id": "shroomite",
@@ -42142,10 +42415,11 @@ window.GUIDE = {
       ],
       "how": "Купить Автомолот у Трюфеля после Плантеры; сделать грибонит из хлорофита и грибов. Для основного лука поменять маску на грибонитовый головной убор. Состав комплекта: Грибнитовая маска, Грибнитовый нагрудник, Грибнитовые поножи.",
       "source": "Terraria — все части комплекта",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Armor:~:text=Shroomite%20armor",
+      "url": "https://terraria.wiki.gg/wiki/Shroomite_armor",
       "recipes": [],
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "spectre": {
       "id": "spectre",
@@ -42158,10 +42432,11 @@ window.GUIDE = {
       ],
       "how": "Крафт из спектральных слитков: хлорофит и эктоплазма из усиленной Темницы. Состав комплекта: Спектральная маска, Спектральное одеяние, Спектральные штаны.",
       "source": "Terraria — все части комплекта",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Armor:~:text=Spectre%20armor",
+      "url": "https://terraria.wiki.gg/wiki/Spectre_armor",
       "recipes": [],
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "tiki": {
       "id": "tiki",
@@ -42171,10 +42446,11 @@ window.GUIDE = {
       ],
       "how": "Купить полный комплект у Знахаря после Плантеры. Состав комплекта: Маска тики, Рубашка тики, Штаны тики.",
       "source": "Terraria — все части комплекта",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Armor:~:text=Tiki%20armor",
+      "url": "https://terraria.wiki.gg/wiki/Tiki_armor",
       "recipes": [],
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "spooky": {
       "id": "spooky",
@@ -42185,10 +42461,11 @@ window.GUIDE = {
       ],
       "how": "Скрафтить из жуткой древесины, нафармленной в Тыквенной луне. Состав комплекта: Жуткий шлем, Жуткий нагрудник, Жуткие поножи.",
       "source": "Terraria — все части комплекта",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Armor:~:text=Spooky%20armor",
+      "url": "https://terraria.wiki.gg/wiki/Spooky_armor",
       "recipes": [],
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "beetle": {
       "id": "beetle",
@@ -42201,7 +42478,7 @@ window.GUIDE = {
       ],
       "how": "Мод Фарго заменяет черепашью броню в рецептах жучьей на хлорофитовую: маска, нагрудник и поножи плюс жучьи панцири с Голема. Крафт на мифриловой или орихалковой наковальне. Для воина здесь выбран вариант нагрудника с защитой.",
       "source": "Terraria — все части комплекта",
-      "url": "https://fargosmods.wiki.gg/wiki/Vanilla_Changes#:~:text=Beetle",
+      "url": "https://terraria.wiki.gg/wiki/Beetle_armor",
       "recipes": [
         {
           "part": "Жучий шлем",
@@ -42256,7 +42533,8 @@ window.GUIDE = {
         }
       ],
       "recipe": null,
-      "wikiLabel": "Изменение рецепта в вики Фарго ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "palladium-melee": {
       "id": "palladium-melee",
@@ -42266,10 +42544,11 @@ window.GUIDE = {
       ],
       "how": "Добыть палладий в хардмоде, сделать слитки и полный классовый комплект. Состав комплекта: Палладиевая маска, Палладиевый нагрудник, Палладиевые поножи.",
       "source": "Terraria — все части комплекта",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Armor:~:text=Palladium%20armor",
+      "url": "https://terraria.wiki.gg/wiki/Palladium_armor",
       "recipes": [],
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "palladium-ranged": {
       "id": "palladium-ranged",
@@ -42279,10 +42558,11 @@ window.GUIDE = {
       ],
       "how": "Добыть палладий в хардмоде, сделать слитки и полный классовый комплект. Состав комплекта: Палладиевый шлем, Палладиевый нагрудник, Палладиевые поножи.",
       "source": "Terraria — все части комплекта",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Armor:~:text=Palladium%20armor",
+      "url": "https://terraria.wiki.gg/wiki/Palladium_armor",
       "recipes": [],
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "palladium-magic": {
       "id": "palladium-magic",
@@ -42292,10 +42572,11 @@ window.GUIDE = {
       ],
       "how": "Добыть палладий в хардмоде, сделать слитки и полный классовый комплект. Состав комплекта: Палладиевый головной убор, Палладиевый нагрудник, Палладиевые поножи.",
       "source": "Terraria — все части комплекта",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Armor:~:text=Palladium%20armor",
+      "url": "https://terraria.wiki.gg/wiki/Palladium_armor",
       "recipes": [],
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "victide-melee": {
       "id": "victide-melee",
@@ -42347,7 +42628,8 @@ window.GUIDE = {
           "station": "железная или свинцовая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "victide-ranged": {
       "id": "victide-ranged",
@@ -42399,7 +42681,8 @@ window.GUIDE = {
           "station": "железная или свинцовая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "victide-magic": {
       "id": "victide-magic",
@@ -42451,7 +42734,8 @@ window.GUIDE = {
           "station": "железная или свинцовая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "victide-rogue": {
       "id": "victide-rogue",
@@ -42503,7 +42787,8 @@ window.GUIDE = {
           "station": "железная или свинцовая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "victide-summon": {
       "id": "victide-summon",
@@ -42555,7 +42840,8 @@ window.GUIDE = {
           "station": "железная или свинцовая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "aerospec-melee": {
       "id": "aerospec-melee",
@@ -42619,7 +42905,8 @@ window.GUIDE = {
           "station": "железная или свинцовая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "statigel-melee": {
       "id": "statigel-melee",
@@ -42684,7 +42971,8 @@ window.GUIDE = {
           "station": "затвердитель"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "daedalus-melee": {
       "id": "daedalus-melee",
@@ -42738,7 +43026,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "hydro-melee": {
       "id": "hydro-melee",
@@ -42792,7 +43081,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "tarragon-melee": {
       "id": "tarragon-melee",
@@ -42858,7 +43148,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "bloodflare-melee": {
       "id": "bloodflare-melee",
@@ -42936,7 +43227,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "auric-melee": {
       "id": "auric-melee",
@@ -43035,7 +43327,8 @@ window.GUIDE = {
           "station": "космическая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "aerospec-ranged": {
       "id": "aerospec-ranged",
@@ -43099,7 +43392,8 @@ window.GUIDE = {
           "station": "железная или свинцовая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "statigel-ranged": {
       "id": "statigel-ranged",
@@ -43164,7 +43458,8 @@ window.GUIDE = {
           "station": "затвердитель"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "daedalus-ranged": {
       "id": "daedalus-ranged",
@@ -43218,7 +43513,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "tarragon-ranged": {
       "id": "tarragon-ranged",
@@ -43284,7 +43580,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "bloodflare-ranged": {
       "id": "bloodflare-ranged",
@@ -43362,7 +43659,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "auric-ranged": {
       "id": "auric-ranged",
@@ -43461,7 +43759,8 @@ window.GUIDE = {
           "station": "космическая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "aerospec-magic": {
       "id": "aerospec-magic",
@@ -43525,7 +43824,8 @@ window.GUIDE = {
           "station": "железная или свинцовая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "statigel-magic": {
       "id": "statigel-magic",
@@ -43590,7 +43890,8 @@ window.GUIDE = {
           "station": "затвердитель"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "daedalus-magic": {
       "id": "daedalus-magic",
@@ -43644,7 +43945,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "hydro-magic": {
       "id": "hydro-magic",
@@ -43698,7 +44000,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "tarragon-magic": {
       "id": "tarragon-magic",
@@ -43764,7 +44067,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "bloodflare-magic": {
       "id": "bloodflare-magic",
@@ -43842,7 +44146,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "auric-magic": {
       "id": "auric-magic",
@@ -43941,7 +44246,8 @@ window.GUIDE = {
           "station": "космическая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "aerospec-rogue": {
       "id": "aerospec-rogue",
@@ -44005,7 +44311,8 @@ window.GUIDE = {
           "station": "железная или свинцовая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "statigel-rogue": {
       "id": "statigel-rogue",
@@ -44070,7 +44377,8 @@ window.GUIDE = {
           "station": "затвердитель"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "daedalus-rogue": {
       "id": "daedalus-rogue",
@@ -44124,7 +44432,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "hydro-rogue": {
       "id": "hydro-rogue",
@@ -44178,7 +44487,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "tarragon-rogue": {
       "id": "tarragon-rogue",
@@ -44244,7 +44554,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "bloodflare-rogue": {
       "id": "bloodflare-rogue",
@@ -44322,7 +44633,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "auric-rogue": {
       "id": "auric-rogue",
@@ -44421,7 +44733,8 @@ window.GUIDE = {
           "station": "космическая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "aerospec-summon": {
       "id": "aerospec-summon",
@@ -44485,7 +44798,8 @@ window.GUIDE = {
           "station": "железная или свинцовая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "statigel-summon": {
       "id": "statigel-summon",
@@ -44550,7 +44864,8 @@ window.GUIDE = {
           "station": "затвердитель"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "daedalus-summon": {
       "id": "daedalus-summon",
@@ -44604,7 +44919,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "hydro-summon": {
       "id": "hydro-summon",
@@ -44658,7 +44974,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "tarragon-summon": {
       "id": "tarragon-summon",
@@ -44724,7 +45041,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "bloodflare-summon": {
       "id": "bloodflare-summon",
@@ -44802,7 +45120,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "auric-summon": {
       "id": "auric-summon",
@@ -44901,7 +45220,8 @@ window.GUIDE = {
           "station": "космическая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "titanheart": {
       "id": "titanheart",
@@ -44965,7 +45285,8 @@ window.GUIDE = {
           "station": "железная или свинцовая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "umbraphile": {
       "id": "umbraphile",
@@ -45034,7 +45355,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "plague-ranged": {
       "id": "plague-ranged",
@@ -45113,7 +45435,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "plague-summon": {
       "id": "plague-summon",
@@ -45200,7 +45523,8 @@ window.GUIDE = {
           "station": "мифриловая или орихалковая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "empyrean": {
       "id": "empyrean",
@@ -45266,7 +45590,8 @@ window.GUIDE = {
           "station": "Древний манипулятор"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "godslayer-melee": {
       "id": "godslayer-melee",
@@ -45332,7 +45657,8 @@ window.GUIDE = {
           "station": "космическая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "godslayer-ranged": {
       "id": "godslayer-ranged",
@@ -45398,7 +45724,8 @@ window.GUIDE = {
           "station": "космическая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "godslayer-rogue": {
       "id": "godslayer-rogue",
@@ -45464,7 +45791,8 @@ window.GUIDE = {
           "station": "космическая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "silva-magic": {
       "id": "silva-magic",
@@ -45543,7 +45871,8 @@ window.GUIDE = {
           "station": "космическая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "silva-summon": {
       "id": "silva-summon",
@@ -45622,7 +45951,8 @@ window.GUIDE = {
           "station": "космическая наковальня"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "solar": {
       "id": "solar",
@@ -45634,10 +45964,11 @@ window.GUIDE = {
       ],
       "how": "Крафт из соответствующих лунных фрагментов и люминитовых слитков после Лунного лорда. Состав комплекта: Шлем солнечной вспышки, Нагрудник солнечной вспышки, Поножи солнечной вспышки.",
       "source": "Terraria — все части комплекта",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Armor:~:text=Solar%20Flare%20armor",
+      "url": "https://terraria.wiki.gg/wiki/Solar_Flare_armor",
       "recipes": [],
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "vortex": {
       "id": "vortex",
@@ -45649,10 +45980,11 @@ window.GUIDE = {
       ],
       "how": "Крафт из соответствующих лунных фрагментов и люминитовых слитков после Лунного лорда. Состав комплекта: Вихревой шлем, Вихревой нагрудник, Вихревые ботинки.",
       "source": "Terraria — все части комплекта",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Armor:~:text=Vortex%20armor",
+      "url": "https://terraria.wiki.gg/wiki/Vortex_armor",
       "recipes": [],
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "nebula": {
       "id": "nebula",
@@ -45664,10 +45996,11 @@ window.GUIDE = {
       ],
       "how": "Крафт из соответствующих лунных фрагментов и люминитовых слитков после Лунного лорда. Состав комплекта: Шлем туманности, Нагрудник туманности, Ботинки туманности.",
       "source": "Terraria — все части комплекта",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Armor:~:text=Nebula%20armor",
+      "url": "https://terraria.wiki.gg/wiki/Nebula_armor",
       "recipes": [],
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "stardust": {
       "id": "stardust",
@@ -45679,10 +46012,11 @@ window.GUIDE = {
       ],
       "how": "Крафт из соответствующих лунных фрагментов и люминитовых слитков после Лунного лорда. Состав комплекта: Шлем звёздной пыли, Нагрудник звёздной пыли, Ботинки звёздной пыли.",
       "source": "Terraria — все части комплекта",
-      "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes#Armor:~:text=Stardust%20armor",
+      "url": "https://terraria.wiki.gg/wiki/Stardust_armor",
       "recipes": [],
       "recipe": null,
-      "wikiLabel": "Предмет в изменениях основной сборки ↗"
+      "wikiLabel": "Страница предмета в Terraria Wiki ↗",
+      "wikiNote": "Это страница ванильного предмета. Рецепт и условия для этой сборки указаны выше с учётом изменений модов."
     },
     "demonshade": {
       "id": "demonshade",
@@ -45740,7 +46074,8 @@ window.GUIDE = {
           "station": "кузня Дрэйдона"
         }
       ],
-      "recipe": null
+      "recipe": null,
+      "wikiLabel": "Страница предмета ↗"
     },
     "EternitySoul": {
       "id": "EternitySoul",
@@ -81791,25 +82126,25 @@ window.GUIDE = {
           "id": "life-crystals",
           "title": "Доведи здоровье до 400",
           "text": "Найди и используй 15 кристаллов жизни: от начальных 100 до 400 здоровья. Это цель подготовки к сложным боям до хардмода; сначала исследуй пещеры и усиливайся постепенно.",
-          "url": "https://calamitymod.wiki.gg/wiki/Permanent_power-ups"
+          "url": null
         },
         {
           "id": "mana-crystals",
           "title": "Магическим классам — 200 маны",
           "text": "Используй 9 кристаллов маны; на них нужно 27 упавших звёзд. Магу это основа подготовки, призывателю удобно для повторного призыва. Остальным классам — по желанию.",
-          "url": "https://calamitymod.wiki.gg/wiki/Permanent_power-ups"
+          "url": null
         },
         {
           "id": "arena",
           "title": "Сделай базу и арену",
           "text": "Построй жильё для NPC, поставь сундуки и основные станции. Перед боссами подготовь платформы, костёр, сердечный фонарь, еду и зелья. Длину арены и её форму подбирай под бой.",
-          "url": "https://calamitymod.wiki.gg/wiki/Guide:Class_setups"
+          "url": null
         },
         {
           "id": "early-slots",
           "title": "Проверь отдельные слоты сборки",
           "text": "В Мастере изначально шесть обычных слотов. Wing Slot Extra добавляет отдельный слот крыльев, Expert Accessory Slot — отдельный слот для поддерживаемых экспертных предметов. После Глаза Ктулху клади его щит в слот эксперта. Усиления и эссенции пока занимают обычные слоты.",
-          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+          "url": null
         }
       ],
       "note": ""
@@ -81823,31 +82158,31 @@ window.GUIDE = {
           "id": "shimmer-life",
           "title": "Кристалл живучести",
           "text": "Брось запасной кристалл жизни в шиммер и используй полученный Кристалл живучести: навсегда улучшает естественную регенерацию здоровья. Максимум здоровья не повышает.",
-          "url": "https://calamitymod.wiki.gg/wiki/Permanent_power-ups"
+          "url": null
         },
         {
           "id": "shimmer-mana",
           "title": "Чародейский кристалл",
           "text": "Брось запасной кристалл маны в шиммер и используй Чародейский кристалл: навсегда улучшает регенерацию маны. Особенно полезно магу.",
-          "url": "https://calamitymod.wiki.gg/wiki/Permanent_power-ups"
+          "url": null
         },
         {
           "id": "shimmer-ambrosia",
           "title": "Амброзия",
           "text": "Брось обычный фрукт, например яблоко, в шиммер и съешь Амброзию: постоянный бонус к скорости добычи и строительства.",
-          "url": "https://calamitymod.wiki.gg/wiki/Permanent_power-ups"
+          "url": null
         },
         {
           "id": "shimmer-pearl",
           "title": "Галактическая жемчужина — по возможности",
           "text": "Розовая жемчужина из устрицы → шиммер → Галактическая жемчужина. Используй для постоянной прибавки к удаче; специально откладывать боссов ради редкой жемчужины не нужно.",
-          "url": "https://calamitymod.wiki.gg/wiki/Permanent_power-ups"
+          "url": null
         },
         {
           "id": "shimmer-worm",
           "title": "Мармеладный червяк — для рыбалки",
           "text": "Золотой червяк → шиммер → Мармеладный червяк. Даёт постоянный бонус к силе рыбалки. Это необязательное улучшение.",
-          "url": "https://calamitymod.wiki.gg/wiki/Permanent_power-ups"
+          "url": null
         }
       ],
       "note": "Каждый бонус используется один раз каждым персонажем. Для игры с друзьями нужны отдельные экземпляры на каждого. Из-за Remnants расположение биомов в мире с этой сборкой может отличаться от обычной генерации."
@@ -81914,19 +82249,19 @@ window.GUIDE = {
           "id": "demon-heart",
           "title": "Съешь Сердце демона",
           "text": "Возьми Сердце демона из мешка Стены плоти и используй. В режиме Мастер обычных слотов станет семь. В карточках хардмода это использование предполагается.",
-          "url": "https://calamitymod.wiki.gg/wiki/Vanilla_changes"
+          "url": null
         },
         {
           "id": "life-fruit",
           "title": "Собери 20 фруктов жизни",
           "text": "В Calamity 2.2.4 фрукты жизни растут в подземных джунглях уже с начала хардмода, до первого меха. После 400 здоровья используй 20 штук: получишь 500. Дай растениям время вырасти; это не мгновенное появление при убийстве Стены.",
-          "url": "https://calamitymod.wiki.gg/wiki/Permanent_power-ups"
+          "url": null
         },
         {
           "id": "shimmer-fruit",
           "title": "Ещё один фрукт жизни — в шиммер",
           "text": "Используй полученный Фрукт защиты: навсегда +4 защиты. Для полного набора нужно 20 фруктов жизни на здоровье, один на этот бонус и ещё по одному на каждый из четырёх поздних фруктов Calamity.",
-          "url": "https://calamitymod.wiki.gg/wiki/Permanent_power-ups"
+          "url": null
         },
         {
           "id": "CometShard",
@@ -82051,7 +82386,7 @@ window.GUIDE = {
           "id": "plantera-prep",
           "title": "Обнови экипировку и запас лечения",
           "text": "Можно собирать спектральное усиление из карточки класса. Жуткое усиление появится после добычи жуткой древесины на Тыквенной луне, а Чудо-фрукт ещё требует Голема. Перекуй новые аксессуары, обнови зелья и арену перед следующими боями.",
-          "url": "https://calamitymod.wiki.gg/wiki/Guide:Class_setups"
+          "url": null
         }
       ],
       "note": ""

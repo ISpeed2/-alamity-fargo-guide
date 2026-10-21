@@ -80,6 +80,7 @@
       const names=item.requires.map(id=>bosses.find(b=>b.id===id)?.name || id);
       content.append(element('p',(item.otherWays?.length ? 'Для основного способа: ' : 'Сначала: ')+names.join(', ')+'.','item-prerequisites'));
     }
+    if(item.wikiNote) content.append(element('p',item.wikiNote,'item-prerequisites'));
     content.append(link(item.wikiLabel || 'Страница предмета ↗',item.url));
     detail.append(content);return detail;
   }
@@ -261,7 +262,7 @@
         for(const choice of task.classItems || []) {
           const option=element('div',undefined,'essence-choice');option.append(element('strong',choice.cls),itemDetails(choice.item));block.append(option);
         }
-        block.append(link('Вики '+(task.url.includes('fargosmods')?'Fargo':'Calamity')+' ↗',task.url));section.append(block);
+        if(task.url) block.append(link('Вики '+(task.url.includes('fargosmods')?'Fargo':'Calamity')+' ↗',task.url));section.append(block);
       });target.append(section);
     });
   }
